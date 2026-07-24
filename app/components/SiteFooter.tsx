@@ -19,6 +19,9 @@ export function SiteFooter() {
           <a href={`${basePath}/data/antifa-attributions.json`}>
             ANTIFA attribution data
           </a>
+          <a href={`${basePath}/data/policy-context.json`}>
+            Political framing data
+          </a>
           <a
             href="https://github.com/dtrezise/ActivistDB"
             target="_blank"

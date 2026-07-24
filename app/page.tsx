@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import claimsJson from "@/app/data/claims.json";
+import policyJson from "@/app/data/policy-context.json";
 import { SiteFooter } from "@/app/components/SiteFooter";
 import { SiteHeader } from "@/app/components/SiteHeader";
 
@@ -35,6 +36,17 @@ type Claim = {
 };
 
 const claims = claimsJson as Claim[];
+
+type PolicyContext = {
+  id: string;
+  claim: string;
+  verdict: Verdict;
+  finding: string;
+  significance: string;
+  sources: Source[];
+};
+
+const policyContext = policyJson as PolicyContext[];
 
 const verdictMeta: Record<
   Verdict,
@@ -413,13 +425,84 @@ export default function Home() {
             <div className="section-heading inverse">
               <div>
                 <p className="eyebrow">The administration’s push</p>
-                <h2>From label to enforcement architecture</h2>
+                <h2>From campaign frame to enforcement architecture</h2>
               </div>
               <p>
-                These actions are real. Their legal effect—and the evidence
-                behind their broadest premises—are separate questions.
+                The political category expands beyond people accused of
+                violence. Two days before Rubio’s summit, House leadership
+                framed democratic-socialist candidates as communist enemies
+                already inside the country.
               </p>
             </div>
+            <article className="framing-brief">
+              <div>
+                <time>July 14, 2026</time>
+                <p className="panel-kicker">The missing starting document</p>
+                <h3>“The barbarians are inside the gate.”</h3>
+              </div>
+              <div>
+                <p>
+                  Speaker Mike Johnson’s official release is not a terrorism
+                  assessment. It is evidence of the electoral frame surrounding
+                  the policy push. Johnson accurately quotes several radical
+                  proposals in DSA’s new program, then conflates democratic
+                  socialism with communism, treats policy advocacy as an
+                  internal civilizational threat, and offers no evidence tying
+                  DSA candidates to terrorist violence.
+                </p>
+                <div className="source-links">
+                  <a
+                    href="https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Speaker Johnson’s release ↗
+                  </a>
+                  <a
+                    href="https://program.dsausa.org/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Read the DSA program ↗
+                  </a>
+                  <a
+                    href="https://apnews.com/article/5381c24e8eb4235ae993e812ad45ffbd"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    AP — Midterm messaging context ↗
+                  </a>
+                </div>
+              </div>
+            </article>
+            <div className="policy-audit-grid">
+              {policyContext.map((item) => (
+                <article key={item.id}>
+                  <span className={`verdict verdict-${item.verdict}`}>
+                    {verdictMeta[item.verdict].label}
+                  </span>
+                  <h3>{item.claim}</h3>
+                  <p>{item.finding}</p>
+                  <details>
+                    <summary>Why the distinction matters</summary>
+                    <p>{item.significance}</p>
+                    <div className="source-links">
+                      {item.sources.map((source) => (
+                        <a
+                          href={source.url}
+                          target="_blank"
+                          rel="noreferrer"
+                          key={source.url}
+                        >
+                          {source.label} ↗
+                        </a>
+                      ))}
+                    </div>
+                  </details>
+                </article>
+              ))}
+            </div>
+            <p className="timeline-label">Enforcement timeline</p>
             <div className="timeline">
               <article>
                 <time>Sep. 2025</time>

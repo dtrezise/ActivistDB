@@ -11,8 +11,14 @@ const publicAntifaUrl = new URL(
   "../public/data/antifa-attributions.json",
   import.meta.url,
 );
+const policyUrl = new URL("../app/data/policy-context.json", import.meta.url);
+const publicPolicyUrl = new URL(
+  "../public/data/policy-context.json",
+  import.meta.url,
+);
 const claims = JSON.parse(await readFile(claimsUrl, "utf8"));
 const antifa = await readFile(antifaUrl, "utf8");
+const policy = await readFile(policyUrl, "utf8");
 
 const fields = [
   "number",
@@ -52,5 +58,6 @@ const rows = [
 await Promise.all([
   writeFile(publicClaimsUrl, `${JSON.stringify(claims, null, 2)}\n`),
   writeFile(publicAntifaUrl, antifa),
+  writeFile(publicPolicyUrl, policy),
   writeFile(csvUrl, `${rows.join("\n")}\n`),
 ]);

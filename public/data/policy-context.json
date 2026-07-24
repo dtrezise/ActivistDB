@@ -1,0 +1,91 @@
+[
+  {
+    "id": "dsa-new-constitution",
+    "claim": "DSA wants a new constitution and a democratic socialist republic.",
+    "verdict": "supported",
+    "finding": "The 2026 DSA program explicitly says the organization is fighting to draft a new constitution and create a democratic socialist republic.",
+    "significance": "This is a radical constitutional program by ordinary U.S. standards. It is evidence of DSA’s politics, not evidence that DSA participates in terrorism.",
+    "sources": [
+      {
+        "label": "DSA — Workers Deserve More",
+        "url": "https://program.dsausa.org/"
+      },
+      {
+        "label": "Speaker Johnson — July 14 remarks",
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+      }
+    ]
+  },
+  {
+    "id": "dsa-institutions",
+    "claim": "DSA wants to abolish the Senate and replace the President and Supreme Court.",
+    "verdict": "supported-context",
+    "finding": "The program calls for abolishing the Senate and replacing the President and Supreme Court with an executive and judiciary chosen by and subordinate to Congress.",
+    "significance": "Johnson’s description is substantially accurate. His added claim that this would let “Marxist communists” in the House run everything is a political inference, not language from the program. DSA also calls for multiparty elections, proportional representation, and ranked-choice voting.",
+    "sources": [
+      {
+        "label": "DSA — A Real Democracy",
+        "url": "https://program.dsausa.org/"
+      },
+      {
+        "label": "Speaker Johnson — July 14 remarks",
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+      }
+    ]
+  },
+  {
+    "id": "dsa-police-prisons",
+    "claim": "DSA wants to abolish the police and prisons.",
+    "verdict": "supported",
+    "finding": "The program describes demilitarization, weaker police unions, and redirected funding as steps toward “fully abolishing the police and prison system.”",
+    "significance": "This accurately identifies an explicit long-term DSA objective. A policy goal to abolish institutions, however controversial, is protected political advocacy unless joined to evidence of criminal conduct.",
+    "sources": [
+      {
+        "label": "DSA — End Mass Incarceration and Police Immunity",
+        "url": "https://program.dsausa.org/"
+      },
+      {
+        "label": "Speaker Johnson — July 14 remarks",
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+      }
+    ]
+  },
+  {
+    "id": "dsa-borders-amnesty",
+    "claim": "DSA wants to abolish all borders and grant amnesty even to terrorists and hardened criminals.",
+    "verdict": "misleading",
+    "finding": "The program calls for legalizing migration, amnesty for all immigrants regardless of status, citizenship for permanent residents, and ending visa caps and quotas. It does not say “abolish all borders,” nor does it expressly demand admission or amnesty for terrorists and dangerous criminals.",
+    "significance": "Johnson turns a sweeping immigration position into a more absolute and inflammatory claim than the text supports.",
+    "sources": [
+      {
+        "label": "DSA — Abolish ICE",
+        "url": "https://program.dsausa.org/"
+      },
+      {
+        "label": "Speaker Johnson — July 14 remarks",
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+      }
+    ]
+  },
+  {
+    "id": "democratic-party-takeover",
+    "claim": "Communist candidates are taking over the Democratic Party.",
+    "verdict": "unsupported",
+    "finding": "Johnson identifies no membership count, leadership vote, party-rule change, candidate list, or other measure demonstrating a communist takeover. DSA describes itself as democratic socialist and criticizes the Democratic Party as funded by the same capitalist interests as Republicans.",
+    "significance": "This is campaign framing rather than a demonstrated organizational fact. It also collapses democratic socialism, Marxism, and Soviet-style communism into one category.",
+    "sources": [
+      {
+        "label": "DSA — Our Perspective",
+        "url": "https://program.dsausa.org/"
+      },
+      {
+        "label": "AP — Republican communist messaging",
+        "url": "https://apnews.com/article/5381c24e8eb4235ae993e812ad45ffbd"
+      },
+      {
+        "label": "Speaker Johnson — July 14 remarks",
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+      }
+    ]
+  }
+]

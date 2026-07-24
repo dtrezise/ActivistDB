@@ -47,12 +47,16 @@ test("server-renders the Antifa research dossier", async () => {
 });
 
 test("research data is complete and source-linked", async () => {
-  const [claims, antifa] = await Promise.all([
+  const [claims, antifa, policy] = await Promise.all([
     readFile(new URL("../app/data/claims.json", import.meta.url), "utf8").then(
       JSON.parse,
     ),
     readFile(
       new URL("../app/data/antifa-attributions.json", import.meta.url),
+      "utf8",
+    ).then(JSON.parse),
+    readFile(
+      new URL("../app/data/policy-context.json", import.meta.url),
       "utf8",
     ).then(JSON.parse),
   ]);
@@ -69,4 +73,6 @@ test("research data is complete and source-linked", async () => {
   assert.ok(antifa.length >= 13);
   assert.ok(antifa.some((item) => item.status === "confirmed"));
   assert.ok(antifa.some((item) => item.status === "false"));
+  assert.equal(policy.length, 5);
+  assert.ok(policy.every((item) => item.sources.length > 0));
 });

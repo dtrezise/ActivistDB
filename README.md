@@ -22,6 +22,7 @@ false claims.
 - `public/data/claims.json` — all 30 speech-claim records
 - `public/data/claims.csv` — generated spreadsheet-ready export
 - `public/data/antifa-attributions.json` — ANTIFA attribution audit
+- `public/data/policy-context.json` — political-framing and policy audit
 - `public/data/rubio-speech-transcript.txt` — supplied source transcript
 
 Each record links to its supporting sources. Recent defendants are presumed
