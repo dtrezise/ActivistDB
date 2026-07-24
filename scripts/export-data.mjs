@@ -1,8 +1,18 @@
 import { readFile, writeFile } from "node:fs/promises";
 
-const claimsUrl = new URL("../public/data/claims.json", import.meta.url);
+const claimsUrl = new URL("../app/data/claims.json", import.meta.url);
+const publicClaimsUrl = new URL("../public/data/claims.json", import.meta.url);
 const csvUrl = new URL("../public/data/claims.csv", import.meta.url);
+const antifaUrl = new URL(
+  "../app/data/antifa-attributions.json",
+  import.meta.url,
+);
+const publicAntifaUrl = new URL(
+  "../public/data/antifa-attributions.json",
+  import.meta.url,
+);
 const claims = JSON.parse(await readFile(claimsUrl, "utf8"));
+const antifa = await readFile(antifaUrl, "utf8");
 
 const fields = [
   "number",
@@ -39,4 +49,8 @@ const rows = [
   ),
 ];
 
-await writeFile(csvUrl, `${rows.join("\n")}\n`);
+await Promise.all([
+  writeFile(publicClaimsUrl, `${JSON.stringify(claims, null, 2)}\n`),
+  writeFile(publicAntifaUrl, antifa),
+  writeFile(csvUrl, `${rows.join("\n")}\n`),
+]);

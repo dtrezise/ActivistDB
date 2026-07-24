@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import attributionsJson from "@/public/data/antifa-attributions.json";
+import attributionsJson from "@/app/data/antifa-attributions.json";
 import { SiteFooter } from "@/app/components/SiteFooter";
 import { SiteHeader } from "@/app/components/SiteHeader";
 

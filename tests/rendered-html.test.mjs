@@ -48,11 +48,11 @@ test("server-renders the Antifa research dossier", async () => {
 
 test("research data is complete and source-linked", async () => {
   const [claims, antifa] = await Promise.all([
-    readFile(new URL("../public/data/claims.json", import.meta.url), "utf8").then(
+    readFile(new URL("../app/data/claims.json", import.meta.url), "utf8").then(
       JSON.parse,
     ),
     readFile(
-      new URL("../public/data/antifa-attributions.json", import.meta.url),
+      new URL("../app/data/antifa-attributions.json", import.meta.url),
       "utf8",
     ).then(JSON.parse),
   ]);
