@@ -1,0 +1,181 @@
+[
+  {
+    "id": "prairieland-2025",
+    "date": "2025-07-04",
+    "title": "Prairieland ICE detention-center attack",
+    "status": "confirmed",
+    "claim": "An organized Antifa cell used firearms, explosives, and coordinated tactics against an ICE facility and responding police.",
+    "evidence": "A federal jury convicted nine defendants in March 2026. Prosecutors introduced encrypted planning messages, ideological materials, weapons, fireworks, and evidence that an officer was shot in an ambush.",
+    "attribution": "This is the strongest recent U.S. evidence for a self-consciously Antifa-aligned cell committing organized political violence. The convictions support the cell-level attribution; they do not by themselves prove a national organization.",
+    "scope": "Local cell; criminal conspiracy proven at trial",
+    "sources": [
+      {"label": "DOJ — Nine Antifa cell members convicted", "url": "https://www.justice.gov/opa/pr/antifa-cell-members-convicted-prairieland-ice-detention-center-shooting"},
+      {"label": "AP — Expanded indictment and allegations", "url": "https://apnews.com/article/5f47df0c81c845b5b1e48c7095040129"}
+    ]
+  },
+  {
+    "id": "van-spronsen-2019",
+    "date": "2019-07-13",
+    "title": "Willem Van Spronsen’s attack on a Tacoma ICE facility",
+    "status": "confirmed",
+    "claim": "A self-identified Antifa supporter attacked an immigration detention facility.",
+    "evidence": "Van Spronsen arrived armed with a rifle and incendiary devices, set a vehicle on fire, and attempted to ignite a large propane tank before police killed him.",
+    "attribution": "Attribution to an individual Antifa supporter is supported. No evidence cited by investigators showed that a larger Antifa organization ordered the attack.",
+    "scope": "Lone actor with movement identification",
+    "sources": [
+      {"label": "CSIS — Examining Extremism: Antifa", "url": "https://www.csis.org/blogs/examining-extremism/examining-extremism-antifa"}
+    ]
+  },
+  {
+    "id": "reinoehl-2020",
+    "date": "2020-08-29",
+    "title": "Killing of Aaron Danielson in Portland",
+    "status": "supported",
+    "claim": "A self-described Antifa supporter killed a right-wing protest participant.",
+    "evidence": "Police obtained an arrest warrant for Michael Reinoehl in Danielson’s shooting. Reinoehl called himself “100% ANTIFA” and claimed self-defense in an interview; federal officers killed him before the case could be tried.",
+    "attribution": "The individual’s identification and suspected act are supported, but guilt and self-defense were never adjudicated. There is no public evidence that a national or local Antifa group directed the shooting.",
+    "scope": "Individual attribution; no trial",
+    "sources": [
+      {"label": "DOJ — Statement on Michael Reinoehl", "url": "https://www.justice.gov/opa/pr/statement-attorney-general-william-p-barr-tracking-down-fugitive-michael-forest-reinoehl"},
+      {"label": "DOJ testimony — Domestic terrorism cases", "url": "https://www.justice.gov/d9/testimonies/witnesses/attachments/2022/08/09/2021.04.29_doj-nsd_daag_wiegmann_testimony.pdf"}
+    ]
+  },
+  {
+    "id": "portland-protests-2020",
+    "date": "2020-05-29",
+    "title": "Violence during Portland’s 2020 protests",
+    "status": "mixed",
+    "claim": "Antifa was responsible for the Portland disorder.",
+    "evidence": "Militant antifascists were present and some participants engaged in arson, vandalism, assaults, and repeated confrontations at the federal courthouse. Many other protesters were unaffiliated and peaceful, and criminal cases generally charged individual conduct rather than membership.",
+    "attribution": "Specific acts can be attributed when evidence identifies an offender and motive. “Antifa caused Portland” is too broad: it converts a heterogeneous protest wave and months of separate events into one actor.",
+    "scope": "Mixed movement, event, and individual conduct",
+    "sources": [
+      {"label": "DOJ — 74 federal Portland cases", "url": "https://www.justice.gov/usao-or/pr/74-people-facing-federal-charges-crimes-committed-during-portland-demonstrations"},
+      {"label": "ISD — U.S. Antifa groups", "url": "https://www.isdglobal.org/isd-explainer/us-antifa-groups/"}
+    ]
+  },
+  {
+    "id": "berkeley-2017",
+    "date": "2017-08-27",
+    "title": "Antifascist assaults at Berkeley protests",
+    "status": "supported",
+    "claim": "Black-clad antifascist activists assaulted political opponents and journalists.",
+    "evidence": "Video, eyewitness reporting, arrests, and movement participants’ own accounts document assaults and property destruction during several Berkeley confrontations.",
+    "attribution": "Violent conduct by some antifascist participants is real. Black clothing alone is not proof of group membership, and “black bloc” is a tactic available to many protesters, not an organization.",
+    "scope": "Participant-level attribution",
+    "sources": [
+      {"label": "TIME — Battle in Berkeley", "url": "https://time.com/4800813/battle-berkeley-free-speech/"},
+      {"label": "CRS — Antifa background and classification", "url": "https://www.congress.gov/crs-product/IF10839"}
+    ]
+  },
+  {
+    "id": "direct-action-minnesota-2026",
+    "date": "2026-06-16",
+    "title": "Direct Action Minnesota indictment",
+    "status": "pending",
+    "claim": "A Minneapolis direct-action group with Antifa ties ran a coordinated harassment and violence campaign against law enforcement.",
+    "evidence": "A federal indictment charges 15 people with conspiracy, threats, stalking, assault, and property destruction. DOJ alleges that the defendants included members of Antifa groups.",
+    "attribution": "The indictment is meaningful evidence of alleged local organization, but it is not a conviction. The precise nature of the claimed Antifa ties must be tested in court.",
+    "scope": "Named local group; allegations pending",
+    "sources": [
+      {"label": "DOJ — Direct Action Minnesota indictment", "url": "https://www.justice.gov/usao-mn/pr/15-members-direct-action-minnesota-minneapolis-based-direct-action-group-antifa-ties"}
+    ]
+  },
+  {
+    "id": "wagner-threats-2026",
+    "date": "2026-02-05",
+    "title": "Kyle Wagner threat and cyberstalking case",
+    "status": "pending",
+    "claim": "A self-identified Antifa member threatened immigration officers and doxxed a pro-ICE individual.",
+    "evidence": "A federal complaint alleges repeated online threats, personal-data publication, and self-identification with Antifa.",
+    "attribution": "The self-identification makes the ideological claim relevant, but the allegations have not been proven and do not establish direction by a broader organization.",
+    "scope": "Individual; allegations pending",
+    "sources": [
+      {"label": "DOJ — Threat and cyberstalking charges", "url": "https://www.justice.gov/opa/pr/anti-ice-antifa-member-arrested-federal-charges-cyberstalking-and-threatening-communications"}
+    ]
+  },
+  {
+    "id": "antifa-ost",
+    "date": "2018–present",
+    "title": "Antifa Ost in Germany",
+    "status": "confirmed",
+    "claim": "A named European Antifa group organized cross-border assaults on perceived far-right targets.",
+    "evidence": "German and Hungarian cases, U.S. intelligence reporting, and prosecutions identify a discrete militant network whose members allegedly planned and carried out coordinated attacks.",
+    "attribution": "Unlike the U.S. umbrella movement, Antifa Ost is a specific named network. Its existence cannot be generalized into proof that every group using “antifa” belongs to one international organization.",
+    "scope": "Specific foreign organization",
+    "sources": [
+      {"label": "NCTC — Antifa Ost", "url": "https://www.dni.gov/nctc/terrorist_groups/antifa_ost.html"},
+      {"label": "AP — U.S. designations and group evidence", "url": "https://apnews.com/article/a4f0b5f733e9a105101107b0c80d482e"}
+    ]
+  },
+  {
+    "id": "floyd-national-plot",
+    "date": "2020-05-25",
+    "title": "A national Antifa command orchestrated the George Floyd unrest",
+    "status": "false",
+    "claim": "Antifa leadership planned and directed nationwide riots after George Floyd’s murder.",
+    "evidence": "Federal and local prosecutions documented many individual offenses but did not reveal a national command, membership chain, or financing structure. An AP review found very few charged defendants with any apparent affiliation to organized extremist groups.",
+    "attribution": "Antifascist participants were present in some cities, and some committed crimes. The much larger claim of national orchestration was not supported.",
+    "scope": "False network inference",
+    "sources": [
+      {"label": "DOJ — Protest-case communications review", "url": "https://www.justice.gov/d9/2023-10/10.23.23.%20--%20PAO%20Communications%20George%20Floyd%20-%20Final.pdf"},
+      {"label": "Axios/AP — Most charged were not Antifa-affiliated", "url": "https://www.axios.com/2020/10/20/arrested-protests-not-associated-antifa-radical-leftist"},
+      {"label": "ACLED — More than 93% of demonstrations peaceful", "url": "https://acleddata.com/report/year-racial-justice-protests-key-trends-demonstrations-supporting-blm-movement"}
+    ]
+  },
+  {
+    "id": "oregon-wildfires",
+    "date": "2020-09",
+    "title": "Antifa started the Oregon wildfires",
+    "status": "false",
+    "claim": "Antifa arsonists were arrested for setting major Pacific Northwest wildfires.",
+    "evidence": "The FBI investigated reports and publicly said they were untrue. Local sheriffs said fabricated arrest stories overwhelmed emergency lines.",
+    "attribution": "This was a false attribution that diverted resources during a disaster.",
+    "scope": "Disproved rumor",
+    "sources": [
+      {"label": "FBI — Wildfire misinformation statement", "url": "https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/fbi-releases-statement-on-misinformation-related-to-wildfires"},
+      {"label": "TIME — Law enforcement debunks fire rumors", "url": "https://time.com/5888371/oregon-wildfires-antifa-proud-boys-rumors-false/"}
+    ]
+  },
+  {
+    "id": "fake-national-account",
+    "date": "2020-06",
+    "title": "The violent “ANTIFA_US” national account",
+    "status": "false",
+    "claim": "A national Antifa organization used Twitter to call for violence.",
+    "evidence": "Twitter removed the account after linking it to the white-nationalist group Identity Evropa. It was an impostor account, not an Antifa command channel.",
+    "attribution": "A documented false flag became evidence in public narratives precisely because no authenticated national Antifa account exists.",
+    "scope": "Impostor / false flag",
+    "sources": [
+      {"label": "DFRLab — Campaign to frame protesters as terrorists", "url": "https://dfrlab.org/2020/06/10/the-disinformation-campaign-to-define-u-s-protesters-as-terrorists/"}
+    ]
+  },
+  {
+    "id": "small-town-invasions",
+    "date": "2020-06",
+    "title": "Busloads of Antifa activists were invading small towns",
+    "status": "false",
+    "claim": "Organized Antifa caravans traveled to suburbs and rural towns to loot or attack residents.",
+    "evidence": "Rumors spread across dozens of communities, often before any protest occurred. Local law enforcement repeatedly found no invading buses or organized Antifa force.",
+    "attribution": "The claims confused viral warning networks and ordinary protest travel with evidence of a coordinated militant deployment.",
+    "scope": "Unsubstantiated mass rumor",
+    "sources": [
+      {"label": "DFRLab — Antifa disinformation campaign", "url": "https://dfrlab.org/2020/06/10/the-disinformation-campaign-to-define-u-s-protesters-as-terrorists/"},
+      {"label": "The Markup — Anatomy of a false headline", "url": "https://themarkup.org/2020/07/07/anatomy-of-a-fake-news-headline"}
+    ]
+  },
+  {
+    "id": "january-6",
+    "date": "2021-01-06",
+    "title": "Antifa orchestrated the January 6 Capitol attack",
+    "status": "false",
+    "claim": "Antifa members disguised as Trump supporters instigated the Capitol attack.",
+    "evidence": "The FBI said it found no evidence of Antifa involvement. More than a thousand criminal cases identified the attackers, including organized Proud Boys and Oath Keepers; no Antifa command plot emerged.",
+    "attribution": "This is a durable false attribution used to transfer responsibility from the people and groups documented at the scene.",
+    "scope": "Disproved conspiracy theory",
+    "sources": [
+      {"label": "FactCheck.org — Bogus Antifa claims", "url": "https://www.factcheck.org/2021/01/bogus-antifa-claims-follow-capitol-riot/"},
+      {"label": "AP — Inspector general findings", "url": "https://apnews.com/article/598b775804bdcef9cb065a67a4236033"}
+    ]
+  }
+]

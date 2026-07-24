@@ -1,0 +1,604 @@
+[
+  {
+    "id": "jihadist-mass-casualties",
+    "number": 1,
+    "title": "9/11, Madrid, and London casualty counts",
+    "quote": "19 men murdered 3,000 people… nearly 200 commuters… and 52 more",
+    "period": "2001–2005",
+    "region": "United States & Europe",
+    "category": "Baseline",
+    "verdict": "supported",
+    "confidence": "High",
+    "actors": "Al-Qaeda hijackers; an al-Qaeda-linked Madrid cell; four British Islamist suicide bombers",
+    "ideology": "Salafi-jihadist",
+    "finding": "The rounded figures are accurate: 2,977 victims were killed on September 11, 2001; 193 people died from the Madrid train bombings; and 52 victims died in the July 7 London bombings.",
+    "context": "This establishes the scale of the jihadist threat that shaped Western counterterrorism. It does not itself compare that threat with violence from other ideologies.",
+    "legalStatus": "Responsibility is established.",
+    "sources": [
+      {"label": "9/11 Memorial — FAQ", "url": "https://www.911memorial.org/visit/memorial/faq"},
+      {"label": "Europol — EU terrorism report", "url": "https://www.europol.europa.eu/publication-events/main-reports/european-union-terrorism-situation-and-trend-report-2024-eu-te-sat"}
+    ]
+  },
+  {
+    "id": "jihadist-decline",
+    "number": 2,
+    "title": "Jihadist incidents and deaths fell sharply",
+    "quote": "Jihadist attacks and plots in the United States are down by two-thirds… [European deaths] dropped by roughly 97%",
+    "period": "2015–2024",
+    "region": "United States & Europe",
+    "category": "Baseline",
+    "verdict": "supported-context",
+    "confidence": "High",
+    "actors": "Jihadist attackers and plotters",
+    "ideology": "Salafi-jihadist",
+    "finding": "The direction and European calculation are supported. EU jihadist deaths fell from about 150 in 2015 to five in 2024, a 96.7% drop. U.S. jihadist incidents also stayed well below the ISIS-era peak.",
+    "context": "A decline from a peak does not show that jihadism ceased to be lethal, nor that the next-largest category is necessarily far-left violence.",
+    "legalStatus": "Statistical claim.",
+    "sources": [
+      {"label": "Europol — EU TE-SAT 2024", "url": "https://www.europol.europa.eu/publication-events/main-reports/european-union-terrorism-situation-and-trend-report-2024-eu-te-sat"},
+      {"label": "CSIS — Jihadist Terrorism in the United States", "url": "https://www.csis.org/analysis/jihadist-terrorism-united-states"}
+    ]
+  },
+  {
+    "id": "institutional-blind-spot",
+    "number": 3,
+    "title": "A systemic blind spot excuses left-wing violence",
+    "quote": "A whole industry grew up… with the unspoken understanding [that] only one kind of political violence was a true threat",
+    "period": "Contemporary",
+    "region": "Western countries",
+    "category": "Institutions",
+    "verdict": "unsupported",
+    "confidence": "Medium",
+    "actors": "Press, universities, think tanks, journals, and public institutions",
+    "ideology": "No single ideology; the claim assigns a shared institutional bias",
+    "finding": "The speech supplies no comparative study of coverage, prosecution, funding, or research practice that could establish an industry-wide pact to minimize far-left violence.",
+    "context": "Analysts do study left-wing violence, including the CSIS and ACLED datasets Rubio later relies on. Disagreement over comparative scale is not evidence of denial.",
+    "legalStatus": "Broad assertion, not a specific charge.",
+    "sources": [
+      {"label": "CSIS — What the left-wing violence data tells us", "url": "https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us"},
+      {"label": "CRS — Domestic Terrorism: Overview", "url": "https://www.congress.gov/crs-product/R47885"}
+    ]
+  },
+  {
+    "id": "floyd-protests",
+    "number": 4,
+    "title": "The 2020 protests were broadly violent and went unprosecuted",
+    "quote": "City governments all across the country simply refused to prosecute… acts of violence and terror",
+    "period": "2020",
+    "region": "United States",
+    "category": "Contemporary U.S.",
+    "verdict": "misleading",
+    "confidence": "High",
+    "actors": "A mass protest movement; unaffiliated rioters and looters; a small number of organized extremists from differing ideologies",
+    "ideology": "The movement’s central demand was racial justice; individual offenders did not share one ideology",
+    "finding": "Serious arson, assaults, and looting occurred, but more than 93% of over 11,000 demonstrations were peaceful. DOJ brought federal cases against more than 300 people, contradicting the blanket claim of non-prosecution.",
+    "context": "The CNN chyron was real: it described one Kenosha broadcast as “fiery but mostly peaceful.” A true chyron and real crimes do not make a nationwide protest wave a terrorist organization.",
+    "legalStatus": "Hundreds were charged; outcomes varied by jurisdiction.",
+    "sources": [
+      {"label": "ACLED — A Year of Racial Justice Protests", "url": "https://acleddata.com/report/year-racial-justice-protests-key-trends-demonstrations-supporting-blm-movement"},
+      {"label": "DOJ — More than 300 federal charges", "url": "https://www.justice.gov/archives/opa/pr/over-300-people-facing-federal-charges-crimes-committed-during-nationwide-demonstrations"},
+      {"label": "Lead Stories — CNN chyron fact check", "url": "https://leadstories.com/hoax-alert/2020/08/fact-check-cnn-did-use-the-chyron-fiery-but-mostly-peaceful-protests-after-police-shooting.html"}
+    ]
+  },
+  {
+    "id": "greece-nestora",
+    "number": 5,
+    "title": "Fatal firebombing at a Greek conservative official’s home",
+    "quote": "A 72-year-old woman was burned… and she died, executed by a firebomb because her daughter dared to stand for office",
+    "period": "2026",
+    "region": "Greece",
+    "category": "Contemporary Europe",
+    "verdict": "pending",
+    "confidence": "Medium",
+    "actors": "Four arrested suspects; victim Vagia Nestora; her daughter Afroditi Nestora, a New Democracy official and former candidate",
+    "ideology": "The target was associated with Greece’s center-right New Democracy party; suspects’ ideology was not publicly established",
+    "finding": "The fatal attack and political target are real. Public reporting says a crude incendiary device struck the apartment and four suspects were arrested. It does not yet establish that the suspects were far-left or that electoral candidacy was the proven motive.",
+    "context": "The victim’s age was reported as 72 by AP and 75 in some early local coverage. Treating an unresolved political target as proof of a specific ideology gets ahead of the evidence.",
+    "legalStatus": "Suspects arrested; investigation pending as of July 24, 2026.",
+    "sources": [
+      {"label": "AP — Arrests in fatal Greek firebombing", "url": "https://apnews.com/article/6870acf5b9e609204731ca3ae5333759"},
+      {"label": "Kathimerini — Fourth arrest", "url": "https://www.ekathimerini.com/news/1309773/police-make-fourth-arrest-over-deadly-attack-on-politicians-home/"}
+    ]
+  },
+  {
+    "id": "berlin-blackout",
+    "number": 6,
+    "title": "Berlin blackout attributed to a far-left arson group",
+    "quote": "The longest blackout… since the Second World War… left an 83-year-old woman dead",
+    "period": "2026",
+    "region": "Germany",
+    "category": "Contemporary Europe",
+    "verdict": "mixed",
+    "confidence": "High",
+    "actors": "An anonymous claimant using the name Vulkangruppe; German federal prosecutors",
+    "ideology": "Claimed anarchist / far-left ecological militancy",
+    "finding": "Arson disabled high-voltage cables, cutting power to roughly 45,000 households and 2,200 businesses for about 100 hours. A Vulkangruppe statement claimed the attack, and prosecutors opened a terrorism case.",
+    "context": "Attribution has not been proven in court. An 83-year-old died during the outage, but authorities had not established that the blackout caused her death; public reports described an unclear medical or fall-related cause.",
+    "legalStatus": "Federal terrorism investigation; no adjudicated perpetrator.",
+    "sources": [
+      {"label": "AP — Berlin power outage attack", "url": "https://apnews.com/article/germany-berlin-power-outage-attack-c945742c0b821b396244fd894f2d971c"},
+      {"label": "DW — Federal terror probe", "url": "https://amp.dw.com/en/german-prosecutors-open-terror-probe-into-berlin-blackout/a-75413616"},
+      {"label": "Stromnetz Berlin — Restoration statement", "url": "https://www.stromnetz.berlin/uber-uns/presse/pressemitteilungen-2026/strom-ist-fur-alle-wieder-da/"}
+    ]
+  },
+  {
+    "id": "lyon-deranque",
+    "number": 7,
+    "title": "Killing of nationalist activist Quentin Deranque in Lyon",
+    "quote": "A French 23-year-old… beaten to death… by a group of far-left militant thugs",
+    "period": "2026",
+    "region": "France",
+    "category": "Contemporary Europe",
+    "verdict": "supported-context",
+    "confidence": "High",
+    "actors": "Far-left and far-right participants in a street confrontation; eleven suspects were arrested",
+    "ideology": "Several suspects were linked to radical antifascism or the dissolved Jeune Garde; Deranque was a nationalist / far-right activist",
+    "finding": "The core attribution is supported by the arrests and investigators’ evidence. Deranque died from brain injuries after violence involving radical-left participants.",
+    "context": "The speech omits that the victim was an active far-right militant and that the death followed a clash between rival political groups near an event. Those facts do not excuse the killing, but they matter to classifying the event.",
+    "legalStatus": "Criminal investigation and charges pending; suspects are presumed innocent.",
+    "sources": [
+      {"label": "AP — Eleven arrested", "url": "https://apnews.com/article/d333739b9f6025828ffaba3bceb1d263"},
+      {"label": "Le Monde — Search for perpetrators", "url": "https://www.lemonde.fr/en/france/article/2026/02/16/investigators-search-for-perpetrators-of-fatal-assault-of-far-right-activist-in-lyon_6750525_7.html"}
+    ]
+  },
+  {
+    "id": "latin-american-guerrillas",
+    "number": 8,
+    "title": "Tupamaros, Montoneros, FARC, and ELN campaigns",
+    "quote": "Decades of kidnappings and bombings and assassinations and executions",
+    "period": "1960s–2010s",
+    "region": "Latin America",
+    "category": "Historical",
+    "verdict": "supported",
+    "confidence": "High",
+    "actors": "Tupamaros, Montoneros, FARC, and ELN",
+    "ideology": "Marxist, Guevarist, socialist, or communist revolutionary movements",
+    "finding": "These organizations carried out sustained political violence including kidnappings, bombings, killings, and guerrilla warfare. They are legitimate historical examples of terrorism and insurgent violence from the radical left.",
+    "context": "The organizations differed in structure, era, constituency, and relationship to civil wars. Their existence does not demonstrate that current Western incidents share a command structure.",
+    "legalStatus": "Extensive historical record; FARC’s main body demobilized while dissidents and ELN remain active.",
+    "sources": [
+      {"label": "NCTC — FARC profile", "url": "https://www.dni.gov/nctc/terrorist_groups/farc.html"},
+      {"label": "Britannica — Tupamaro", "url": "https://www.britannica.com/topic/Tupamaro"}
+    ]
+  },
+  {
+    "id": "shining-path",
+    "number": 9,
+    "title": "Shining Path massacres in Peru",
+    "quote": "Maoist fanatics who massacred the peasant villages of Peru",
+    "period": "1980s–1990s",
+    "region": "Peru",
+    "category": "Historical",
+    "verdict": "supported-context",
+    "confidence": "High",
+    "actors": "Communist Party of Peru–Shining Path",
+    "ideology": "Maoist revolutionary communism",
+    "finding": "Peru’s Truth and Reconciliation Commission attributed about 54% of conflict deaths and disappearances to Shining Path. Its deliberate massacres of civilians are an unequivocal case of far-left terrorism and insurgent atrocity.",
+    "context": "State security forces also committed systematic abuses and a large share of the remaining killings. That does not diminish Shining Path’s responsibility, but it is necessary conflict context.",
+    "legalStatus": "Leadership convicted; residual factions persisted.",
+    "sources": [
+      {"label": "Amnesty — Peru Truth Commission findings", "url": "https://www.amnesty.org/es/wp-content/uploads/2021/09/amr460102004en.pdf"},
+      {"label": "ICTJ — Peru’s Painful Mirror", "url": "https://www.ictj.org/sites/default/files/subsites/perus-painful-mirror/"}
+    ]
+  },
+  {
+    "id": "cuban-training-camps",
+    "number": 10,
+    "title": "Cuba trained “tens of thousands” of Marxist guerrillas",
+    "quote": "Tens of thousands of Marxist guerrillas trained to kill in Castro’s terrorist camps",
+    "period": "1960s–1980s",
+    "region": "Cuba & Latin America",
+    "category": "Historical",
+    "verdict": "mixed",
+    "confidence": "Medium",
+    "actors": "Cuban intelligence and military institutions; foreign guerrilla movements",
+    "ideology": "Marxist-Leninist state support for revolutionary movements",
+    "finding": "Declassified records and historical scholarship document Cuban training, financing, and logistical support for foreign guerrillas.",
+    "context": "The speech gives no source for the specific “tens of thousands” figure, and the evidence reviewed did not independently verify that count. The historical relationship is supported; the quantity is not.",
+    "legalStatus": "Historical state activity.",
+    "sources": [
+      {"label": "CIA Reading Room — Cuban support for insurgency", "url": "https://www.cia.gov/readingroom/document/cia-rdp88t00768r000400500001-7"},
+      {"label": "National Archives — Declassified Cuban intelligence record", "url": "https://www.archives.gov/files/research/jfk/releases/2025/0318/104-10338-10018.pdf"}
+    ]
+  },
+  {
+    "id": "red-brigades-moro",
+    "number": 11,
+    "title": "Red Brigades kidnapped and killed Aldo Moro",
+    "quote": "Held the five-time prime minister captive for 55 days… and execut[ed] him in 1978",
+    "period": "1978",
+    "region": "Italy",
+    "category": "Historical",
+    "verdict": "supported",
+    "confidence": "High",
+    "actors": "Red Brigades; former prime minister Aldo Moro",
+    "ideology": "Revolutionary communist / Marxist-Leninist",
+    "finding": "The Red Brigades kidnapped Moro, held him for 55 days, subjected him to a propagandistic “people’s trial,” and murdered him. The organization also committed other bombings, kidnappings, and assassinations.",
+    "context": "This is an unambiguous historical case of far-left terrorism.",
+    "legalStatus": "Responsibility established; members convicted.",
+    "sources": [
+      {"label": "Britannica — Red Brigades", "url": "https://www.britannica.com/topic/Red-Brigades"}
+    ]
+  },
+  {
+    "id": "red-army-faction",
+    "number": 12,
+    "title": "Red Army Faction’s three-decade campaign",
+    "quote": "Nearly three decade campaign of bombings, kidnappings, and assassinations in Germany",
+    "period": "1970–1998",
+    "region": "Germany",
+    "category": "Historical",
+    "verdict": "supported",
+    "confidence": "High",
+    "actors": "Red Army Faction",
+    "ideology": "Revolutionary Marxist-Leninist / anti-imperialist",
+    "finding": "Germany’s domestic intelligence service records 26 RAF attacks and 34 people killed. The group’s ideology and terrorist methods are not in dispute.",
+    "context": "Rubio’s “dozens” is accurate. The RAF formally dissolved in 1998.",
+    "legalStatus": "Responsibility established through convictions and the historical record.",
+    "sources": [
+      {"label": "German BfV — History of the RAF era", "url": "https://www.verfassungsschutz.de/EN/about-us/bundesamt-fuer-verfassungsschutz/our-history/history_article.html"}
+    ]
+  },
+  {
+    "id": "november-17",
+    "number": 13,
+    "title": "17 November murdered CIA officer Richard Welch",
+    "quote": "The Marxist extremists that terrorized Athens… shooting my country’s CIA station chief dead outside of his home",
+    "period": "1975–2002",
+    "region": "Greece",
+    "category": "Historical",
+    "verdict": "supported",
+    "confidence": "High",
+    "actors": "Revolutionary Organization 17 November; CIA officer Richard Welch",
+    "ideology": "Marxist-Leninist, anti-imperialist, anti-American",
+    "finding": "17 November claimed Welch’s 1975 murder and carried out a long campaign of assassinations and bombings. Welch was shot outside his residence with his wife present after they returned from a Christmas party.",
+    "context": "This is an unambiguous historical case of far-left terrorism.",
+    "legalStatus": "Members convicted; organization dismantled.",
+    "sources": [
+      {"label": "CIA — Richard S. Welch", "url": "https://www.cia.gov/legacy/honoring-heroes/heroes/richard-s-welch/"},
+      {"label": "NCTC — Greek domestic groups", "url": "https://www.odni.gov/nctc/groups/greek_domestic.html"}
+    ]
+  },
+  {
+    "id": "weather-underground",
+    "number": 14,
+    "title": "Weather Underground bombed federal buildings",
+    "quote": "Bombed the Pentagon… State Department… and the Capitol",
+    "period": "1971–1975",
+    "region": "United States",
+    "category": "Historical",
+    "verdict": "supported-context",
+    "confidence": "High",
+    "actors": "Weather Underground",
+    "ideology": "Revolutionary communist / anti-imperialist",
+    "finding": "The organization bombed all three named buildings and openly sought revolutionary change.",
+    "context": "The cited bombings were usually preceded by warnings and caused property damage but no deaths. Three members died while building a bomb intended for a military dance. The group was violent and far-left; lethality still matters when comparing it with other threats.",
+    "legalStatus": "Historical responsibility acknowledged and documented.",
+    "sources": [
+      {"label": "FBI — Weather Underground bombings", "url": "https://www.fbi.gov/history/cases-and-criminals/weather-underground-bombings"},
+      {"label": "TIME — Weather Underground history", "url": "https://time.com/4549409/the-weather-underground-bad-moon-rising/"}
+    ]
+  },
+  {
+    "id": "black-liberation-army",
+    "number": 15,
+    "title": "Black Liberation Army robberies and police killings",
+    "quote": "Staged armed robberies and executed police officers at point blank range",
+    "period": "1970s–1980s",
+    "region": "United States",
+    "category": "Historical",
+    "verdict": "supported",
+    "confidence": "High",
+    "actors": "Black Liberation Army members and affiliated militants",
+    "ideology": "Black revolutionary nationalism, separatism, and Marxism",
+    "finding": "The decentralized BLA was linked to armed robberies, prison breaks, and murders of police officers. It is a valid example of revolutionary-left political violence.",
+    "context": "The BLA was a clandestine tendency rather than a single disciplined organization, which complicates exact membership and incident counts.",
+    "legalStatus": "Multiple members convicted in specific cases.",
+    "sources": [
+      {"label": "OJP — Black Liberation Army overview", "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/black-liberation-army-understanding-monitoring-controlling"}
+    ]
+  },
+  {
+    "id": "symbionese-liberation-army",
+    "number": 16,
+    "title": "SLA murdered school superintendent Marcus Foster",
+    "quote": "Shot a public school superintendent to death with cyanide-packed hollow-point bullets",
+    "period": "1973",
+    "region": "United States",
+    "category": "Historical",
+    "verdict": "supported",
+    "confidence": "High",
+    "actors": "Symbionese Liberation Army; Oakland superintendent Marcus Foster",
+    "ideology": "Revolutionary left eclecticism, anti-capitalism, and self-styled urban guerrilla warfare",
+    "finding": "SLA members murdered Foster and wounded his deputy using ammunition modified with cyanide. The group later kidnapped Patty Hearst and committed armed robberies.",
+    "context": "This is a genuine far-left terrorist case, though the small cult-like group had an idiosyncratic ideology.",
+    "legalStatus": "Members convicted.",
+    "sources": [
+      {"label": "FBI — Patty Hearst and the SLA", "url": "https://www.fbi.gov/history/cases-and-criminals/patty-hearst"},
+      {"label": "PBS — Rise and fall of the SLA", "url": "https://www.pbs.org/wgbh/americanexperience/features/guerrilla-rise-and-fall-symbionese-liberation-army/"}
+    ]
+  },
+  {
+    "id": "bombings-2500",
+    "number": 17,
+    "title": "About 2,500 U.S. bombings in 18 months",
+    "quote": "The FBI counted some 2,500 bombings… The overwhelming share… came from left-wing extremists",
+    "period": "1971–1972",
+    "region": "United States",
+    "category": "Historical statistics",
+    "verdict": "mixed",
+    "confidence": "Medium",
+    "actors": "Numerous ideological, criminal, and unidentified perpetrators",
+    "ideology": "Many attacks were linked to radical-left causes; a substantial share was unattributed",
+    "finding": "The roughly 2,500-bombings figure and five-per-day rate were widely reported for an 18-month period.",
+    "context": "The reviewed source does not substantiate “the overwhelming share” as an FBI attribution. The count included unexplained and nonpolitical bombings, most occurred at night, and few caused casualties.",
+    "legalStatus": "Aggregate statistic.",
+    "sources": [
+      {"label": "TIME — When bombings were nearly daily", "url": "https://time.com/4501670/bombings-of-america-burrough/"}
+    ]
+  },
+  {
+    "id": "western-attacks-93",
+    "number": 18,
+    "title": "93% of politically motivated Western attacks were far-left",
+    "quote": "Between 1970 and 1980, 93% of terrorist attacks in the West came from the far extremist left",
+    "period": "1970–1980",
+    "region": "Western countries",
+    "category": "Historical statistics",
+    "verdict": "supported-context",
+    "confidence": "High",
+    "actors": "Far-left terrorist groups in Western states",
+    "ideology": "Revolutionary left",
+    "finding": "The Global Terrorism Index reports that 93% of 1,677 politically motivated terrorist incidents in the West during 1970–1980 were far-left.",
+    "context": "Rubio drops the crucial word “politically.” In the broader 1970–2018 Western dataset, nationalist and separatist terrorism was the largest category. Far-left groups caused 58% of deaths within that narrower political subset.",
+    "legalStatus": "Dataset classification.",
+    "sources": [
+      {"label": "Institute for Economics & Peace — Global Terrorism Index 2019", "url": "https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2019-web.pdf"}
+    ]
+  },
+  {
+    "id": "us-left-share-rise",
+    "number": 19,
+    "title": "The U.S. left-wing share reached a multi-decade high",
+    "quote": "The share of left-wing terrorist attacks and plots has risen to levels not seen in decades",
+    "period": "2025",
+    "region": "United States",
+    "category": "Contemporary statistics",
+    "verdict": "supported-context",
+    "confidence": "High",
+    "actors": "A small set of alleged left-motivated attackers and plotters",
+    "ideology": "Anti-corporate, anti-ICE, anarchist, or left-coded grievances, depending on the case",
+    "finding": "CSIS found five left-wing incidents in the first half of 2025, the first time that category exceeded right-wing incidents in its series in more than 30 years.",
+    "context": "That is a share from a very small denominator, rising from an average of four incidents a year in 2016–2024. CSIS describes current left-wing violence as less lethal, disorganized, and largely lacking formal coordination. From 2016 to mid-2025, another CSIS-based assessment counted 13 left-wing deaths, 82 jihadist, and 112 right-wing.",
+    "legalStatus": "Dataset coding; some cases pending.",
+    "sources": [
+      {"label": "CSIS — What the data tells us", "url": "https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us"},
+      {"label": "Just Security — Correctly assessing the data", "url": "https://www.justsecurity.org/122278/correctly-assessing-left-wing-terrorism-and-political-violence-in-the-united-states/"}
+    ]
+  },
+  {
+    "id": "germany-40-percent",
+    "number": 20,
+    "title": "German far-left violent offenses rose more than 40%",
+    "quote": "Far-left violence has jumped by more than 40% in just the last year alone",
+    "period": "2025",
+    "region": "Germany",
+    "category": "Contemporary statistics",
+    "verdict": "supported-context",
+    "confidence": "High",
+    "actors": "Perpetrators classified by German authorities as left-wing politically motivated",
+    "ideology": "Far-left / anarchist",
+    "finding": "Germany recorded 1,087 left-wing politically motivated violent offenses in 2025, up from 762, a 42.7% increase.",
+    "context": "Right-wing violent offenses were higher in absolute terms at 1,598, and total right-wing politically motivated crime was more than three times the left-wing total. The growth claim is accurate; the omitted baseline changes its comparative meaning.",
+    "legalStatus": "Official police and intelligence statistics.",
+    "sources": [
+      {"label": "German government — 2025 constitutional protection report", "url": "https://www.publikationen-bundesregierung.de/pp-en/search-for-publications/report-on-protection-of-constitution-2025-2445476"},
+      {"label": "El País — Germany political violence totals", "url": "https://elpais.com/internacional/2026-06-09/la-violencia-politica-en-alemania-marca-un-nuevo-record-en-un-ambiente-cada-vez-mas-polarizado.html"}
+    ]
+  },
+  {
+    "id": "greece-80-percent",
+    "number": 21,
+    "title": "Far-left and anarchist groups dominate Greek radical-group violence",
+    "quote": "More than 80% of radical violence is now driven by far-left and anarchist actors",
+    "period": "2020–2025",
+    "region": "Greece",
+    "category": "Contemporary statistics",
+    "verdict": "supported-context",
+    "confidence": "High",
+    "actors": "Radical-left, anarchist, and far-right groups; police",
+    "ideology": "Far-left and anarchist actors in most ACLED-coded radical-group events",
+    "finding": "ACLED reports that more than 80% of violent events involving radical groups in Greece involved far-left and anarchist groups.",
+    "context": "The denominator is not all political violence or terrorism. It includes street clashes with far-right groups and police. “Involved in” an event is also broader than “drove” all the violence in it.",
+    "legalStatus": "Event-dataset coding.",
+    "sources": [
+      {"label": "ACLED — Radical group violence in the EU", "url": "https://acleddata.com/brief/radical-group-violence-rise-eu-acled-insight"}
+    ]
+  },
+  {
+    "id": "ice-attacks",
+    "number": 22,
+    "title": "Attacks on immigration officers form a far-left campaign",
+    "quote": "An all-out assault on our immigration officers: sniper attacks, explosives, armed ambushes",
+    "period": "2025–2026",
+    "region": "United States",
+    "category": "Contemporary U.S.",
+    "verdict": "mixed",
+    "confidence": "High",
+    "actors": "Nine Prairieland defendants; separate lone attackers in Dallas and McAllen",
+    "ideology": "Prairieland evidence showed revolutionary anarchist / autonomous Marxist beliefs; other shooters’ motives were unknown or incoherent",
+    "finding": "The Prairieland ICE detention-center attack is a strong documented case: a jury convicted defendants in an organized armed attack, and DOJ presented evidence of an “Antifa cell.”",
+    "context": "The speech bundles distinct events into one campaign. The Dallas gunman left anti-ICE notes but killed detainees and had no established group tie; authorities had not determined a political motive in McAllen. One proven cell does not establish a nationwide command structure.",
+    "legalStatus": "Prairieland convictions; other investigations separate.",
+    "sources": [
+      {"label": "DOJ — Prairieland convictions", "url": "https://www.justice.gov/opa/pr/antifa-cell-members-convicted-prairieland-ice-detention-center-shooting"},
+      {"label": "AP — Expanded Prairieland indictment", "url": "https://apnews.com/article/5f47df0c81c845b5b1e48c7095040129"},
+      {"label": "Washington Post — McAllen motive undetermined", "url": "https://www.washingtonpost.com/immigration/2025/07/07/texas-border-patrol-shooting-mcallen/"}
+    ]
+  },
+  {
+    "id": "annunciation-shooting",
+    "number": 23,
+    "title": "The Annunciation school shooter was a left-wing terrorist",
+    "quote": "A transgender shooter opening fire on Catholic elementary school students as they pray",
+    "period": "2025",
+    "region": "United States",
+    "category": "Contemporary U.S.",
+    "verdict": "misleading",
+    "confidence": "High",
+    "actors": "Robin Westman, a lone mass shooter",
+    "ideology": "No coherent left-wing ideology established; writings mixed anti-Catholic, antisemitic, racist, anti-Trump, and mass-shooter fixations",
+    "finding": "Westman murdered two children and wounded 18 people at Annunciation Catholic School. The FBI investigated domestic terrorism and an anti-Catholic hate crime, but investigators and experts found no coherent political program.",
+    "context": "A person’s transgender identity is not an ideology and does not establish left-wing motive. The quoted gun slogan supports anti-religious animus, not membership in a far-left movement.",
+    "legalStatus": "Shooter died by suicide; motive assessment remained open.",
+    "sources": [
+      {"label": "AP — What is known about motive", "url": "https://apnews.com/article/c4ebf0eaa7b4f67c697d93d679cb0e4b"},
+      {"label": "ADL — Shooter’s online activity", "url": "https://www.adl.org/resources/article/minneapolis-school-shooters-online-activity-reveals-deep-fascination-mass"},
+      {"label": "NPR/GPB — Search for an ideological motive", "url": "https://www.gpb.org/news/2025/08/30/there-no-message-the-search-for-ideological-motives-in-the-minneapolis-shooting"}
+    ]
+  },
+  {
+    "id": "mangione",
+    "number": 24,
+    "title": "The UnitedHealthcare killing was far-left terrorism",
+    "quote": "A healthcare executive executed in cold blood in the streets",
+    "period": "2024",
+    "region": "United States",
+    "category": "Contemporary U.S.",
+    "verdict": "mixed",
+    "confidence": "High",
+    "actors": "Luigi Mangione, accused of murdering UnitedHealthcare CEO Brian Thompson",
+    "ideology": "Anti-insurance and anti-corporate grievance; broader left-wing classification is contested",
+    "finding": "The killing and apparent anti-insurance motive are real, and CSIS codes the case as left-wing political violence.",
+    "context": "A New York judge dismissed state terrorism charges, holding that the alleged act did not satisfy the statutory intent to intimidate a population or coerce government. Murder charges remain. The case shows ideologically colored lone-actor violence, not an organized terrorist network.",
+    "legalStatus": "Accused; murder prosecution pending; state terrorism counts dismissed.",
+    "sources": [
+      {"label": "AP — Terrorism charges dismissed", "url": "https://apnews.com/article/8989b2a82558643f1099523e21611afc"},
+      {"label": "CSIS — U.S. left-wing violence dataset analysis", "url": "https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us"}
+    ]
+  },
+  {
+    "id": "trump-attempts",
+    "number": 25,
+    "title": "Multiple left-wing attempts targeted a sitting president",
+    "quote": "Multiple assassination attempts on a sitting president",
+    "period": "2024–2026",
+    "region": "United States",
+    "category": "Contemporary U.S.",
+    "verdict": "misleading",
+    "confidence": "High",
+    "actors": "Thomas Matthew Crooks; Ryan Routh; Cole Tomas Allen, according to separate cases",
+    "ideology": "Crooks’ motive unknown; Routh’s politics were inconsistent; Allen expressed anti-Trump and other political grievances",
+    "finding": "Multiple attempts or alleged attempts against Trump occurred. The 2026 Allen case concerns Trump as sitting president and includes evidence of anti-Trump intent.",
+    "context": "The two 2024 incidents occurred while Trump was a former president and candidate. Investigators found no settled ideology for Crooks, and Routh’s record crossed party lines. The plural events cannot all be reliably classified as far-left.",
+    "legalStatus": "Crooks was killed; Routh was convicted; Allen is charged and presumed innocent.",
+    "sources": [
+      {"label": "DOJ — Cole Allen assassination charge", "url": "https://www.justice.gov/opa/pr/suspect-white-house-correspondents-dinner-shooting-charged-attempt-assassinate-president"},
+      {"label": "NPR — FBI found no definitive Crooks motive", "url": "https://www.npr.org/2024/08/28/g-s1-19944/trump-rally-assassination-motive-attack"},
+      {"label": "PolitiFact — Ryan Routh’s political record", "url": "https://www.politifact.com/article/2024/sep/17/trump-apparent-assassination-attempt-what-we-know/"}
+    ]
+  },
+  {
+    "id": "charlie-kirk",
+    "number": 26,
+    "title": "Charlie Kirk’s murder was left-wing terrorism",
+    "quote": "The murder of the greatest conservative activist of a generation",
+    "period": "2025",
+    "region": "United States",
+    "category": "Contemporary U.S.",
+    "verdict": "pending",
+    "confidence": "Medium",
+    "actors": "Tyler Robinson, accused of killing Charlie Kirk",
+    "ideology": "Alleged anti-fascist and pro-LGBTQ grievances; no demonstrated organizational membership",
+    "finding": "Charging evidence and alleged messages support a political motive hostile to Kirk and can reasonably be coded as left-wing if proven.",
+    "context": "The case has not been tried. The available evidence describes an individual defendant, not a cell or transnational network. “Greatest” is opinion, not a factual claim.",
+    "legalStatus": "Charged; preliminary hearing completed; presumed innocent.",
+    "sources": [
+      {"label": "AP — Preliminary hearing", "url": "https://apnews.com/article/charlie-kirk-tyler-robinson-preliminary-hearing-79dac2f8cf63b63b435ff962b5e44001"},
+      {"label": "ABC News — Charging allegations and messages", "url": "https://abcnews.com/US/tyler-robinson-set-face-formal-charges-shooting-death/story?id=125614396"}
+    ]
+  },
+  {
+    "id": "transnational-antifa-network",
+    "number": 27,
+    "title": "Antifa operates as an integrated global terrorist network",
+    "quote": "They coordinate… travel… train… [and use] shared encrypted channels… safe houses and finance",
+    "period": "Contemporary",
+    "region": "Transnational",
+    "category": "Network claims",
+    "verdict": "unsupported",
+    "confidence": "Medium",
+    "actors": "Antifa Ost; Informal Anarchist Federation / International Revolutionary Front; Armed Proletarian Justice; Revolutionary Class Self-Defense; diffuse antifascist militants",
+    "ideology": "Anarchist, anti-capitalist, and militant antifascist tendencies",
+    "finding": "Some named groups commit real violence, and Antifa Ost members allegedly traveled across borders for attacks. FAI/FRI uses a transnational franchise-like label.",
+    "context": "Public evidence does not establish a single command, shared financial system, training pipeline, or safe-house network joining these groups across Europe and the Americas. Police investigations cited by AP generally did not find resource-sharing among the four U.S.-designated groups.",
+    "legalStatus": "Four groups designated by the U.S.; designation is an executive action, not proof of every network allegation.",
+    "sources": [
+      {"label": "AP — Four designations and thin links", "url": "https://apnews.com/article/a4f0b5f733e9a105101107b0c80d482e"},
+      {"label": "NCTC — Antifa Ost profile", "url": "https://www.dni.gov/nctc/terrorist_groups/antifa_ost.html"},
+      {"label": "Rewards for Justice — Violent Antifa groups", "url": "https://rewardsforjustice.net/rewards/violent-antifa-groups/"}
+    ]
+  },
+  {
+    "id": "iran-left-ties",
+    "number": 28,
+    "title": "Iranian proxy networks are tied to leftist militant groups",
+    "quote": "Iranian proxy networks… are increasingly intimately tied to leftist militant groups around the world",
+    "period": "Contemporary",
+    "region": "Transnational",
+    "category": "Network claims",
+    "verdict": "unsupported",
+    "confidence": "Medium",
+    "actors": "Iranian state and proxy networks; unspecified leftist militant groups",
+    "ideology": "Iranian theocratic state and aligned militias are not far-left; alleged partners are unnamed",
+    "finding": "Iran-linked covert, propaganda, and violent networks operate internationally.",
+    "context": "The speech identifies no left-wing group, operation, financing trail, or prosecution demonstrating the claimed “intimate” relationship. Evidence of Iranian proxies is not evidence of an Iran–Antifa alliance.",
+    "legalStatus": "Unparticularized intelligence assertion.",
+    "sources": [
+      {"label": "Europol — Iranian propaganda ecosystem crackdown", "url": "https://www.europol.europa.eu/media-press/newsroom/news/eu-targets-iran%E2%80%99s-revolutionary-guard-propaganda-ecosystem-in-online-crackdown"},
+      {"label": "ISD — Iran-aligned proxy activity in Europe", "url": "https://www.isdglobal.org/digital-dispatch/islamic-movement-of-the-companions-of-the-right-the-gig-economy-proxy-group-attacking-europe-hayi/"}
+    ]
+  },
+  {
+    "id": "cuba-current-network",
+    "number": 29,
+    "title": "Cuba remains operationally linked to far-left groups across the West",
+    "quote": "The Cuban regime’s… network helped to build the far-left… and it remains inextricably linked",
+    "period": "Historical & contemporary",
+    "region": "Transnational",
+    "category": "Network claims",
+    "verdict": "mixed",
+    "confidence": "Low",
+    "actors": "Cuban government and intelligence services; unspecified contemporary movements",
+    "ideology": "Marxist-Leninist one-party state; alleged modern partners unspecified",
+    "finding": "Cuba historically supported and trained revolutionary-left movements in the Americas.",
+    "context": "A July 2026 State Department report repeats allegations about influence on U.S. movements, but transparent public evidence reviewed here does not establish a current operational relationship with an integrated Western terror network.",
+    "legalStatus": "Government assessment; no specific current prosecution identified.",
+    "sources": [
+      {"label": "State Department — Cuba report, July 2026", "url": "https://www.state.gov/wp-content/uploads/2026/07/Cuba-Report.pdf"},
+      {"label": "Washington Post — Context for the State report", "url": "https://www.washingtonpost.com/national-security/2026/07/20/state-dept-again-deems-cuba-threat-amid-talk-us-push-regime-change/"}
+    ]
+  },
+  {
+    "id": "administration-policy",
+    "number": 30,
+    "title": "The administration built new anti-left counterterrorism tools",
+    "quote": "NSPM-7… four… foreign terrorist organizations… Rewards for Justice… up to $10 million",
+    "period": "2025–2026",
+    "region": "United States",
+    "category": "Policy",
+    "verdict": "supported-context",
+    "confidence": "High",
+    "actors": "White House, State Department, Treasury, DOJ, FBI, and foreign partners",
+    "ideology": "Policy targets “Antifa” and broadly described anti-capitalist, anti-Christian, migration, race, and gender extremism",
+    "finding": "The listed executive actions, designations, reward offer, and workshops occurred.",
+    "context": "U.S. law has no general domestic-terrorist-organization designation regime. Labeling domestic “Antifa” does not create one, and civil-liberties experts warn NSPM-7’s ideology-based language can sweep in protected speech and association. Government designation proves a policy choice, not every underlying network claim.",
+    "legalStatus": "Active executive policy; scope and implementation subject to constitutional and statutory limits.",
+    "sources": [
+      {"label": "White House — NSPM-7", "url": "https://www.whitehouse.gov/presidential-actions/2025/09/countering-domestic-terrorism-and-organized-political-violence/"},
+      {"label": "White House — Antifa designation order", "url": "https://www.whitehouse.gov/presidential-actions/2025/09/designating-antifa-as-a-domestic-terrorist-organization/"},
+      {"label": "CRS — No formal domestic designation process", "url": "https://www.congress.gov/crs-product/IF10839"},
+      {"label": "ACLU — NSPM-7 civil-liberties analysis", "url": "https://www.aclu.org/news/national-security/how-nspm-7-seeks-to-use-domestic-terrorism-to-target-nonprofits-and-activists"}
+    ]
+  }
+]
