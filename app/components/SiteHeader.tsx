@@ -11,7 +11,7 @@ export function SiteHeader() {
           <Link href="/#claims">Claims ledger</Link>
           <Link href="/antifa/">ANTIFA dossier</Link>
           <Link href="/#policy">Policy push</Link>
-          <Link href="/#method">Method</Link>
+          <Link href="/methodology/">Method & corrections</Link>
         </nav>
       </div>
     </header>

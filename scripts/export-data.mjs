@@ -1,24 +1,17 @@
-import { readFile, writeFile } from "node:fs/promises";
+import { copyFile, readFile, writeFile } from "node:fs/promises";
 
 const claimsUrl = new URL("../app/data/claims.json", import.meta.url);
-const publicClaimsUrl = new URL("../public/data/claims.json", import.meta.url);
 const csvUrl = new URL("../public/data/claims.csv", import.meta.url);
-const antifaUrl = new URL(
-  "../app/data/antifa-attributions.json",
-  import.meta.url,
-);
-const publicAntifaUrl = new URL(
-  "../public/data/antifa-attributions.json",
-  import.meta.url,
-);
-const policyUrl = new URL("../app/data/policy-context.json", import.meta.url);
-const publicPolicyUrl = new URL(
-  "../public/data/policy-context.json",
-  import.meta.url,
-);
 const claims = JSON.parse(await readFile(claimsUrl, "utf8"));
-const antifa = await readFile(antifaUrl, "utf8");
-const policy = await readFile(policyUrl, "utf8");
+const mirroredDataFiles = [
+  "antifa-attributions.json",
+  "claims.json",
+  "policy-context.json",
+  "project-meta.json",
+  "research-log.json",
+  "corrections.json",
+  "watchlist.json",
+];
 
 const fields = [
   "number",
@@ -35,6 +28,10 @@ const fields = [
   "finding",
   "context",
   "legalStatus",
+  "reviewedAt",
+  "nextReviewAt",
+  "reviewer",
+  "dimensions",
   "sources",
 ];
 
@@ -44,7 +41,9 @@ const escapeCell = (value) => {
       ? value
       : Array.isArray(value)
         ? value.map((item) => `${item.label}: ${item.url}`).join(" | ")
-        : String(value ?? "");
+        : typeof value === "object" && value !== null
+          ? JSON.stringify(value)
+          : String(value ?? "");
   return `"${normalized.replaceAll('"', '""')}"`;
 };
 
@@ -56,8 +55,11 @@ const rows = [
 ];
 
 await Promise.all([
-  writeFile(publicClaimsUrl, `${JSON.stringify(claims, null, 2)}\n`),
-  writeFile(publicAntifaUrl, antifa),
-  writeFile(publicPolicyUrl, policy),
+  ...mirroredDataFiles.map((file) =>
+    copyFile(
+      new URL(`../app/data/${file}`, import.meta.url),
+      new URL(`../public/data/${file}`, import.meta.url),
+    ),
+  ),
   writeFile(csvUrl, `${rows.join("\n")}\n`),
 ]);

@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-10-07",
+    "recordId": "jihadist-mass-casualties",
+    "type": "source-repair",
+    "summary": "Replaced a discontinued 9/11 Memorial FAQ URL with the Memorial’s current event primer.",
+    "changesAssessment": false
+  },
+  {
+    "date": "2026-10-07",
+    "recordId": "mangione",
+    "type": "case-status-update",
+    "summary": "Added the August 14 federal guilty plea, December 18 sentencing date, and the pending state double-jeopardy motion while preserving the distinction from the dismissed state terrorism counts.",
+    "changesAssessment": false
+  },
+  {
+    "date": "2026-10-07",
+    "recordId": "charlie-kirk",
+    "type": "case-status-update",
+    "summary": "Updated the case from completed preliminary hearing to bind-over on all counts, a not-guilty plea, and the October trial-scheduling order.",
+    "changesAssessment": false
+  }
+]

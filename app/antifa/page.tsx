@@ -1,11 +1,17 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import attributionsJson from "@/app/data/antifa-attributions.json";
+import metaJson from "@/app/data/project-meta.json";
 import { SiteFooter } from "@/app/components/SiteFooter";
 import { SiteHeader } from "@/app/components/SiteHeader";
+import {
+  DimensionGrid,
+  RecordReview,
+  SourceList,
+} from "@/app/components/ResearchRecord";
+import { formatDate, type ResearchSource } from "@/app/lib/research";
 
 type Status = "confirmed" | "supported" | "mixed" | "pending" | "false";
-type Source = { label: string; url: string };
 type Attribution = {
   id: string;
   date: string;
@@ -15,7 +21,11 @@ type Attribution = {
   evidence: string;
   attribution: string;
   scope: string;
-  sources: Source[];
+  sources: ResearchSource[];
+  reviewedAt: string;
+  nextReviewAt: string;
+  reviewer: string;
+  dimensions: Record<string, string>;
 };
 
 const attributions = attributionsJson as Attribution[];
@@ -43,11 +53,13 @@ export default function AntifaPage() {
   return (
     <>
       <SiteHeader />
-      <main>
+      <main id="main-content">
         <section className="dossier-hero">
           <div className="shell dossier-hero-grid">
             <div>
-              <p className="eyebrow">Research dossier · Evidence through July 24, 2026</p>
+              <p className="eyebrow">
+                Research dossier · Evidence through {formatDate(metaJson.evidenceThrough)}
+              </p>
               <h1>
                 The ANTIFA file:
                 <br />
@@ -299,9 +311,10 @@ export default function AntifaPage() {
                 <h2>What was correctly—and falsely—assigned</h2>
               </div>
               <p>
-                Thirteen representative cases show the difference between a
-                proven cell, a self-identified actor, a mixed crowd, and a
-                viral rumor.
+                Thirteen purposively selected cases test the difference between
+                a proven cell, a self-identified actor, a mixed crowd, an
+                unresolved prosecution, and a viral rumor. They are not a
+                prevalence sample.
               </p>
             </div>
             <div className="attribution-key" aria-label="Attribution status legend">
@@ -338,18 +351,13 @@ export default function AntifaPage() {
                       <span className="scope-label">{item.scope}</span>
                     </div>
                   </div>
-                  <div className="source-links">
-                    {item.sources.map((source) => (
-                      <a
-                        href={source.url}
-                        target="_blank"
-                        rel="noreferrer"
-                        key={source.url}
-                      >
-                        {source.label} ↗
-                      </a>
-                    ))}
-                  </div>
+                  <DimensionGrid dimensions={item.dimensions} />
+                  <SourceList sources={item.sources} />
+                  <RecordReview
+                    reviewedAt={item.reviewedAt}
+                    nextReviewAt={item.nextReviewAt}
+                    reviewer={item.reviewer}
+                  />
                 </article>
               ))}
             </div>
@@ -443,6 +451,9 @@ export default function AntifaPage() {
                 <strong> decentralized but sometimes organized</strong>,
                 <strong> ideologically related but not uniformly directed</strong>,
                 and <strong>capable of both lawful activism and real violence</strong>.
+              </p>
+              <p className="warning-copy">
+                Sampling limit: {metaJson.scope.antifaSampling} {metaJson.scope.prevalenceWarning}
               </p>
               <a
                 className="button button-primary"

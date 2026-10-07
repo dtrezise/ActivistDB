@@ -15,9 +15,36 @@
     "context": "This establishes the scale of the jihadist threat that shaped Western counterterrorism. It does not itself compare that threat with violence from other ideologies.",
     "legalStatus": "Responsibility is established.",
     "sources": [
-      {"label": "9/11 Memorial — FAQ", "url": "https://www.911memorial.org/visit/memorial/faq"},
-      {"label": "Europol — EU terrorism report", "url": "https://www.europol.europa.eu/publication-events/main-reports/european-union-terrorism-situation-and-trend-report-2024-eu-te-sat"}
-    ]
+      {
+      "label": "9/11 Memorial — Events of the day",
+      "url": "https://www.911memorial.org/learn/resources/911-primer/module-1-events-day",
+      "title": "9/11 Memorial — Events of the day",
+        "publisher": "9/11 Memorial",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Europol — EU terrorism report",
+        "url": "https://www.europol.europa.eu/publication-events/main-reports/european-union-terrorism-situation-and-trend-report-2024-eu-te-sat",
+        "title": "Europol — EU terrorism report",
+        "publisher": "Europol",
+        "sourceType": "government-report",
+        "evidenceRole": "comparative or statistical evidence",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "adjudicated",
+      "ideologyAttribution": "established",
+      "terrorismThreshold": "legal-or-consensus",
+      "organizationalLink": "named-organization",
+      "networkInference": "demonstrated"
+    }
   },
   {
     "id": "jihadist-decline",
@@ -35,9 +62,36 @@
     "context": "A decline from a peak does not show that jihadism ceased to be lethal, nor that the next-largest category is necessarily far-left violence.",
     "legalStatus": "Statistical claim.",
     "sources": [
-      {"label": "Europol — EU TE-SAT 2024", "url": "https://www.europol.europa.eu/publication-events/main-reports/european-union-terrorism-situation-and-trend-report-2024-eu-te-sat"},
-      {"label": "CSIS — Jihadist Terrorism in the United States", "url": "https://www.csis.org/analysis/jihadist-terrorism-united-states"}
-    ]
+      {
+        "label": "Europol — EU TE-SAT 2024",
+        "url": "https://www.europol.europa.eu/publication-events/main-reports/european-union-terrorism-situation-and-trend-report-2024-eu-te-sat",
+        "title": "Europol — EU TE-SAT 2024",
+        "publisher": "Europol",
+        "sourceType": "government-report",
+        "evidenceRole": "comparative or statistical evidence",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "CSIS — Jihadist Terrorism in the United States",
+        "url": "https://www.csis.org/analysis/jihadist-terrorism-united-states",
+        "title": "CSIS — Jihadist Terrorism in the United States",
+        "publisher": "Center for Strategic and International Studies",
+        "sourceType": "research",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "not-applicable",
+      "ideologyAttribution": "not-applicable",
+      "terrorismThreshold": "not-applicable",
+      "organizationalLink": "not-applicable",
+      "networkInference": "not-applicable"
+    }
   },
   {
     "id": "institutional-blind-spot",
@@ -55,9 +109,36 @@
     "context": "Analysts do study left-wing violence, including the CSIS and ACLED datasets Rubio later relies on. Disagreement over comparative scale is not evidence of denial.",
     "legalStatus": "Broad assertion, not a specific charge.",
     "sources": [
-      {"label": "CSIS — What the left-wing violence data tells us", "url": "https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us"},
-      {"label": "CRS — Domestic Terrorism: Overview", "url": "https://www.congress.gov/crs-product/R47885"}
-    ]
+      {
+        "label": "CSIS — What the left-wing violence data tells us",
+        "url": "https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us",
+        "title": "CSIS — What the left-wing violence data tells us",
+        "publisher": "Center for Strategic and International Studies",
+        "sourceType": "research",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "CRS — Domestic Terrorism: Overview",
+        "url": "https://www.congress.gov/crs-product/R47885",
+        "title": "CRS — Domestic Terrorism: Overview",
+        "publisher": "Congressional Research Service",
+        "sourceType": "legal-analysis",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "not-applicable",
+      "actorAttribution": "unproven",
+      "ideologyAttribution": "unproven",
+      "terrorismThreshold": "not-established",
+      "organizationalLink": "unproven",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "floyd-protests",
@@ -75,10 +156,45 @@
     "context": "The CNN chyron was real: it described one Kenosha broadcast as “fiery but mostly peaceful.” A true chyron and real crimes do not make a nationwide protest wave a terrorist organization.",
     "legalStatus": "Hundreds were charged; outcomes varied by jurisdiction.",
     "sources": [
-      {"label": "ACLED — A Year of Racial Justice Protests", "url": "https://acleddata.com/report/year-racial-justice-protests-key-trends-demonstrations-supporting-blm-movement"},
-      {"label": "DOJ — More than 300 federal charges", "url": "https://www.justice.gov/archives/opa/pr/over-300-people-facing-federal-charges-crimes-committed-during-nationwide-demonstrations"},
-      {"label": "Lead Stories — CNN chyron fact check", "url": "https://leadstories.com/hoax-alert/2020/08/fact-check-cnn-did-use-the-chyron-fiery-but-mostly-peaceful-protests-after-police-shooting.html"}
-    ]
+      {
+        "label": "ACLED — A Year of Racial Justice Protests",
+        "url": "https://acleddata.com/report/year-racial-justice-protests-key-trends-demonstrations-supporting-blm-movement",
+        "title": "ACLED — A Year of Racial Justice Protests",
+        "publisher": "ACLED",
+        "sourceType": "dataset",
+        "evidenceRole": "comparative or statistical evidence",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "DOJ — More than 300 federal charges",
+        "url": "https://www.justice.gov/archives/opa/pr/over-300-people-facing-federal-charges-crimes-committed-during-nationwide-demonstrations",
+        "title": "DOJ — More than 300 federal charges",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Lead Stories — CNN chyron fact check",
+        "url": "https://leadstories.com/hoax-alert/2020/08/fact-check-cnn-did-use-the-chyron-fiery-but-mostly-peaceful-protests-after-police-shooting.html",
+        "title": "Lead Stories — CNN chyron fact check",
+        "publisher": "Lead Stories",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "mixed",
+      "ideologyAttribution": "mixed",
+      "terrorismThreshold": "contested",
+      "organizationalLink": "loose-movement",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "greece-nestora",
@@ -91,14 +207,50 @@
     "verdict": "pending",
     "confidence": "Medium",
     "actors": "Four arrested suspects; victim Vagia Nestora; her daughter Afroditi Nestora, a New Democracy official and former candidate",
-    "ideology": "The target was associated with Greece’s center-right New Democracy party; suspects’ ideology was not publicly established",
-    "finding": "The fatal attack and political target are real. Public reporting says a crude incendiary device struck the apartment and four suspects were arrested. It does not yet establish that the suspects were far-left or that electoral candidacy was the proven motive.",
-    "context": "The victim’s age was reported as 72 by AP and 75 in some early local coverage. Treating an unresolved political target as proof of a specific ideology gets ahead of the evidence.",
-    "legalStatus": "Suspects arrested; investigation pending as of July 24, 2026.",
+    "ideology": "The political targets were associated with Greece’s center-right New Democracy party. Reporting on the defendants’ court appearance places supporters in the anti-authoritarian milieu, but the defendants’ individual motives remain allegations to be tested.",
+    "finding": "The fatal attack and political target are real. Four defendants are in pretrial detention, and prosecutors have charged them with homicide-related offenses, explosives and arson offenses, and participation in a terrorist organization. In October, the investigating magistrate sought supplemental statements as the terrorism-law treatment was strengthened.",
+    "context": "The victim’s age was reported as 72 by AP and 75 in some local coverage. Charges under a terrorism statute and political-target evidence materially strengthen the political-violence attribution; they do not establish guilt, a far-left command structure, or the precise motive before trial.",
+    "legalStatus": "Four defendants detained pretrial; terrorism-law and homicide allegations pending as of October 7, 2026.",
     "sources": [
-      {"label": "AP — Arrests in fatal Greek firebombing", "url": "https://apnews.com/article/6870acf5b9e609204731ca3ae5333759"},
-      {"label": "Kathimerini — Fourth arrest", "url": "https://www.ekathimerini.com/news/1309773/police-make-fourth-arrest-over-deadly-attack-on-politicians-home/"}
-    ]
+      {
+        "label": "AP — Arrests in fatal Greek firebombing",
+        "url": "https://apnews.com/article/6870acf5b9e609204731ca3ae5333759",
+        "title": "AP — Arrests in fatal Greek firebombing",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Kathimerini — Fourth arrest",
+        "url": "https://www.ekathimerini.com/news/1309773/police-make-fourth-arrest-over-deadly-attack-on-politicians-home/",
+        "title": "Kathimerini — Fourth arrest",
+        "publisher": "Kathimerini",
+        "sourceType": "news",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "ERT — Supplemental statements on terrorism-law allegations",
+        "url": "https://www.ertnews.gr/ert3/thessaloniki-ksana-enopion-tis-anakritrias-oi-tesseris-katigoroumenoi-gia-ti-foniki-ekriksi-stin-oikia-nestora/",
+        "title": "ERT — Supplemental statements on terrorism-law allegations",
+        "publisher": "ERT News",
+        "sourceType": "public-broadcaster-news",
+        "evidenceRole": "current case status",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2026-11-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "alleged",
+      "ideologyAttribution": "corroborated",
+      "terrorismThreshold": "alleged",
+      "organizationalLink": "alleged-local-group",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "berlin-blackout",
@@ -116,10 +268,45 @@
     "context": "Attribution has not been proven in court. An 83-year-old died during the outage, but authorities had not established that the blackout caused her death; public reports described an unclear medical or fall-related cause.",
     "legalStatus": "Federal terrorism investigation; no adjudicated perpetrator.",
     "sources": [
-      {"label": "AP — Berlin power outage attack", "url": "https://apnews.com/article/germany-berlin-power-outage-attack-c945742c0b821b396244fd894f2d971c"},
-      {"label": "DW — Federal terror probe", "url": "https://amp.dw.com/en/german-prosecutors-open-terror-probe-into-berlin-blackout/a-75413616"},
-      {"label": "Stromnetz Berlin — Restoration statement", "url": "https://www.stromnetz.berlin/uber-uns/presse/pressemitteilungen-2026/strom-ist-fur-alle-wieder-da/"}
-    ]
+      {
+        "label": "AP — Berlin power outage attack",
+        "url": "https://apnews.com/article/germany-berlin-power-outage-attack-c945742c0b821b396244fd894f2d971c",
+        "title": "AP — Berlin power outage attack",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "DW — Federal terror probe",
+        "url": "https://amp.dw.com/en/german-prosecutors-open-terror-probe-into-berlin-blackout/a-75413616",
+        "title": "DW — Federal terror probe",
+        "publisher": "DW",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Stromnetz Berlin — Restoration statement",
+        "url": "https://www.stromnetz.berlin/uber-uns/presse/pressemitteilungen-2026/strom-ist-fur-alle-wieder-da/",
+        "title": "Stromnetz Berlin — Restoration statement",
+        "publisher": "Stromnetz Berlin",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "claimed",
+      "ideologyAttribution": "corroborated",
+      "terrorismThreshold": "analytic-fit",
+      "organizationalLink": "claimed-group",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "lyon-deranque",
@@ -131,15 +318,51 @@
     "category": "Contemporary Europe",
     "verdict": "supported-context",
     "confidence": "High",
-    "actors": "Far-left and far-right participants in a street confrontation; eleven suspects were arrested",
+    "actors": "Far-left and far-right participants in a street confrontation; fourteen people have been placed under formal investigation",
     "ideology": "Several suspects were linked to radical antifascism or the dissolved Jeune Garde; Deranque was a nationalist / far-right activist",
-    "finding": "The core attribution is supported by the arrests and investigators’ evidence. Deranque died from brain injuries after violence involving radical-left participants.",
+    "finding": "The core attribution is supported by the investigation. Deranque died from brain injuries after violence involving ultra-left participants; by September 24, fourteen people had been placed under formal investigation, including five newly charged suspects.",
     "context": "The speech omits that the victim was an active far-right militant and that the death followed a clash between rival political groups near an event. Those facts do not excuse the killing, but they matter to classifying the event.",
-    "legalStatus": "Criminal investigation and charges pending; suspects are presumed innocent.",
+    "legalStatus": "Fourteen people under formal investigation; three of five defendants charged in September were detained pretrial. All remain presumed innocent.",
     "sources": [
-      {"label": "AP — Eleven arrested", "url": "https://apnews.com/article/d333739b9f6025828ffaba3bceb1d263"},
-      {"label": "Le Monde — Search for perpetrators", "url": "https://www.lemonde.fr/en/france/article/2026/02/16/investigators-search-for-perpetrators-of-fatal-assault-of-far-right-activist-in-lyon_6750525_7.html"}
-    ]
+      {
+        "label": "AP — Eleven arrested",
+        "url": "https://apnews.com/article/d333739b9f6025828ffaba3bceb1d263",
+        "title": "AP — Eleven arrested",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Le Monde — Search for perpetrators",
+        "url": "https://www.lemonde.fr/en/france/article/2026/02/16/investigators-search-for-perpetrators-of-fatal-assault-of-far-right-activist-in-lyon_6750525_7.html",
+        "title": "Le Monde — Search for perpetrators",
+        "publisher": "Le Monde",
+        "sourceType": "news",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "TF1 Info — Fourteen people now facing charges",
+        "url": "https://www.tf1info.fr/justice-faits-divers/mort-de-quentin-deranque-cinq-nouvelles-mises-en-examen-14-au-total-2466145.html",
+        "title": "TF1 Info — Fourteen people now facing charges",
+        "publisher": "TF1 Info",
+        "sourceType": "news",
+        "evidenceRole": "current case status",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2026-11-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "alleged",
+      "ideologyAttribution": "corroborated",
+      "terrorismThreshold": "contested",
+      "organizationalLink": "local-network",
+      "networkInference": "limited"
+    }
   },
   {
     "id": "latin-american-guerrillas",
@@ -157,9 +380,36 @@
     "context": "The organizations differed in structure, era, constituency, and relationship to civil wars. Their existence does not demonstrate that current Western incidents share a command structure.",
     "legalStatus": "Extensive historical record; FARC’s main body demobilized while dissidents and ELN remain active.",
     "sources": [
-      {"label": "NCTC — FARC profile", "url": "https://www.dni.gov/nctc/terrorist_groups/farc.html"},
-      {"label": "Britannica — Tupamaro", "url": "https://www.britannica.com/topic/Tupamaro"}
-    ]
+      {
+        "label": "NCTC — FARC profile",
+        "url": "https://www.dni.gov/nctc/terrorist_groups/farc.html",
+        "title": "NCTC — FARC profile",
+        "publisher": "National Counterterrorism Center",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Britannica — Tupamaro",
+        "url": "https://www.britannica.com/topic/Tupamaro",
+        "title": "Britannica — Tupamaro",
+        "publisher": "Britannica",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "adjudicated",
+      "ideologyAttribution": "established",
+      "terrorismThreshold": "legal-or-consensus",
+      "organizationalLink": "named-organizations",
+      "networkInference": "limited"
+    }
   },
   {
     "id": "shining-path",
@@ -177,9 +427,36 @@
     "context": "State security forces also committed systematic abuses and a large share of the remaining killings. That does not diminish Shining Path’s responsibility, but it is necessary conflict context.",
     "legalStatus": "Leadership convicted; residual factions persisted.",
     "sources": [
-      {"label": "Amnesty — Peru Truth Commission findings", "url": "https://www.amnesty.org/es/wp-content/uploads/2021/09/amr460102004en.pdf"},
-      {"label": "ICTJ — Peru’s Painful Mirror", "url": "https://www.ictj.org/sites/default/files/subsites/perus-painful-mirror/"}
-    ]
+      {
+        "label": "Amnesty — Peru Truth Commission findings",
+        "url": "https://www.amnesty.org/es/wp-content/uploads/2021/09/amr460102004en.pdf",
+        "title": "Amnesty — Peru Truth Commission findings",
+        "publisher": "Amnesty",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "ICTJ — Peru’s Painful Mirror",
+        "url": "https://www.ictj.org/sites/default/files/subsites/perus-painful-mirror/",
+        "title": "ICTJ — Peru’s Painful Mirror",
+        "publisher": "ICTJ",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "adjudicated",
+      "ideologyAttribution": "established",
+      "terrorismThreshold": "legal-or-consensus",
+      "organizationalLink": "named-organization",
+      "networkInference": "demonstrated"
+    }
   },
   {
     "id": "cuban-training-camps",
@@ -197,9 +474,36 @@
     "context": "The speech gives no source for the specific “tens of thousands” figure, and the evidence reviewed did not independently verify that count. The historical relationship is supported; the quantity is not.",
     "legalStatus": "Historical state activity.",
     "sources": [
-      {"label": "CIA Reading Room — Cuban support for insurgency", "url": "https://www.cia.gov/readingroom/document/cia-rdp88t00768r000400500001-7"},
-      {"label": "National Archives — Declassified Cuban intelligence record", "url": "https://www.archives.gov/files/research/jfk/releases/2025/0318/104-10338-10018.pdf"}
-    ]
+      {
+        "label": "CIA Reading Room — Cuban support for insurgency",
+        "url": "https://www.cia.gov/readingroom/document/cia-rdp88t00768r000400500001-7",
+        "title": "CIA Reading Room — Cuban support for insurgency",
+        "publisher": "CIA Reading Room",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "National Archives — Declassified Cuban intelligence record",
+        "url": "https://www.archives.gov/files/research/jfk/releases/2025/0318/104-10338-10018.pdf",
+        "title": "National Archives — Declassified Cuban intelligence record",
+        "publisher": "National Archives",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "corroborated",
+      "ideologyAttribution": "established",
+      "terrorismThreshold": "analytic-fit",
+      "organizationalLink": "state-and-groups",
+      "networkInference": "limited"
+    }
   },
   {
     "id": "red-brigades-moro",
@@ -217,8 +521,27 @@
     "context": "This is an unambiguous historical case of far-left terrorism.",
     "legalStatus": "Responsibility established; members convicted.",
     "sources": [
-      {"label": "Britannica — Red Brigades", "url": "https://www.britannica.com/topic/Red-Brigades"}
-    ]
+      {
+        "label": "Britannica — Red Brigades",
+        "url": "https://www.britannica.com/topic/Red-Brigades",
+        "title": "Britannica — Red Brigades",
+        "publisher": "Britannica",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "adjudicated",
+      "ideologyAttribution": "established",
+      "terrorismThreshold": "legal-or-consensus",
+      "organizationalLink": "named-organization",
+      "networkInference": "demonstrated"
+    }
   },
   {
     "id": "red-army-faction",
@@ -236,8 +559,27 @@
     "context": "Rubio’s “dozens” is accurate. The RAF formally dissolved in 1998.",
     "legalStatus": "Responsibility established through convictions and the historical record.",
     "sources": [
-      {"label": "German BfV — History of the RAF era", "url": "https://www.verfassungsschutz.de/EN/about-us/bundesamt-fuer-verfassungsschutz/our-history/history_article.html"}
-    ]
+      {
+        "label": "German BfV — History of the RAF era",
+        "url": "https://www.verfassungsschutz.de/EN/about-us/bundesamt-fuer-verfassungsschutz/our-history/history_article.html",
+        "title": "German BfV — History of the RAF era",
+        "publisher": "German domestic intelligence service",
+        "sourceType": "government-report",
+        "evidenceRole": "comparative or statistical evidence",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "adjudicated",
+      "ideologyAttribution": "established",
+      "terrorismThreshold": "legal-or-consensus",
+      "organizationalLink": "named-organization",
+      "networkInference": "demonstrated"
+    }
   },
   {
     "id": "november-17",
@@ -255,9 +597,36 @@
     "context": "This is an unambiguous historical case of far-left terrorism.",
     "legalStatus": "Members convicted; organization dismantled.",
     "sources": [
-      {"label": "CIA — Richard S. Welch", "url": "https://www.cia.gov/legacy/honoring-heroes/heroes/richard-s-welch/"},
-      {"label": "NCTC — Greek domestic groups", "url": "https://www.odni.gov/nctc/groups/greek_domestic.html"}
-    ]
+      {
+        "label": "CIA — Richard S. Welch",
+        "url": "https://www.cia.gov/legacy/honoring-heroes/heroes/richard-s-welch/",
+        "title": "CIA — Richard S. Welch",
+        "publisher": "CIA",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "NCTC — Greek domestic groups",
+        "url": "https://www.odni.gov/nctc/groups/greek_domestic.html",
+        "title": "NCTC — Greek domestic groups",
+        "publisher": "National Counterterrorism Center",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "adjudicated",
+      "ideologyAttribution": "established",
+      "terrorismThreshold": "legal-or-consensus",
+      "organizationalLink": "named-organization",
+      "networkInference": "demonstrated"
+    }
   },
   {
     "id": "weather-underground",
@@ -275,9 +644,36 @@
     "context": "The cited bombings were usually preceded by warnings and caused property damage but no deaths. Three members died while building a bomb intended for a military dance. The group was violent and far-left; lethality still matters when comparing it with other threats.",
     "legalStatus": "Historical responsibility acknowledged and documented.",
     "sources": [
-      {"label": "FBI — Weather Underground bombings", "url": "https://www.fbi.gov/history/cases-and-criminals/weather-underground-bombings"},
-      {"label": "TIME — Weather Underground history", "url": "https://time.com/4549409/the-weather-underground-bad-moon-rising/"}
-    ]
+      {
+        "label": "FBI — Weather Underground bombings",
+        "url": "https://www.fbi.gov/history/cases-and-criminals/weather-underground-bombings",
+        "title": "FBI — Weather Underground bombings",
+        "publisher": "Federal Bureau of Investigation",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "TIME — Weather Underground history",
+        "url": "https://time.com/4549409/the-weather-underground-bad-moon-rising/",
+        "title": "TIME — Weather Underground history",
+        "publisher": "TIME",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "established",
+      "ideologyAttribution": "established",
+      "terrorismThreshold": "analytic-fit",
+      "organizationalLink": "named-organization",
+      "networkInference": "demonstrated"
+    }
   },
   {
     "id": "black-liberation-army",
@@ -295,8 +691,27 @@
     "context": "The BLA was a clandestine tendency rather than a single disciplined organization, which complicates exact membership and incident counts.",
     "legalStatus": "Multiple members convicted in specific cases.",
     "sources": [
-      {"label": "OJP — Black Liberation Army overview", "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/black-liberation-army-understanding-monitoring-controlling"}
-    ]
+      {
+        "label": "OJP — Black Liberation Army overview",
+        "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/black-liberation-army-understanding-monitoring-controlling",
+        "title": "OJP — Black Liberation Army overview",
+        "publisher": "OJP",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "adjudicated",
+      "ideologyAttribution": "established",
+      "terrorismThreshold": "analytic-fit",
+      "organizationalLink": "named-organization",
+      "networkInference": "limited"
+    }
   },
   {
     "id": "symbionese-liberation-army",
@@ -314,9 +729,36 @@
     "context": "This is a genuine far-left terrorist case, though the small cult-like group had an idiosyncratic ideology.",
     "legalStatus": "Members convicted.",
     "sources": [
-      {"label": "FBI — Patty Hearst and the SLA", "url": "https://www.fbi.gov/history/cases-and-criminals/patty-hearst"},
-      {"label": "PBS — Rise and fall of the SLA", "url": "https://www.pbs.org/wgbh/americanexperience/features/guerrilla-rise-and-fall-symbionese-liberation-army/"}
-    ]
+      {
+        "label": "FBI — Patty Hearst and the SLA",
+        "url": "https://www.fbi.gov/history/cases-and-criminals/patty-hearst",
+        "title": "FBI — Patty Hearst and the SLA",
+        "publisher": "Federal Bureau of Investigation",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "PBS — Rise and fall of the SLA",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/guerrilla-rise-and-fall-symbionese-liberation-army/",
+        "title": "PBS — Rise and fall of the SLA",
+        "publisher": "PBS",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "adjudicated",
+      "ideologyAttribution": "established",
+      "terrorismThreshold": "legal-or-consensus",
+      "organizationalLink": "named-organization",
+      "networkInference": "demonstrated"
+    }
   },
   {
     "id": "bombings-2500",
@@ -334,8 +776,27 @@
     "context": "The reviewed source does not substantiate “the overwhelming share” as an FBI attribution. The count included unexplained and nonpolitical bombings, most occurred at night, and few caused casualties.",
     "legalStatus": "Aggregate statistic.",
     "sources": [
-      {"label": "TIME — When bombings were nearly daily", "url": "https://time.com/4501670/bombings-of-america-burrough/"}
-    ]
+      {
+        "label": "TIME — When bombings were nearly daily",
+        "url": "https://time.com/4501670/bombings-of-america-burrough/",
+        "title": "TIME — When bombings were nearly daily",
+        "publisher": "TIME",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "corroborated",
+      "actorAttribution": "mixed",
+      "ideologyAttribution": "mixed",
+      "terrorismThreshold": "contested",
+      "organizationalLink": "multiple-actors",
+      "networkInference": "not-applicable"
+    }
   },
   {
     "id": "western-attacks-93",
@@ -353,8 +814,27 @@
     "context": "Rubio drops the crucial word “politically.” In the broader 1970–2018 Western dataset, nationalist and separatist terrorism was the largest category. Far-left groups caused 58% of deaths within that narrower political subset.",
     "legalStatus": "Dataset classification.",
     "sources": [
-      {"label": "Institute for Economics & Peace — Global Terrorism Index 2019", "url": "https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2019-web.pdf"}
-    ]
+      {
+        "label": "Institute for Economics & Peace — Global Terrorism Index 2019",
+        "url": "https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2019-web.pdf",
+        "title": "Institute for Economics & Peace — Global Terrorism Index 2019",
+        "publisher": "Institute for Economics & Peace",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "dataset-coded",
+      "ideologyAttribution": "dataset-coded",
+      "terrorismThreshold": "dataset-defined",
+      "organizationalLink": "multiple-actors",
+      "networkInference": "not-applicable"
+    }
   },
   {
     "id": "us-left-share-rise",
@@ -372,9 +852,36 @@
     "context": "That is a share from a very small denominator, rising from an average of four incidents a year in 2016–2024. CSIS describes current left-wing violence as less lethal, disorganized, and largely lacking formal coordination. From 2016 to mid-2025, another CSIS-based assessment counted 13 left-wing deaths, 82 jihadist, and 112 right-wing.",
     "legalStatus": "Dataset coding; some cases pending.",
     "sources": [
-      {"label": "CSIS — What the data tells us", "url": "https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us"},
-      {"label": "Just Security — Correctly assessing the data", "url": "https://www.justsecurity.org/122278/correctly-assessing-left-wing-terrorism-and-political-violence-in-the-united-states/"}
-    ]
+      {
+        "label": "CSIS — What the data tells us",
+        "url": "https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us",
+        "title": "CSIS — What the data tells us",
+        "publisher": "Center for Strategic and International Studies",
+        "sourceType": "research",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Just Security — Correctly assessing the data",
+        "url": "https://www.justsecurity.org/122278/correctly-assessing-left-wing-terrorism-and-political-violence-in-the-united-states/",
+        "title": "Just Security — Correctly assessing the data",
+        "publisher": "Just Security",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "dataset-coded",
+      "ideologyAttribution": "dataset-coded",
+      "terrorismThreshold": "dataset-defined",
+      "organizationalLink": "multiple-actors",
+      "networkInference": "not-applicable"
+    }
   },
   {
     "id": "germany-40-percent",
@@ -392,9 +899,36 @@
     "context": "Right-wing violent offenses were higher in absolute terms at 1,598, and total right-wing politically motivated crime was more than three times the left-wing total. The growth claim is accurate; the omitted baseline changes its comparative meaning.",
     "legalStatus": "Official police and intelligence statistics.",
     "sources": [
-      {"label": "German government — 2025 constitutional protection report", "url": "https://www.publikationen-bundesregierung.de/pp-en/search-for-publications/report-on-protection-of-constitution-2025-2445476"},
-      {"label": "El País — Germany political violence totals", "url": "https://elpais.com/internacional/2026-06-09/la-violencia-politica-en-alemania-marca-un-nuevo-record-en-un-ambiente-cada-vez-mas-polarizado.html"}
-    ]
+      {
+        "label": "German government — 2025 constitutional protection report",
+        "url": "https://www.publikationen-bundesregierung.de/pp-en/search-for-publications/report-on-protection-of-constitution-2025-2445476",
+        "title": "German government — 2025 constitutional protection report",
+        "publisher": "German government",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "El País — Germany political violence totals",
+        "url": "https://elpais.com/internacional/2026-06-09/la-violencia-politica-en-alemania-marca-un-nuevo-record-en-un-ambiente-cada-vez-mas-polarizado.html",
+        "title": "El País — Germany political violence totals",
+        "publisher": "El País",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "officially-coded",
+      "ideologyAttribution": "officially-coded",
+      "terrorismThreshold": "statutory-category",
+      "organizationalLink": "multiple-actors",
+      "networkInference": "not-applicable"
+    }
   },
   {
     "id": "greece-80-percent",
@@ -412,8 +946,27 @@
     "context": "The denominator is not all political violence or terrorism. It includes street clashes with far-right groups and police. “Involved in” an event is also broader than “drove” all the violence in it.",
     "legalStatus": "Event-dataset coding.",
     "sources": [
-      {"label": "ACLED — Radical group violence in the EU", "url": "https://acleddata.com/brief/radical-group-violence-rise-eu-acled-insight"}
-    ]
+      {
+        "label": "ACLED — Radical group violence in the EU",
+        "url": "https://acleddata.com/brief/radical-group-violence-rise-eu-acled-insight",
+        "title": "ACLED — Radical group violence in the EU",
+        "publisher": "ACLED",
+        "sourceType": "dataset",
+        "evidenceRole": "comparative or statistical evidence",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "dataset-coded",
+      "ideologyAttribution": "dataset-coded",
+      "terrorismThreshold": "dataset-defined",
+      "organizationalLink": "multiple-actors",
+      "networkInference": "not-applicable"
+    }
   },
   {
     "id": "ice-attacks",
@@ -431,10 +984,45 @@
     "context": "The speech bundles distinct events into one campaign. The Dallas gunman left anti-ICE notes but killed detainees and had no established group tie; authorities had not determined a political motive in McAllen. One proven cell does not establish a nationwide command structure.",
     "legalStatus": "Prairieland convictions; other investigations separate.",
     "sources": [
-      {"label": "DOJ — Prairieland convictions", "url": "https://www.justice.gov/opa/pr/antifa-cell-members-convicted-prairieland-ice-detention-center-shooting"},
-      {"label": "AP — Expanded Prairieland indictment", "url": "https://apnews.com/article/5f47df0c81c845b5b1e48c7095040129"},
-      {"label": "Washington Post — McAllen motive undetermined", "url": "https://www.washingtonpost.com/immigration/2025/07/07/texas-border-patrol-shooting-mcallen/"}
-    ]
+      {
+        "label": "DOJ — Prairieland convictions",
+        "url": "https://www.justice.gov/opa/pr/antifa-cell-members-convicted-prairieland-ice-detention-center-shooting",
+        "title": "DOJ — Prairieland convictions",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "AP — Expanded Prairieland indictment",
+        "url": "https://apnews.com/article/5f47df0c81c845b5b1e48c7095040129",
+        "title": "AP — Expanded Prairieland indictment",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Washington Post — McAllen motive undetermined",
+        "url": "https://www.washingtonpost.com/immigration/2025/07/07/texas-border-patrol-shooting-mcallen/",
+        "title": "Washington Post — McAllen motive undetermined",
+        "publisher": "Washington Post",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "mixed",
+      "ideologyAttribution": "mixed",
+      "terrorismThreshold": "mixed",
+      "organizationalLink": "cell-plus-individuals",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "annunciation-shooting",
@@ -452,10 +1040,45 @@
     "context": "A person’s transgender identity is not an ideology and does not establish left-wing motive. The quoted gun slogan supports anti-religious animus, not membership in a far-left movement.",
     "legalStatus": "Shooter died by suicide; motive assessment remained open.",
     "sources": [
-      {"label": "AP — What is known about motive", "url": "https://apnews.com/article/c4ebf0eaa7b4f67c697d93d679cb0e4b"},
-      {"label": "ADL — Shooter’s online activity", "url": "https://www.adl.org/resources/article/minneapolis-school-shooters-online-activity-reveals-deep-fascination-mass"},
-      {"label": "NPR/GPB — Search for an ideological motive", "url": "https://www.gpb.org/news/2025/08/30/there-no-message-the-search-for-ideological-motives-in-the-minneapolis-shooting"}
-    ]
+      {
+        "label": "AP — What is known about motive",
+        "url": "https://apnews.com/article/c4ebf0eaa7b4f67c697d93d679cb0e4b",
+        "title": "AP — What is known about motive",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "ADL — Shooter’s online activity",
+        "url": "https://www.adl.org/resources/article/minneapolis-school-shooters-online-activity-reveals-deep-fascination-mass",
+        "title": "ADL — Shooter’s online activity",
+        "publisher": "ADL",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "NPR/GPB — Search for an ideological motive",
+        "url": "https://www.gpb.org/news/2025/08/30/there-no-message-the-search-for-ideological-motives-in-the-minneapolis-shooting",
+        "title": "NPR/GPB — Search for an ideological motive",
+        "publisher": "NPR/GPB",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "established",
+      "ideologyAttribution": "contested",
+      "terrorismThreshold": "not-established",
+      "organizationalLink": "individual",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "mangione",
@@ -467,15 +1090,60 @@
     "category": "Contemporary U.S.",
     "verdict": "mixed",
     "confidence": "High",
-    "actors": "Luigi Mangione, accused of murdering UnitedHealthcare CEO Brian Thompson",
+    "actors": "Luigi Mangione, who pleaded guilty in federal court to stalking offenses resulting in the death of UnitedHealthcare CEO Brian Thompson",
     "ideology": "Anti-insurance and anti-corporate grievance; broader left-wing classification is contested",
-    "finding": "The killing and apparent anti-insurance motive are real, and CSIS codes the case as left-wing political violence.",
-    "context": "A New York judge dismissed state terrorism charges, holding that the alleged act did not satisfy the statutory intent to intimidate a population or coerce government. Murder charges remain. The case shows ideologically colored lone-actor violence, not an organized terrorist network.",
-    "legalStatus": "Accused; murder prosecution pending; state terrorism counts dismissed.",
+    "finding": "The killing, Mangione’s responsibility under his federal guilty plea, and the apparent anti-insurance motive are established to different degrees. CSIS codes the case as left-wing political violence.",
+    "context": "Mangione pleaded guilty federally to interstate stalking and cyberstalking resulting in death, not to a terrorism offense. A New York judge had dismissed state terrorism charges because the alleged conduct did not satisfy the statutory coercive-intent element. The evidence supports ideologically colored lone-actor violence, not an organized terrorist network.",
+    "legalStatus": "Federal guilty plea entered August 14, 2026; sentencing scheduled for December 18. State motion to dismiss is pending, with a response due October 9 and hearing set for December 10; state terrorism counts were dismissed.",
     "sources": [
-      {"label": "AP — Terrorism charges dismissed", "url": "https://apnews.com/article/8989b2a82558643f1099523e21611afc"},
-      {"label": "CSIS — U.S. left-wing violence dataset analysis", "url": "https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us"}
-    ]
+      {
+        "label": "AP — Terrorism charges dismissed",
+        "url": "https://apnews.com/article/8989b2a82558643f1099523e21611afc",
+        "title": "AP — Terrorism charges dismissed",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "CSIS — U.S. left-wing violence dataset analysis",
+        "url": "https://www.csis.org/analysis/left-wing-terrorism-and-political-violence-united-states-what-data-tells-us",
+        "title": "CSIS — U.S. left-wing violence dataset analysis",
+        "publisher": "Center for Strategic and International Studies",
+        "sourceType": "research",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "DOJ — Federal guilty plea",
+        "url": "https://www.justice.gov/usao-sdny/pr/luigi-mangione-pleads-guilty-connection-his-murder-united-healthcare-ceo-brian",
+        "title": "DOJ — Federal guilty plea",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "plea and sentencing status",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "AP — State case postponed and dismissal motion pending",
+        "url": "https://apnews.com/article/09c039f61c62d2c0e8815ea0189f0522",
+        "title": "AP — State case postponed and dismissal motion pending",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "current state and federal case status",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2026-10-10",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "adjudicated-federal",
+      "ideologyAttribution": "corroborated-grievance",
+      "terrorismThreshold": "not-established-under-state-law",
+      "organizationalLink": "individual",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "trump-attempts",
@@ -493,10 +1161,45 @@
     "context": "The two 2024 incidents occurred while Trump was a former president and candidate. Investigators found no settled ideology for Crooks, and Routh’s record crossed party lines. The plural events cannot all be reliably classified as far-left.",
     "legalStatus": "Crooks was killed; Routh was convicted; Allen is charged and presumed innocent.",
     "sources": [
-      {"label": "DOJ — Cole Allen assassination charge", "url": "https://www.justice.gov/opa/pr/suspect-white-house-correspondents-dinner-shooting-charged-attempt-assassinate-president"},
-      {"label": "NPR — FBI found no definitive Crooks motive", "url": "https://www.npr.org/2024/08/28/g-s1-19944/trump-rally-assassination-motive-attack"},
-      {"label": "PolitiFact — Ryan Routh’s political record", "url": "https://www.politifact.com/article/2024/sep/17/trump-apparent-assassination-attempt-what-we-know/"}
-    ]
+      {
+        "label": "DOJ — Cole Allen assassination charge",
+        "url": "https://www.justice.gov/opa/pr/suspect-white-house-correspondents-dinner-shooting-charged-attempt-assassinate-president",
+        "title": "DOJ — Cole Allen assassination charge",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "NPR — FBI found no definitive Crooks motive",
+        "url": "https://www.npr.org/2024/08/28/g-s1-19944/trump-rally-assassination-motive-attack",
+        "title": "NPR — FBI found no definitive Crooks motive",
+        "publisher": "NPR",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "PolitiFact — Ryan Routh’s political record",
+        "url": "https://www.politifact.com/article/2024/sep/17/trump-apparent-assassination-attempt-what-we-know/",
+        "title": "PolitiFact — Ryan Routh’s political record",
+        "publisher": "PolitiFact",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "mixed",
+      "ideologyAttribution": "mixed",
+      "terrorismThreshold": "mixed",
+      "organizationalLink": "individuals",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "charlie-kirk",
@@ -510,13 +1213,58 @@
     "confidence": "Medium",
     "actors": "Tyler Robinson, accused of killing Charlie Kirk",
     "ideology": "Alleged anti-fascist and pro-LGBTQ grievances; no demonstrated organizational membership",
-    "finding": "Charging evidence and alleged messages support a political motive hostile to Kirk and can reasonably be coded as left-wing if proven.",
-    "context": "The case has not been tried. The available evidence describes an individual defendant, not a cell or transnational network. “Greatest” is opinion, not a factual claim.",
-    "legalStatus": "Charged; preliminary hearing completed; presumed innocent.",
+    "finding": "A judge found probable cause to send all seven counts to trial. Charging evidence and alleged messages support a political motive hostile to Kirk and can reasonably be coded as left-wing if proven.",
+    "context": "A probable-cause ruling is not a verdict. Robinson pleaded not guilty, and the available evidence describes an individual defendant, not a cell or transnational network. “Greatest” is opinion, not a factual claim.",
+    "legalStatus": "Bound over for trial on all counts September 1, 2026; pleaded not guilty. The judge ordered trial-preparation estimates by October 21 and intends to address dates at the next hearing. Robinson is presumed innocent.",
     "sources": [
-      {"label": "AP — Preliminary hearing", "url": "https://apnews.com/article/charlie-kirk-tyler-robinson-preliminary-hearing-79dac2f8cf63b63b435ff962b5e44001"},
-      {"label": "ABC News — Charging allegations and messages", "url": "https://abcnews.com/US/tyler-robinson-set-face-formal-charges-shooting-death/story?id=125614396"}
-    ]
+      {
+        "label": "AP — Preliminary hearing",
+        "url": "https://apnews.com/article/charlie-kirk-tyler-robinson-preliminary-hearing-79dac2f8cf63b63b435ff962b5e44001",
+        "title": "AP — Preliminary hearing",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "ABC News — Charging allegations and messages",
+        "url": "https://abcnews.com/US/tyler-robinson-set-face-formal-charges-shooting-death/story?id=125614396",
+        "title": "ABC News — Charging allegations and messages",
+        "publisher": "ABC News",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "AP — Bound over for trial and not-guilty plea",
+        "url": "https://apnews.com/article/a70241ea50824c0b7ea5b53b9ed1c5f1",
+        "title": "AP — Bound over for trial and not-guilty plea",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "current case status",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "KSL — Court requests trial-scheduling estimates",
+        "url": "https://www.ksl.com/article/51632514/judge-in-tyler-robinson-case-wants-attorneys-ready-to-set-trial-dates",
+        "title": "KSL — Court requests trial-scheduling estimates",
+        "publisher": "KSL News",
+        "sourceType": "news",
+        "evidenceRole": "current scheduling status",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2026-10-22",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "probable-cause-only",
+      "ideologyAttribution": "alleged",
+      "terrorismThreshold": "alleged",
+      "organizationalLink": "individual",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "transnational-antifa-network",
@@ -530,14 +1278,58 @@
     "confidence": "Medium",
     "actors": "Antifa Ost; Informal Anarchist Federation / International Revolutionary Front; Armed Proletarian Justice; Revolutionary Class Self-Defense; diffuse antifascist militants",
     "ideology": "Anarchist, anti-capitalist, and militant antifascist tendencies",
-    "finding": "Some named groups commit real violence, and Antifa Ost members allegedly traveled across borders for attacks. FAI/FRI uses a transnational franchise-like label.",
-    "context": "Public evidence does not establish a single command, shared financial system, training pipeline, or safe-house network joining these groups across Europe and the Americas. Police investigations cited by AP generally did not find resource-sharing among the four U.S.-designated groups.",
-    "legalStatus": "Four groups designated by the U.S.; designation is an executive action, not proof of every network allegation.",
+    "finding": "Some named groups commit real violence, Antifa Ost members allegedly traveled across borders for attacks, and FAI/FRI uses a transnational franchise-like label. In August 2026, Treasury also sanctioned the Italian digital-services collective Autistici/Inventati for alleged material support and sanctioned Palestine Action and Masar Badil under counterterrorism authority.",
+    "context": "Public evidence still does not establish a single command, shared financial system, training pipeline, or safe-house network joining these groups across Europe and the Americas. The August action demonstrates the administration’s widening use of financial authorities; Treasury’s public notice states its findings but does not disclose underlying evidence sufficient to validate every network inference independently.",
+    "legalStatus": "Multiple foreign groups and support entities designated or sanctioned by the U.S.; executive designation is legally consequential but not a criminal conviction or proof of every asserted tie.",
     "sources": [
-      {"label": "AP — Four designations and thin links", "url": "https://apnews.com/article/a4f0b5f733e9a105101107b0c80d482e"},
-      {"label": "NCTC — Antifa Ost profile", "url": "https://www.dni.gov/nctc/terrorist_groups/antifa_ost.html"},
-      {"label": "Rewards for Justice — Violent Antifa groups", "url": "https://rewardsforjustice.net/rewards/violent-antifa-groups/"}
-    ]
+      {
+        "label": "AP — Four designations and thin links",
+        "url": "https://apnews.com/article/a4f0b5f733e9a105101107b0c80d482e",
+        "title": "AP — Four designations and thin links",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "NCTC — Antifa Ost profile",
+        "url": "https://www.dni.gov/nctc/terrorist_groups/antifa_ost.html",
+        "title": "NCTC — Antifa Ost profile",
+        "publisher": "National Counterterrorism Center",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Rewards for Justice — Violent Antifa groups",
+        "url": "https://rewardsforjustice.net/rewards/violent-antifa-groups/",
+        "title": "Rewards for Justice — Violent Antifa groups",
+        "publisher": "Rewards for Justice",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Treasury — August 2026 far-left network sanctions",
+        "url": "https://home.treasury.gov/news/press-releases/sb0616/",
+        "title": "Treasury — August 2026 far-left network sanctions",
+        "publisher": "U.S. Department of the Treasury",
+        "sourceType": "government",
+        "evidenceRole": "official sanctions action and allegations",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "not-applicable",
+      "actorAttribution": "mixed",
+      "ideologyAttribution": "shared-tendency",
+      "terrorismThreshold": "mixed",
+      "organizationalLink": "distinct-groups",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "iran-left-ties",
@@ -555,9 +1347,36 @@
     "context": "The speech identifies no left-wing group, operation, financing trail, or prosecution demonstrating the claimed “intimate” relationship. Evidence of Iranian proxies is not evidence of an Iran–Antifa alliance.",
     "legalStatus": "Unparticularized intelligence assertion.",
     "sources": [
-      {"label": "Europol — Iranian propaganda ecosystem crackdown", "url": "https://www.europol.europa.eu/media-press/newsroom/news/eu-targets-iran%E2%80%99s-revolutionary-guard-propaganda-ecosystem-in-online-crackdown"},
-      {"label": "ISD — Iran-aligned proxy activity in Europe", "url": "https://www.isdglobal.org/digital-dispatch/islamic-movement-of-the-companions-of-the-right-the-gig-economy-proxy-group-attacking-europe-hayi/"}
-    ]
+      {
+        "label": "Europol — Iranian propaganda ecosystem crackdown",
+        "url": "https://www.europol.europa.eu/media-press/newsroom/news/eu-targets-iran%E2%80%99s-revolutionary-guard-propaganda-ecosystem-in-online-crackdown",
+        "title": "Europol — Iranian propaganda ecosystem crackdown",
+        "publisher": "Europol",
+        "sourceType": "government-report",
+        "evidenceRole": "comparative or statistical evidence",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "ISD — Iran-aligned proxy activity in Europe",
+        "url": "https://www.isdglobal.org/digital-dispatch/islamic-movement-of-the-companions-of-the-right-the-gig-economy-proxy-group-attacking-europe-hayi/",
+        "title": "ISD — Iran-aligned proxy activity in Europe",
+        "publisher": "Institute for Strategic Dialogue",
+        "sourceType": "research",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "not-applicable",
+      "actorAttribution": "unproven",
+      "ideologyAttribution": "unproven",
+      "terrorismThreshold": "not-established",
+      "organizationalLink": "unproven",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "cuba-current-network",
@@ -575,9 +1394,36 @@
     "context": "A July 2026 State Department report repeats allegations about influence on U.S. movements, but transparent public evidence reviewed here does not establish a current operational relationship with an integrated Western terror network.",
     "legalStatus": "Government assessment; no specific current prosecution identified.",
     "sources": [
-      {"label": "State Department — Cuba report, July 2026", "url": "https://www.state.gov/wp-content/uploads/2026/07/Cuba-Report.pdf"},
-      {"label": "Washington Post — Context for the State report", "url": "https://www.washingtonpost.com/national-security/2026/07/20/state-dept-again-deems-cuba-threat-amid-talk-us-push-regime-change/"}
-    ]
+      {
+        "label": "State Department — Cuba report, July 2026",
+        "url": "https://www.state.gov/wp-content/uploads/2026/07/Cuba-Report.pdf",
+        "title": "State Department — Cuba report, July 2026",
+        "publisher": "U.S. Department of State",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Washington Post — Context for the State report",
+        "url": "https://www.washingtonpost.com/national-security/2026/07/20/state-dept-again-deems-cuba-threat-amid-talk-us-push-regime-change/",
+        "title": "Washington Post — Context for the State report",
+        "publisher": "Washington Post",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "not-applicable",
+      "actorAttribution": "official-assertion",
+      "ideologyAttribution": "corroborated-history",
+      "terrorismThreshold": "not-established",
+      "organizationalLink": "unproven",
+      "networkInference": "unproven"
+    }
   },
   {
     "id": "administration-policy",
@@ -591,14 +1437,75 @@
     "confidence": "High",
     "actors": "White House, State Department, Treasury, DOJ, FBI, and foreign partners",
     "ideology": "Policy targets “Antifa” and broadly described anti-capitalist, anti-Christian, migration, race, and gender extremism",
-    "finding": "The listed executive actions, designations, reward offer, and workshops occurred.",
-    "context": "U.S. law has no general domestic-terrorist-organization designation regime. Labeling domestic “Antifa” does not create one, and civil-liberties experts warn NSPM-7’s ideology-based language can sweep in protected speech and association. Government designation proves a policy choice, not every underlying network claim.",
+    "finding": "The listed executive actions, designations, reward offer, workshops, July 2026 visa-restriction policy, and August 2026 Treasury sanctions occurred.",
+    "context": "U.S. law has no general domestic-terrorist-organization designation regime. Labeling domestic “Antifa” does not create one, and civil-liberties experts warn NSPM-7’s ideology-based language can sweep in protected speech and association. The visa policy reaches support, incitement, logistics, financing, and broadly described economic sabotage. Government designation or sanction proves a policy choice and legal consequence, not every underlying network claim.",
     "legalStatus": "Active executive policy; scope and implementation subject to constitutional and statutory limits.",
     "sources": [
-      {"label": "White House — NSPM-7", "url": "https://www.whitehouse.gov/presidential-actions/2025/09/countering-domestic-terrorism-and-organized-political-violence/"},
-      {"label": "White House — Antifa designation order", "url": "https://www.whitehouse.gov/presidential-actions/2025/09/designating-antifa-as-a-domestic-terrorist-organization/"},
-      {"label": "CRS — No formal domestic designation process", "url": "https://www.congress.gov/crs-product/IF10839"},
-      {"label": "ACLU — NSPM-7 civil-liberties analysis", "url": "https://www.aclu.org/news/national-security/how-nspm-7-seeks-to-use-domestic-terrorism-to-target-nonprofits-and-activists"}
-    ]
+      {
+        "label": "White House — NSPM-7",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/09/countering-domestic-terrorism-and-organized-political-violence/",
+        "title": "White House — NSPM-7",
+        "publisher": "The White House",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "White House — Antifa designation order",
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/09/designating-antifa-as-a-domestic-terrorist-organization/",
+        "title": "White House — Antifa designation order",
+        "publisher": "The White House",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "CRS — No formal domestic designation process",
+        "url": "https://www.congress.gov/crs-product/IF10839",
+        "title": "CRS — No formal domestic designation process",
+        "publisher": "Congressional Research Service",
+        "sourceType": "legal-analysis",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "ACLU — NSPM-7 civil-liberties analysis",
+        "url": "https://www.aclu.org/news/national-security/how-nspm-7-seeks-to-use-domestic-terrorism-to-target-nonprofits-and-activists",
+        "title": "ACLU — NSPM-7 civil-liberties analysis",
+        "publisher": "American Civil Liberties Union",
+        "sourceType": "advocacy-analysis",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "State Department — July 2026 visa restriction policy",
+        "url": "https://ebs.publicnow.com/view/594EC5E4BA763F565AF8E7CD49E08061796F055B",
+        "title": "State Department — July 2026 visa restriction policy",
+        "publisher": "U.S. Department of State (archived distributor copy)",
+        "sourceType": "government",
+        "evidenceRole": "official policy announcement",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Treasury — August 2026 sanctions",
+        "url": "https://home.treasury.gov/news/press-releases/sb0616/",
+        "title": "Treasury — August 2026 sanctions",
+        "publisher": "U.S. Department of the Treasury",
+        "sourceType": "government",
+        "evidenceRole": "official sanctions action and allegations",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2026-11-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "event": "confirmed",
+      "actorAttribution": "official-record",
+      "ideologyAttribution": "policy-category",
+      "terrorismThreshold": "not-applicable",
+      "organizationalLink": "policy-defined",
+      "networkInference": "official-assertion"
+    }
   }
 ]

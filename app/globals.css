@@ -107,6 +107,22 @@ h3 {
   border: 0;
 }
 
+.skip-link {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 100;
+  padding: 10px 14px;
+  background: var(--ink);
+  color: var(--paper);
+  font-weight: 800;
+  transform: translateY(-160%);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
 .site-header {
   position: sticky;
   top: 0;
@@ -336,9 +352,60 @@ h3 {
 .claims-section,
 .attribution-section,
 .method-section,
-.takeaway-section {
+.takeaway-section,
+.methodology-section,
+.change-section {
   padding: 100px 0;
   border-bottom: 1px solid var(--ink);
+}
+
+.freshness-strip {
+  border-bottom: 1px solid var(--ink);
+  background: var(--paper-dark);
+}
+
+.freshness-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) auto;
+  align-items: center;
+  gap: 0;
+}
+
+.freshness-grid > div,
+.freshness-grid > a {
+  min-height: 92px;
+  padding: 20px 24px;
+  border-left: 1px solid var(--line);
+}
+
+.freshness-grid > a {
+  display: flex;
+  align-items: center;
+  border-right: 1px solid var(--line);
+  color: var(--teal-dark);
+  font-size: 0.72rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.freshness-grid span,
+.freshness-grid strong {
+  display: block;
+}
+
+.freshness-grid span {
+  margin-bottom: 8px;
+  color: var(--ink-soft);
+  font-family: var(--mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.freshness-grid strong {
+  font-family: var(--serif);
+  font-size: 0.98rem;
+  font-weight: 500;
 }
 
 .section-heading {
@@ -559,6 +626,7 @@ h3 {
 
 .claims-grid {
   display: grid;
+  align-items: start;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 18px;
 }
@@ -654,6 +722,36 @@ h3 {
   font-size: 0.9rem;
 }
 
+.dimension-grid {
+  display: grid;
+  margin: 20px 0 0;
+  border-top: 1px solid var(--line);
+  border-left: 1px solid var(--line);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.dimension-grid > div {
+  min-width: 0;
+  padding: 10px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.dimension-grid dt {
+  color: var(--ink-soft);
+  font-family: var(--mono);
+  font-size: 0.53rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.dimension-grid dd {
+  margin: 4px 0 0;
+  font-size: 0.67rem;
+  font-weight: 800;
+  line-height: 1.25;
+}
+
 .claim-card details {
   margin: 22px -24px -24px;
   border-top: 1px solid var(--ink);
@@ -725,6 +823,49 @@ h3 {
   color: var(--teal-dark);
   font-size: 0.72rem;
   font-weight: 800;
+}
+
+.source-list {
+  display: grid;
+  padding: 0;
+  margin: 10px 0 0;
+  gap: 10px;
+  list-style: none;
+}
+
+.source-list li {
+  padding-left: 12px;
+  border-left: 2px solid var(--teal);
+}
+
+.source-list a,
+.source-list span {
+  display: block;
+}
+
+.source-list a {
+  color: var(--teal-dark);
+  font-size: 0.75rem;
+  font-weight: 800;
+}
+
+.source-list span {
+  margin-top: 2px;
+  color: var(--ink-soft);
+  font-size: 0.61rem;
+  line-height: 1.4;
+}
+
+.record-review {
+  display: flex;
+  padding: 12px 24px 20px;
+  color: var(--ink-soft);
+  flex-wrap: wrap;
+  gap: 5px 14px;
+  font-family: var(--mono);
+  font-size: 0.56rem;
+  line-height: 1.45;
+  text-transform: uppercase;
 }
 
 .confidence {
@@ -832,6 +973,19 @@ h3 {
   font-size: 0.78rem;
 }
 
+.policy-audit-grid .source-list a {
+  color: var(--paper);
+}
+
+.policy-audit-grid .source-list span,
+.policy-audit-grid .record-review {
+  color: rgba(243, 239, 230, 0.6);
+}
+
+.policy-audit-grid .record-review {
+  padding: 14px 0 0;
+}
+
 .policy-audit-grid details {
   margin-top: 18px;
   padding-top: 12px;
@@ -871,7 +1025,8 @@ h3 {
 
 .timeline {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 48px;
 }
 
 .timeline article {
@@ -1238,6 +1393,21 @@ h3 {
   grid-column: 3;
 }
 
+.attribution-card > .dimension-grid,
+.attribution-card > .source-list,
+.attribution-card > .record-review {
+  grid-column: 1 / -1;
+}
+
+.attribution-card > .dimension-grid {
+  margin-top: 0;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.attribution-card > .record-review {
+  padding: 0;
+}
+
 .law-section {
   padding: 100px 0;
   border-bottom: 1px solid var(--ink);
@@ -1286,6 +1456,164 @@ h3 {
   margin-top: 14px;
 }
 
+.warning-copy {
+  padding: 16px;
+  border-left: 3px solid var(--gold);
+  background: rgba(162, 111, 32, 0.09);
+  color: var(--ink) !important;
+  font-size: 0.82rem !important;
+}
+
+.methodology-hero {
+  padding: 110px 0 86px;
+  border-bottom: 1px solid var(--ink);
+  background: var(--paper-light);
+}
+
+.narrow-shell {
+  width: min(940px, calc(100% - 40px));
+}
+
+.methodology-hero h1 {
+  max-width: 900px;
+  margin-bottom: 28px;
+  font-size: clamp(3.2rem, 7vw, 6.4rem);
+  font-weight: 900;
+  letter-spacing: -0.06em;
+  text-transform: uppercase;
+}
+
+.integrity-banner {
+  padding: 22px;
+  border: 1px solid var(--ink);
+  background: var(--paper-dark);
+}
+
+.integrity-banner strong {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.integrity-banner p {
+  margin-bottom: 5px;
+  color: var(--ink-soft);
+  font-size: 0.83rem;
+}
+
+.prose-grid {
+  display: grid;
+  gap: 72px;
+}
+
+.prose-grid article {
+  display: grid;
+  grid-template-columns: minmax(180px, 0.42fr) minmax(0, 1fr);
+  column-gap: 42px;
+}
+
+.prose-grid article > *:not(.eyebrow) {
+  grid-column: 2;
+}
+
+.prose-grid article > .eyebrow {
+  grid-row: 1 / span 5;
+}
+
+.prose-grid h2 {
+  margin-bottom: 18px;
+  font-family: var(--serif);
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.prose-grid p,
+.long-form-list {
+  color: var(--ink-soft);
+}
+
+.long-form-list {
+  display: grid;
+  padding-left: 20px;
+  gap: 9px;
+}
+
+.policy-table {
+  display: grid;
+  border-top: 1px solid var(--ink);
+}
+
+.policy-table > div {
+  display: grid;
+  padding: 13px 0;
+  border-bottom: 1px solid var(--line);
+  grid-template-columns: 180px 1fr;
+  gap: 18px;
+}
+
+.policy-table strong {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+}
+
+.policy-table span {
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+}
+
+.hash-line {
+  overflow-wrap: anywhere;
+  font-family: var(--mono);
+  font-size: 0.64rem;
+}
+
+.change-section {
+  background: var(--paper-dark);
+}
+
+.change-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+
+.change-grid > div > h3 {
+  margin-bottom: 14px;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.change-card {
+  padding: 18px;
+  border-top: 1px solid var(--ink);
+  background: var(--paper-light);
+}
+
+.change-card time,
+.change-card span {
+  display: block;
+  color: var(--ink-soft);
+  font-family: var(--mono);
+  font-size: 0.58rem;
+  text-transform: uppercase;
+}
+
+.change-card strong {
+  display: block;
+  margin: 8px 0;
+  font-family: var(--serif);
+  font-size: 1.1rem;
+}
+
+.change-card p {
+  margin-bottom: 10px;
+  color: var(--ink-soft);
+  font-size: 0.8rem;
+}
+
 .site-footer {
   padding: 54px 0;
   background: var(--ink);
@@ -1306,6 +1634,13 @@ h3 {
   margin-bottom: 0;
   color: rgba(243, 239, 230, 0.6);
   font-size: 0.75rem;
+}
+
+.footer-disclosure {
+  max-width: 520px;
+  margin: 6px 0 0;
+  color: rgba(243, 239, 230, 0.48);
+  font-size: 0.66rem;
 }
 
 .footer-links {
@@ -1379,6 +1714,14 @@ h3 {
     grid-column: 1 / -1;
   }
 
+  .attribution-card > .dimension-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .freshness-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .law-grid,
   .takeaway-grid {
     grid-template-columns: 1fr;
@@ -1433,7 +1776,9 @@ h3 {
   .takeaway-section,
   .policy-section,
   .evidence-section,
-  .law-section {
+  .law-section,
+  .methodology-section,
+  .change-section {
     padding: 72px 0;
   }
 
@@ -1462,6 +1807,37 @@ h3 {
 
   .record-grid {
     grid-template-columns: 1fr;
+  }
+
+  .dimension-grid,
+  .attribution-card > .dimension-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .freshness-grid,
+  .change-grid,
+  .prose-grid article {
+    grid-template-columns: 1fr;
+  }
+
+  .freshness-grid > div,
+  .freshness-grid > a {
+    min-height: 78px;
+    border-right: 1px solid var(--line);
+  }
+
+  .prose-grid article > *,
+  .prose-grid article > *:not(.eyebrow) {
+    grid-column: 1;
+  }
+
+  .prose-grid article > .eyebrow {
+    grid-row: auto;
+  }
+
+  .policy-table > div {
+    grid-template-columns: 1fr;
+    gap: 4px;
   }
 
   .timeline,

@@ -1,0 +1,36 @@
+{
+  "project": "Claim / Cause",
+  "version": "2.0.0",
+  "publishedAt": "2026-10-07",
+  "evidenceThrough": "2026-10-07",
+  "maintainer": "dtrezise",
+  "repository": "https://github.com/dtrezise/ActivistDB",
+  "canonicalUrl": "https://dtrezise.github.io/ActivistDB/",
+  "primarySpeech": {
+    "speaker": "Marco Rubio",
+    "date": "2026-07-16",
+    "event": "Ministerial on the Resurgence of Political Terrorism",
+    "officialVideo": "https://www.youtube.com/watch?v=8Kv_XUGS0qs",
+    "localTranscript": "/data/rubio-speech-transcript.txt",
+    "transcriptProvenance": "User-supplied transcript retained for claim extraction; checked against the official State Department video for identity and context.",
+    "transcriptSha256": "309b1df60e70f6a43febd0e4e11d168428daa67a413955c721252a2b286a29f1"
+  },
+  "review": {
+    "lastEditorialReview": "2026-10-07",
+    "reviewMethod": "OpenAI Codex-assisted source review and structured-data audit",
+    "independentHumanReview": false,
+    "disclosure": "No independent human fact-check has yet been completed. Government releases are treated as evidence of official action or allegation, not automatic proof of the underlying claim."
+  },
+  "scope": {
+    "speechClaims": 30,
+    "antifaCases": 13,
+    "policyClaims": 5,
+    "antifaSampling": "Purposive, not representative: cases were selected to test different attribution problems, including proven cells, self-identified individuals, mixed crowds, unresolved prosecutions, foreign organizations, and durable false rumors.",
+    "prevalenceWarning": "Counts in the ANTIFA ledger must not be interpreted as prevalence estimates or as a random sample of political violence."
+  },
+  "maintenance": {
+    "automatedChecks": "Daily source-health and watchlist checks flag changed, stale, or inaccessible evidence.",
+    "editorialRule": "Automation may flag evidence and refresh machine-readable health metadata; it must not silently change a verdict or convert an allegation into fact.",
+    "staleAfterDays": 180
+  }
+}

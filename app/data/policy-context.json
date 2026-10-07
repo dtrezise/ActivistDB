@@ -8,13 +8,26 @@
     "sources": [
       {
         "label": "DSA — Workers Deserve More",
-        "url": "https://program.dsausa.org/"
+        "url": "https://program.dsausa.org/",
+        "title": "DSA — Workers Deserve More",
+        "publisher": "DSA",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
       },
       {
         "label": "Speaker Johnson — July 14 remarks",
-        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917",
+        "title": "Speaker Johnson — July 14 remarks",
+        "publisher": "Speaker Johnson",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
       }
-    ]
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-01-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending"
   },
   {
     "id": "dsa-institutions",
@@ -25,13 +38,26 @@
     "sources": [
       {
         "label": "DSA — A Real Democracy",
-        "url": "https://program.dsausa.org/"
+        "url": "https://program.dsausa.org/",
+        "title": "DSA — A Real Democracy",
+        "publisher": "DSA",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
       },
       {
         "label": "Speaker Johnson — July 14 remarks",
-        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917",
+        "title": "Speaker Johnson — July 14 remarks",
+        "publisher": "Speaker Johnson",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
       }
-    ]
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-01-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending"
   },
   {
     "id": "dsa-police-prisons",
@@ -42,13 +68,26 @@
     "sources": [
       {
         "label": "DSA — End Mass Incarceration and Police Immunity",
-        "url": "https://program.dsausa.org/"
+        "url": "https://program.dsausa.org/",
+        "title": "DSA — End Mass Incarceration and Police Immunity",
+        "publisher": "DSA",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
       },
       {
         "label": "Speaker Johnson — July 14 remarks",
-        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917",
+        "title": "Speaker Johnson — July 14 remarks",
+        "publisher": "Speaker Johnson",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
       }
-    ]
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-01-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending"
   },
   {
     "id": "dsa-borders-amnesty",
@@ -59,13 +98,26 @@
     "sources": [
       {
         "label": "DSA — Abolish ICE",
-        "url": "https://program.dsausa.org/"
+        "url": "https://program.dsausa.org/",
+        "title": "DSA — Abolish ICE",
+        "publisher": "DSA",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
       },
       {
         "label": "Speaker Johnson — July 14 remarks",
-        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917",
+        "title": "Speaker Johnson — July 14 remarks",
+        "publisher": "Speaker Johnson",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
       }
-    ]
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-01-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending"
   },
   {
     "id": "democratic-party-takeover",
@@ -76,16 +128,34 @@
     "sources": [
       {
         "label": "DSA — Our Perspective",
-        "url": "https://program.dsausa.org/"
+        "url": "https://program.dsausa.org/",
+        "title": "DSA — Our Perspective",
+        "publisher": "DSA",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
       },
       {
         "label": "AP — Republican communist messaging",
-        "url": "https://apnews.com/article/5381c24e8eb4235ae993e812ad45ffbd"
+        "url": "https://apnews.com/article/5381c24e8eb4235ae993e812ad45ffbd",
+        "title": "AP — Republican communist messaging",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
       },
       {
         "label": "Speaker Johnson — July 14 remarks",
-        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917"
+        "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2917",
+        "title": "Speaker Johnson — July 14 remarks",
+        "publisher": "Speaker Johnson",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
       }
-    ]
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-01-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending"
   }
 ]

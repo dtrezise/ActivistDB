@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-10-07",
+    "version": "2.0.0",
+    "type": "methodology-and-current-events-review",
+    "summary": "Added dimensional assessments, per-record review dates, structured source provenance, explicit sampling limits, a public corrections log, validation gates, and daily monitoring. Updated active cases and policy actions through October 7, 2026.",
+    "recordsChanged": [
+      "jihadist-mass-casualties",
+      "greece-nestora",
+      "lyon-deranque",
+      "mangione",
+      "charlie-kirk",
+      "transnational-antifa-network",
+      "administration-policy",
+      "direct-action-minnesota-2026",
+      "wagner-threats-2026"
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "version": "1.0.0",
+    "type": "initial-publication",
+    "summary": "Published the 30-claim Rubio speech audit, 13-case ANTIFA attribution ledger, and five-record policy-framing audit.",
+    "recordsChanged": "all"
+  }
+]

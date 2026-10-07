@@ -4,8 +4,15 @@ import Link from "next/link";
 import { useMemo, useState } from "react";
 import claimsJson from "@/app/data/claims.json";
 import policyJson from "@/app/data/policy-context.json";
+import metaJson from "@/app/data/project-meta.json";
 import { SiteFooter } from "@/app/components/SiteFooter";
 import { SiteHeader } from "@/app/components/SiteHeader";
+import {
+  DimensionGrid,
+  RecordReview,
+  SourceList,
+} from "@/app/components/ResearchRecord";
+import { formatDate, type ResearchSource } from "@/app/lib/research";
 
 type Verdict =
   | "supported"
@@ -14,8 +21,6 @@ type Verdict =
   | "misleading"
   | "unsupported"
   | "pending";
-
-type Source = { label: string; url: string };
 
 type Claim = {
   id: string;
@@ -32,7 +37,11 @@ type Claim = {
   finding: string;
   context: string;
   legalStatus: string;
-  sources: Source[];
+  sources: ResearchSource[];
+  reviewedAt: string;
+  nextReviewAt: string;
+  reviewer: string;
+  dimensions: Record<string, string>;
 };
 
 const claims = claimsJson as Claim[];
@@ -43,7 +52,10 @@ type PolicyContext = {
   verdict: Verdict;
   finding: string;
   significance: string;
-  sources: Source[];
+  sources: ResearchSource[];
+  reviewedAt: string;
+  nextReviewAt: string;
+  reviewer: string;
 };
 
 const policyContext = policyJson as PolicyContext[];
@@ -112,6 +124,7 @@ function ClaimCard({ claim }: { claim: Claim }) {
       <h3>{claim.title}</h3>
       <blockquote>“{claim.quote}”</blockquote>
       <p className="finding">{claim.finding}</p>
+      <DimensionGrid dimensions={claim.dimensions} />
       <details>
         <summary>Open evidence record</summary>
         <div className="record-grid">
@@ -133,22 +146,15 @@ function ClaimCard({ claim }: { claim: Claim }) {
           </div>
         </div>
         <div className="source-row">
-          <span className="record-label">Sources</span>
-          <div className="source-links">
-            {claim.sources.map((source) => (
-              <a
-                href={source.url}
-                target="_blank"
-                rel="noreferrer"
-                key={source.url}
-              >
-                {source.label}
-                <span aria-hidden="true"> ↗</span>
-              </a>
-            ))}
-          </div>
+          <span className="record-label">Sources and evidentiary role</span>
+          <SourceList sources={claim.sources} />
         </div>
         <p className="confidence">Assessment confidence: {claim.confidence}</p>
+        <RecordReview
+          reviewedAt={claim.reviewedAt}
+          nextReviewAt={claim.nextReviewAt}
+          reviewer={claim.reviewer}
+        />
       </details>
     </article>
   );
@@ -205,11 +211,13 @@ export default function Home() {
   return (
     <>
       <SiteHeader />
-      <main>
+      <main id="main-content">
         <section className="hero">
           <div className="shell hero-grid">
             <div className="hero-copy">
-              <p className="eyebrow">ActivistDB investigation · July 24, 2026</p>
+              <p className="eyebrow">
+                ActivistDB investigation · Evidence through {formatDate(metaJson.evidenceThrough)}
+              </p>
               <h1>
                 Rubio’s terrorism case,
                 <br />
@@ -231,9 +239,10 @@ export default function Home() {
                 </Link>
               </div>
               <p className="source-note">
-                Based on the user-supplied speech transcript. Official records,
-                court documents, independent datasets, and reported
-                investigations are linked in every entry.
+                Claim extraction uses the preserved user-supplied transcript,
+                anchored to the official State Department video. Court records,
+                official data, and independent reporting are linked by role in
+                every entry.
               </p>
             </div>
             <aside className="finding-panel" aria-label="Central finding">
@@ -254,6 +263,24 @@ export default function Home() {
                 “Antifa”—to a single organization.
               </p>
             </aside>
+          </div>
+        </section>
+
+        <section className="freshness-strip" aria-label="Research status">
+          <div className="shell freshness-grid">
+            <div>
+              <span>Evidence through</span>
+              <strong>{formatDate(metaJson.evidenceThrough)}</strong>
+            </div>
+            <div>
+              <span>Method</span>
+              <strong>Six-dimensional claim testing</strong>
+            </div>
+            <div>
+              <span>Disclosure</span>
+              <strong>Independent human review pending</strong>
+            </div>
+            <Link href="/methodology/">Read the standard →</Link>
           </div>
         </section>
 
@@ -486,18 +513,12 @@ export default function Home() {
                   <details>
                     <summary>Why the distinction matters</summary>
                     <p>{item.significance}</p>
-                    <div className="source-links">
-                      {item.sources.map((source) => (
-                        <a
-                          href={source.url}
-                          target="_blank"
-                          rel="noreferrer"
-                          key={source.url}
-                        >
-                          {source.label} ↗
-                        </a>
-                      ))}
-                    </div>
+                    <SourceList sources={item.sources} />
+                    <RecordReview
+                      reviewedAt={item.reviewedAt}
+                      nextReviewAt={item.nextReviewAt}
+                      reviewer={item.reviewer}
+                    />
                   </details>
                 </article>
               ))}
@@ -572,6 +593,41 @@ export default function Home() {
                   AP conference report ↗
                 </a>
               </article>
+              <article>
+                <time>Jul. 2026</time>
+                <span className="timeline-dot" />
+                <h3>Visa restrictions broaden the enforcement perimeter</h3>
+                <p>
+                  State announces restrictions covering members and supporters
+                  accused of incitement, logistics, financing, violent crime,
+                  and broadly described economic sabotage.
+                </p>
+                <a
+                  href="https://ebs.publicnow.com/view/594EC5E4BA763F565AF8E7CD49E08061796F055B"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Read the policy ↗
+                </a>
+              </article>
+              <article>
+                <time>Aug. 2026</time>
+                <span className="timeline-dot" />
+                <h3>Treasury sanctions groups and digital infrastructure</h3>
+                <p>
+                  OFAC sanctions Autistici/Inventati, Palestine Action, Masar
+                  Badil, and two leaders. The action is legally consequential;
+                  the public notice supplies allegations, not an adjudicated
+                  criminal record.
+                </p>
+                <a
+                  href="https://home.treasury.gov/news/press-releases/sb0616/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Read Treasury’s notice ↗
+                </a>
+              </article>
             </div>
           </div>
         </section>
@@ -643,7 +699,8 @@ export default function Home() {
                 <p>
                   Recent cases are marked pending and defendants are presumed
                   innocent. Ratings should change when charges, judgments, or
-                  credible new evidence change the record.
+                  credible new evidence change the record. Every entry now shows
+                  its review date and next scheduled review.
                 </p>
               </div>
               <div>
@@ -656,6 +713,13 @@ export default function Home() {
                     source transcript
                   </a>
                   . Corrections can be filed in the public repository.
+                </p>
+              </div>
+              <div>
+                <h3>Governance</h3>
+                <p>
+                  Read the full <Link href="/methodology/">verdict rubric,
+                  sampling limits, review disclosure, and corrections log</Link>.
                 </p>
               </div>
             </div>

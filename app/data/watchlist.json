@@ -1,0 +1,70 @@
+[
+  {
+    "id": "greece-nestora",
+    "priority": "high",
+    "nextReviewAt": "2026-11-07",
+    "query": "\"Afroditi Nestora\" OR \"Vagia Nestora\"",
+    "signals": ["indictment", "trial", "judgment", "terrorism law", "motive", "claim of responsibility"],
+    "urls": [
+      "https://www.ertnews.gr/tag/afroditi-nestora/",
+      "https://www.ekathimerini.com/tag/terrorism/"
+    ]
+  },
+  {
+    "id": "lyon-deranque",
+    "priority": "high",
+    "nextReviewAt": "2026-11-07",
+    "query": "\"Quentin Deranque\"",
+    "signals": ["mise en examen", "trial", "judgment", "Jeune Garde", "ultragauche"],
+    "urls": ["https://www.tf1info.fr/justice-faits-divers/"]
+  },
+  {
+    "id": "mangione",
+    "priority": "high",
+    "nextReviewAt": "2026-10-10",
+    "query": "\"Luigi Mangione\"",
+    "signals": ["sentencing", "state trial", "appeal", "terrorism count"],
+    "urls": [
+      "https://www.justice.gov/usao-sdny/pr/luigi-mangione-pleads-guilty-connection-his-murder-united-healthcare-ceo-brian"
+    ]
+  },
+  {
+    "id": "charlie-kirk",
+    "priority": "high",
+    "nextReviewAt": "2026-10-22",
+    "query": "\"Tyler Robinson\" AND \"Charlie Kirk\"",
+    "signals": ["trial date", "motion", "verdict", "motive", "organizational link"],
+    "urls": ["https://apnews.com/article/a70241ea50824c0b7ea5b53b9ed1c5f1"]
+  },
+  {
+    "id": "direct-action-minnesota-2026",
+    "priority": "high",
+    "nextReviewAt": "2026-11-07",
+    "query": "\"Direct Action Minnesota\" OR \"United States v. Sant\"",
+    "signals": ["trial", "plea", "dismissal", "verdict", "Antifa ties"],
+    "urls": [
+      "https://www.justice.gov/usao-mn/pr/15-members-direct-action-minnesota-minneapolis-based-direct-action-group-antifa-ties"
+    ]
+  },
+  {
+    "id": "wagner-threats-2026",
+    "priority": "high",
+    "nextReviewAt": "2026-11-07",
+    "query": "\"Kyle Wagner\" AND (Antifa OR ICE)",
+    "signals": ["trial", "plea", "dismissal", "verdict", "Supreme Court"],
+    "urls": [
+      "https://law.justia.com/cases/federal/appellate-courts/ca6/26-1294/26-1294-2026-08-12.html"
+    ]
+  },
+  {
+    "id": "administration-policy",
+    "priority": "high",
+    "nextReviewAt": "2026-11-07",
+    "query": "(Antifa OR \"far-left terrorism\") AND (sanction OR designation OR injunction)",
+    "signals": ["designation", "sanction", "visa restriction", "injunction", "constitutional challenge"],
+    "urls": [
+      "https://home.treasury.gov/news/press-releases/sb0616/",
+      "https://www.whitehouse.gov/presidential-actions/"
+    ]
+  }
+]

@@ -9,9 +9,37 @@
     "attribution": "This is the strongest recent U.S. evidence for a self-consciously Antifa-aligned cell committing organized political violence. The convictions support the cell-level attribution; they do not by themselves prove a national organization.",
     "scope": "Local cell; criminal conspiracy proven at trial",
     "sources": [
-      {"label": "DOJ — Nine Antifa cell members convicted", "url": "https://www.justice.gov/opa/pr/antifa-cell-members-convicted-prairieland-ice-detention-center-shooting"},
-      {"label": "AP — Expanded indictment and allegations", "url": "https://apnews.com/article/5f47df0c81c845b5b1e48c7095040129"}
-    ]
+      {
+        "label": "DOJ — Nine Antifa cell members convicted",
+        "url": "https://www.justice.gov/opa/pr/antifa-cell-members-convicted-prairieland-ice-detention-center-shooting",
+        "title": "DOJ — Nine Antifa cell members convicted",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "AP — Expanded indictment and allegations",
+        "url": "https://apnews.com/article/5f47df0c81c845b5b1e48c7095040129",
+        "title": "AP — Expanded indictment and allegations",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "established",
+      "conduct": "adjudicated",
+      "motive": "established",
+      "coordination": "established",
+      "command": "local-only",
+      "networkLink": "unproven",
+      "adjudication": "convicted"
+    }
   },
   {
     "id": "van-spronsen-2019",
@@ -23,8 +51,28 @@
     "attribution": "Attribution to an individual Antifa supporter is supported. No evidence cited by investigators showed that a larger Antifa organization ordered the attack.",
     "scope": "Lone actor with movement identification",
     "sources": [
-      {"label": "CSIS — Examining Extremism: Antifa", "url": "https://www.csis.org/blogs/examining-extremism/examining-extremism-antifa"}
-    ]
+      {
+        "label": "CSIS — Examining Extremism: Antifa",
+        "url": "https://www.csis.org/blogs/examining-extremism/examining-extremism-antifa",
+        "title": "CSIS — Examining Extremism: Antifa",
+        "publisher": "Center for Strategic and International Studies",
+        "sourceType": "research",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "self-identified",
+      "conduct": "established",
+      "motive": "strong",
+      "coordination": "not-shown",
+      "command": "none",
+      "networkLink": "unproven",
+      "adjudication": "actor-deceased"
+    }
   },
   {
     "id": "reinoehl-2020",
@@ -36,9 +84,37 @@
     "attribution": "The individual’s identification and suspected act are supported, but guilt and self-defense were never adjudicated. There is no public evidence that a national or local Antifa group directed the shooting.",
     "scope": "Individual attribution; no trial",
     "sources": [
-      {"label": "DOJ — Statement on Michael Reinoehl", "url": "https://www.justice.gov/opa/pr/statement-attorney-general-william-p-barr-tracking-down-fugitive-michael-forest-reinoehl"},
-      {"label": "DOJ testimony — Domestic terrorism cases", "url": "https://www.justice.gov/d9/testimonies/witnesses/attachments/2022/08/09/2021.04.29_doj-nsd_daag_wiegmann_testimony.pdf"}
-    ]
+      {
+        "label": "DOJ — Statement on Michael Reinoehl",
+        "url": "https://www.justice.gov/opa/pr/statement-attorney-general-william-p-barr-tracking-down-fugitive-michael-forest-reinoehl",
+        "title": "DOJ — Statement on Michael Reinoehl",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "DOJ testimony — Domestic terrorism cases",
+        "url": "https://www.justice.gov/d9/testimonies/witnesses/attachments/2022/08/09/2021.04.29_doj-nsd_daag_wiegmann_testimony.pdf",
+        "title": "DOJ testimony — Domestic terrorism cases",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "self-identified",
+      "conduct": "strong",
+      "motive": "strong",
+      "coordination": "not-shown",
+      "command": "none",
+      "networkLink": "unproven",
+      "adjudication": "unadjudicated"
+    }
   },
   {
     "id": "portland-protests-2020",
@@ -50,9 +126,37 @@
     "attribution": "Specific acts can be attributed when evidence identifies an offender and motive. “Antifa caused Portland” is too broad: it converts a heterogeneous protest wave and months of separate events into one actor.",
     "scope": "Mixed movement, event, and individual conduct",
     "sources": [
-      {"label": "DOJ — 74 federal Portland cases", "url": "https://www.justice.gov/usao-or/pr/74-people-facing-federal-charges-crimes-committed-during-portland-demonstrations"},
-      {"label": "ISD — U.S. Antifa groups", "url": "https://www.isdglobal.org/isd-explainer/us-antifa-groups/"}
-    ]
+      {
+        "label": "DOJ — 74 federal Portland cases",
+        "url": "https://www.justice.gov/usao-or/pr/74-people-facing-federal-charges-crimes-committed-during-portland-demonstrations",
+        "title": "DOJ — 74 federal Portland cases",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "ISD — U.S. Antifa groups",
+        "url": "https://www.isdglobal.org/isd-explainer/us-antifa-groups/",
+        "title": "ISD — U.S. Antifa groups",
+        "publisher": "Institute for Strategic Dialogue",
+        "sourceType": "research",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "mixed",
+      "conduct": "mixed",
+      "motive": "mixed",
+      "coordination": "some",
+      "command": "not-shown",
+      "networkLink": "unproven",
+      "adjudication": "mixed-outcomes"
+    }
   },
   {
     "id": "berkeley-2017",
@@ -64,9 +168,37 @@
     "attribution": "Violent conduct by some antifascist participants is real. Black clothing alone is not proof of group membership, and “black bloc” is a tactic available to many protesters, not an organization.",
     "scope": "Participant-level attribution",
     "sources": [
-      {"label": "TIME — Battle in Berkeley", "url": "https://time.com/4800813/battle-berkeley-free-speech/"},
-      {"label": "CRS — Antifa background and classification", "url": "https://www.congress.gov/crs-product/IF10839"}
-    ]
+      {
+        "label": "TIME — Battle in Berkeley",
+        "url": "https://time.com/4800813/battle-berkeley-free-speech/",
+        "title": "TIME — Battle in Berkeley",
+        "publisher": "TIME",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "CRS — Antifa background and classification",
+        "url": "https://www.congress.gov/crs-product/IF10839",
+        "title": "CRS — Antifa background and classification",
+        "publisher": "Congressional Research Service",
+        "sourceType": "legal-analysis",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "corroborated",
+      "conduct": "established",
+      "motive": "strong",
+      "coordination": "some",
+      "command": "not-shown",
+      "networkLink": "unproven",
+      "adjudication": "mixed-outcomes"
+    }
   },
   {
     "id": "direct-action-minnesota-2026",
@@ -74,12 +206,41 @@
     "title": "Direct Action Minnesota indictment",
     "status": "pending",
     "claim": "A Minneapolis direct-action group with Antifa ties ran a coordinated harassment and violence campaign against law enforcement.",
-    "evidence": "A federal indictment charges 15 people with conspiracy, threats, stalking, assault, and property destruction. DOJ alleges that the defendants included members of Antifa groups.",
-    "attribution": "The indictment is meaningful evidence of alleged local organization, but it is not a conviction. The precise nature of the claimed Antifa ties must be tested in court.",
-    "scope": "Named local group; allegations pending",
+    "evidence": "A federal indictment charges 15 people with conspiracy, threats, stalking, assault, and property destruction. Fourteen defendants pleaded not guilty on July 1; Kyle Wagner separately pleaded not guilty after his transfer. DOJ alleges that the defendants included members of Antifa groups.",
+    "attribution": "The indictment is meaningful evidence of alleged local organization, but the pleas preserve every contested element for trial. The precise nature of the claimed Antifa ties must be tested against the evidence rather than inferred from protest participation.",
+    "scope": "Named local group; indictment pending; not-guilty pleas entered",
     "sources": [
-      {"label": "DOJ — Direct Action Minnesota indictment", "url": "https://www.justice.gov/usao-mn/pr/15-members-direct-action-minnesota-minneapolis-based-direct-action-group-antifa-ties"}
-    ]
+      {
+        "label": "DOJ — Direct Action Minnesota indictment",
+        "url": "https://www.justice.gov/usao-mn/pr/15-members-direct-action-minnesota-minneapolis-based-direct-action-group-antifa-ties",
+        "title": "DOJ — Direct Action Minnesota indictment",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "MPR News — Wagner’s not-guilty plea",
+        "url": "https://www.mprnews.org/story/2026/07/27/kyle-wagner-pleads-not-guilty-in-federal-ice-protest-charges",
+        "title": "MPR News — Wagner’s not-guilty plea",
+        "publisher": "MPR News",
+        "sourceType": "news",
+        "evidenceRole": "current plea status",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2026-11-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "alleged",
+      "conduct": "alleged",
+      "motive": "alleged",
+      "coordination": "alleged",
+      "command": "local-only",
+      "networkLink": "unproven",
+      "adjudication": "pending"
+    }
   },
   {
     "id": "wagner-threats-2026",
@@ -87,12 +248,50 @@
     "title": "Kyle Wagner threat and cyberstalking case",
     "status": "pending",
     "claim": "A self-identified Antifa member threatened immigration officers and doxxed a pro-ICE individual.",
-    "evidence": "A federal complaint alleges repeated online threats, personal-data publication, and self-identification with Antifa.",
-    "attribution": "The self-identification makes the ideological claim relevant, but the allegations have not been proven and do not establish direction by a broader organization.",
-    "scope": "Individual; allegations pending",
+    "evidence": "A federal grand jury indicted Wagner for cyberstalking and interstate threats, and a separate Minnesota indictment includes conspiracy and solicitation allegations. He pleaded not guilty. In August, the Sixth Circuit reversed a release order and kept him detained pending trial.",
+    "attribution": "Wagner’s self-identification makes the individual ideological attribution relevant, but an indictment and detention ruling do not prove guilt. The public record does not establish direction by a broader Antifa command.",
+    "scope": "Self-identified individual; indictments pending; not-guilty plea entered",
     "sources": [
-      {"label": "DOJ — Threat and cyberstalking charges", "url": "https://www.justice.gov/opa/pr/anti-ice-antifa-member-arrested-federal-charges-cyberstalking-and-threatening-communications"}
-    ]
+      {
+        "label": "DOJ — Threat and cyberstalking charges",
+        "url": "https://www.justice.gov/opa/pr/anti-ice-antifa-member-arrested-federal-charges-cyberstalking-and-threatening-communications",
+        "title": "DOJ — Threat and cyberstalking charges",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Sixth Circuit — United States v. Wagner",
+        "url": "https://law.justia.com/cases/federal/appellate-courts/ca6/26-1294/26-1294-2026-08-12.html",
+        "title": "Sixth Circuit — United States v. Wagner",
+        "publisher": "U.S. Court of Appeals for the Sixth Circuit (via Justia)",
+        "sourceType": "court-record",
+        "evidenceRole": "indictment and pretrial detention status",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "MPR News — Not-guilty plea",
+        "url": "https://www.mprnews.org/story/2026/07/27/kyle-wagner-pleads-not-guilty-in-federal-ice-protest-charges",
+        "title": "MPR News — Not-guilty plea",
+        "publisher": "MPR News",
+        "sourceType": "news",
+        "evidenceRole": "current plea status",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2026-11-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "self-identified",
+      "conduct": "alleged",
+      "motive": "strong",
+      "coordination": "not-shown",
+      "command": "none",
+      "networkLink": "unproven",
+      "adjudication": "pending"
+    }
   },
   {
     "id": "antifa-ost",
@@ -104,9 +303,37 @@
     "attribution": "Unlike the U.S. umbrella movement, Antifa Ost is a specific named network. Its existence cannot be generalized into proof that every group using “antifa” belongs to one international organization.",
     "scope": "Specific foreign organization",
     "sources": [
-      {"label": "NCTC — Antifa Ost", "url": "https://www.dni.gov/nctc/terrorist_groups/antifa_ost.html"},
-      {"label": "AP — U.S. designations and group evidence", "url": "https://apnews.com/article/a4f0b5f733e9a105101107b0c80d482e"}
-    ]
+      {
+        "label": "NCTC — Antifa Ost",
+        "url": "https://www.dni.gov/nctc/terrorist_groups/antifa_ost.html",
+        "title": "NCTC — Antifa Ost",
+        "publisher": "National Counterterrorism Center",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "AP — U.S. designations and group evidence",
+        "url": "https://apnews.com/article/a4f0b5f733e9a105101107b0c80d482e",
+        "title": "AP — U.S. designations and group evidence",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "established",
+      "conduct": "adjudicated-and-alleged",
+      "motive": "strong",
+      "coordination": "strong",
+      "command": "group-level",
+      "networkLink": "limited-cross-border",
+      "adjudication": "mixed"
+    }
   },
   {
     "id": "floyd-national-plot",
@@ -118,10 +345,46 @@
     "attribution": "Antifascist participants were present in some cities, and some committed crimes. The much larger claim of national orchestration was not supported.",
     "scope": "False network inference",
     "sources": [
-      {"label": "DOJ — Protest-case communications review", "url": "https://www.justice.gov/d9/2023-10/10.23.23.%20--%20PAO%20Communications%20George%20Floyd%20-%20Final.pdf"},
-      {"label": "Axios/AP — Most charged were not Antifa-affiliated", "url": "https://www.axios.com/2020/10/20/arrested-protests-not-associated-antifa-radical-leftist"},
-      {"label": "ACLED — More than 93% of demonstrations peaceful", "url": "https://acleddata.com/report/year-racial-justice-protests-key-trends-demonstrations-supporting-blm-movement"}
-    ]
+      {
+        "label": "DOJ — Protest-case communications review",
+        "url": "https://www.justice.gov/d9/2023-10/10.23.23.%20--%20PAO%20Communications%20George%20Floyd%20-%20Final.pdf",
+        "title": "DOJ — Protest-case communications review",
+        "publisher": "U.S. Department of Justice",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Axios/AP — Most charged were not Antifa-affiliated",
+        "url": "https://www.axios.com/2020/10/20/arrested-protests-not-associated-antifa-radical-leftist",
+        "title": "Axios/AP — Most charged were not Antifa-affiliated",
+        "publisher": "Axios/AP",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "ACLED — More than 93% of demonstrations peaceful",
+        "url": "https://acleddata.com/report/year-racial-justice-protests-key-trends-demonstrations-supporting-blm-movement",
+        "title": "ACLED — More than 93% of demonstrations peaceful",
+        "publisher": "ACLED",
+        "sourceType": "dataset",
+        "evidenceRole": "comparative or statistical evidence",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "refuted",
+      "conduct": "not-attributable",
+      "motive": "not-applicable",
+      "coordination": "not-shown",
+      "command": "none",
+      "networkLink": "refuted",
+      "adjudication": "refuted"
+    }
   },
   {
     "id": "oregon-wildfires",
@@ -133,9 +396,37 @@
     "attribution": "This was a false attribution that diverted resources during a disaster.",
     "scope": "Disproved rumor",
     "sources": [
-      {"label": "FBI — Wildfire misinformation statement", "url": "https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/fbi-releases-statement-on-misinformation-related-to-wildfires"},
-      {"label": "TIME — Law enforcement debunks fire rumors", "url": "https://time.com/5888371/oregon-wildfires-antifa-proud-boys-rumors-false/"}
-    ]
+      {
+        "label": "FBI — Wildfire misinformation statement",
+        "url": "https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/fbi-releases-statement-on-misinformation-related-to-wildfires",
+        "title": "FBI — Wildfire misinformation statement",
+        "publisher": "Federal Bureau of Investigation",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "TIME — Law enforcement debunks fire rumors",
+        "url": "https://time.com/5888371/oregon-wildfires-antifa-proud-boys-rumors-false/",
+        "title": "TIME — Law enforcement debunks fire rumors",
+        "publisher": "TIME",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "refuted",
+      "conduct": "not-attributable",
+      "motive": "not-applicable",
+      "coordination": "not-shown",
+      "command": "none",
+      "networkLink": "refuted",
+      "adjudication": "refuted"
+    }
   },
   {
     "id": "fake-national-account",
@@ -147,8 +438,28 @@
     "attribution": "A documented false flag became evidence in public narratives precisely because no authenticated national Antifa account exists.",
     "scope": "Impostor / false flag",
     "sources": [
-      {"label": "DFRLab — Campaign to frame protesters as terrorists", "url": "https://dfrlab.org/2020/06/10/the-disinformation-campaign-to-define-u-s-protesters-as-terrorists/"}
-    ]
+      {
+        "label": "DFRLab — Campaign to frame protesters as terrorists",
+        "url": "https://dfrlab.org/2020/06/10/the-disinformation-campaign-to-define-u-s-protesters-as-terrorists/",
+        "title": "DFRLab — Campaign to frame protesters as terrorists",
+        "publisher": "DFRLab",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "impersonation",
+      "conduct": "not-attributable",
+      "motive": "not-applicable",
+      "coordination": "not-shown",
+      "command": "none",
+      "networkLink": "refuted",
+      "adjudication": "refuted"
+    }
   },
   {
     "id": "small-town-invasions",
@@ -160,9 +471,37 @@
     "attribution": "The claims confused viral warning networks and ordinary protest travel with evidence of a coordinated militant deployment.",
     "scope": "Unsubstantiated mass rumor",
     "sources": [
-      {"label": "DFRLab — Antifa disinformation campaign", "url": "https://dfrlab.org/2020/06/10/the-disinformation-campaign-to-define-u-s-protesters-as-terrorists/"},
-      {"label": "The Markup — Anatomy of a false headline", "url": "https://themarkup.org/2020/07/07/anatomy-of-a-fake-news-headline"}
-    ]
+      {
+        "label": "DFRLab — Antifa disinformation campaign",
+        "url": "https://dfrlab.org/2020/06/10/the-disinformation-campaign-to-define-u-s-protesters-as-terrorists/",
+        "title": "DFRLab — Antifa disinformation campaign",
+        "publisher": "DFRLab",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "The Markup — Anatomy of a false headline",
+        "url": "https://themarkup.org/2020/07/07/anatomy-of-a-fake-news-headline",
+        "title": "The Markup — Anatomy of a false headline",
+        "publisher": "The Markup",
+        "sourceType": "reference",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "refuted",
+      "conduct": "not-attributable",
+      "motive": "not-applicable",
+      "coordination": "not-shown",
+      "command": "none",
+      "networkLink": "refuted",
+      "adjudication": "refuted"
+    }
   },
   {
     "id": "january-6",
@@ -174,8 +513,36 @@
     "attribution": "This is a durable false attribution used to transfer responsibility from the people and groups documented at the scene.",
     "scope": "Disproved conspiracy theory",
     "sources": [
-      {"label": "FactCheck.org — Bogus Antifa claims", "url": "https://www.factcheck.org/2021/01/bogus-antifa-claims-follow-capitol-riot/"},
-      {"label": "AP — Inspector general findings", "url": "https://apnews.com/article/598b775804bdcef9cb065a67a4236033"}
-    ]
+      {
+        "label": "FactCheck.org — Bogus Antifa claims",
+        "url": "https://www.factcheck.org/2021/01/bogus-antifa-claims-follow-capitol-riot/",
+        "title": "FactCheck.org — Bogus Antifa claims",
+        "publisher": "FactCheck.org",
+        "sourceType": "reference",
+        "evidenceRole": "principal corroboration",
+        "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "AP — Inspector general findings",
+        "url": "https://apnews.com/article/598b775804bdcef9cb065a67a4236033",
+        "title": "AP — Inspector general findings",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "additional context",
+        "accessedAt": "2026-10-07"
+      }
+    ],
+    "reviewedAt": "2026-10-07",
+    "nextReviewAt": "2027-04-07",
+    "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
+    "dimensions": {
+      "identity": "refuted",
+      "conduct": "not-attributable",
+      "motive": "not-applicable",
+      "coordination": "not-shown",
+      "command": "none",
+      "networkLink": "refuted",
+      "adjudication": "adjudicated-elsewhere"
+    }
   }
 ]
