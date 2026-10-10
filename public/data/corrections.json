@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-10",
+    "recordId": "mangione",
+    "type": "case-status-update",
+    "summary": "Recorded the Manhattan district attorney's October 9 opposition to dismissal, the prosecution's different-harms and different-elements position, and the October 30 defense-reply deadline.",
+    "changesAssessment": false
+  },
+  {
     "date": "2026-10-07",
     "recordId": "jihadist-mass-casualties",
     "type": "source-repair",

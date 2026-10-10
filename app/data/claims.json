@@ -1094,7 +1094,7 @@
     "ideology": "Anti-insurance and anti-corporate grievance; broader left-wing classification is contested",
     "finding": "The killing, Mangione’s responsibility under his federal guilty plea, and the apparent anti-insurance motive are established to different degrees. CSIS codes the case as left-wing political violence.",
     "context": "Mangione pleaded guilty federally to interstate stalking and cyberstalking resulting in death, not to a terrorism offense. A New York judge had dismissed state terrorism charges because the alleged conduct did not satisfy the statutory coercive-intent element. The evidence supports ideologically colored lone-actor violence, not an organized terrorist network.",
-    "legalStatus": "Federal guilty plea entered August 14, 2026; sentencing scheduled for December 18. State motion to dismiss is pending, with a response due October 9 and hearing set for December 10; state terrorism counts were dismissed.",
+    "legalStatus": "Federal guilty plea entered August 14, 2026; sentencing scheduled for December 18. Manhattan prosecutors opposed dismissal of the remaining state case on October 9, arguing that the state and federal charges address different harms and legal elements. The defense reply is due October 30 and a hearing is set for December 10; state terrorism counts were dismissed.",
     "sources": [
       {
         "label": "AP — Terrorism charges dismissed",
@@ -1131,10 +1131,20 @@
         "sourceType": "news",
         "evidenceRole": "current state and federal case status",
         "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "AP — Prosecutors oppose dismissal of state case",
+        "url": "https://apnews.com/article/31fb34e3db99727cb31ae30fa26a23de",
+        "title": "AP — Prosecutors oppose dismissal of state case",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "current motion briefing status and prosecution position",
+        "publishedAt": "2026-10-09",
+        "accessedAt": "2026-10-10"
       }
     ],
-    "reviewedAt": "2026-10-07",
-    "nextReviewAt": "2026-10-10",
+    "reviewedAt": "2026-10-10",
+    "nextReviewAt": "2026-10-31",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "event": "confirmed",

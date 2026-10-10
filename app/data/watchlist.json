@@ -21,11 +21,12 @@
   {
     "id": "mangione",
     "priority": "high",
-    "nextReviewAt": "2026-10-10",
+    "nextReviewAt": "2026-10-31",
     "query": "\"Luigi Mangione\"",
-    "signals": ["sentencing", "state trial", "appeal", "terrorism count"],
+    "signals": ["sentencing", "state trial", "appeal", "terrorism count", "double jeopardy ruling"],
     "urls": [
-      "https://www.justice.gov/usao-sdny/pr/luigi-mangione-pleads-guilty-connection-his-murder-united-healthcare-ceo-brian"
+      "https://www.justice.gov/usao-sdny/pr/luigi-mangione-pleads-guilty-connection-his-murder-united-healthcare-ceo-brian",
+      "https://apnews.com/article/31fb34e3db99727cb31ae30fa26a23de"
     ]
   },
   {

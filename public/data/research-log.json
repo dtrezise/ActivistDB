@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-10",
+    "version": "2.0.1",
+    "type": "case-status-update",
+    "summary": "Updated the Mangione record after Manhattan prosecutors filed their opposition to the pending state double-jeopardy dismissal motion; the assessment and dimensional findings remain unchanged.",
+    "recordsChanged": ["mangione"]
+  },
+  {
     "date": "2026-10-07",
     "version": "2.0.0",
     "type": "methodology-and-current-events-review",
