@@ -50,11 +50,12 @@
   {
     "id": "wagner-threats-2026",
     "priority": "high",
-    "nextReviewAt": "2026-11-07",
+    "nextReviewAt": "2026-11-14",
     "query": "\"Kyle Wagner\" AND (Antifa OR ICE)",
     "signals": ["trial", "plea", "dismissal", "verdict", "Supreme Court"],
     "urls": [
-      "https://law.justia.com/cases/federal/appellate-courts/ca6/26-1294/26-1294-2026-08-12.html"
+      "https://law.justia.com/cases/federal/appellate-courts/ca6/26-1294/26-1294-2026-08-12.html",
+      "https://www.supremecourt.gov/docket/docketfiles/html/public/26a446.html"
     ]
   },
   {

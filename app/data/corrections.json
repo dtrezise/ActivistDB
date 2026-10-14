@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-14",
+    "recordId": "wagner-threats-2026",
+    "type": "case-status-update",
+    "summary": "Recorded the Supreme Court’s October 13 denial of Wagner’s stay application and clarified that the order leaves pretrial detention in place without deciding guilt or the linked certiorari petition on the merits.",
+    "changesAssessment": false
+  },
+  {
     "date": "2026-10-10",
     "recordId": "mangione",
     "type": "case-status-update",

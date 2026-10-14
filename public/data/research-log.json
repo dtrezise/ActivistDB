@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-14",
+    "version": "2.0.2",
+    "type": "case-status-update",
+    "summary": "Updated the Kyle Wagner record after the Supreme Court denied his application to stay the Sixth Circuit mandate, while preserving the distinction between pretrial detention and adjudication of the pending charges.",
+    "recordsChanged": ["wagner-threats-2026"]
+  },
+  {
     "date": "2026-10-10",
     "version": "2.0.1",
     "type": "case-status-update",

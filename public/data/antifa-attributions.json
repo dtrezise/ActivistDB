@@ -248,7 +248,7 @@
     "title": "Kyle Wagner threat and cyberstalking case",
     "status": "pending",
     "claim": "A self-identified Antifa member threatened immigration officers and doxxed a pro-ICE individual.",
-    "evidence": "A federal grand jury indicted Wagner for cyberstalking and interstate threats, and a separate Minnesota indictment includes conspiracy and solicitation allegations. He pleaded not guilty. In August, the Sixth Circuit reversed a release order and kept him detained pending trial.",
+    "evidence": "A federal grand jury indicted Wagner for cyberstalking and interstate threats, and a separate Minnesota indictment includes conspiracy and solicitation allegations. He pleaded not guilty. In August, the Sixth Circuit reversed a release order and kept him detained pending trial. On October 13, the Supreme Court denied his application to stay the Sixth Circuit mandate; the denial left the detention order in place but did not decide guilt or the merits of his linked certiorari petition.",
     "attribution": "Wagner’s self-identification makes the individual ideological attribution relevant, but an indictment and detention ruling do not prove guilt. The public record does not establish direction by a broader Antifa command.",
     "scope": "Self-identified individual; indictments pending; not-guilty plea entered",
     "sources": [
@@ -278,10 +278,19 @@
         "sourceType": "news",
         "evidenceRole": "current plea status",
         "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Supreme Court — Stay application denied",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26a446.html",
+        "title": "Supreme Court — Kyle Wagner v. United States, No. 26A446",
+        "publisher": "Supreme Court of the United States",
+        "sourceType": "court-record",
+        "evidenceRole": "pretrial detention status and limited procedural effect",
+        "accessedAt": "2026-10-14"
       }
     ],
-    "reviewedAt": "2026-10-07",
-    "nextReviewAt": "2026-11-07",
+    "reviewedAt": "2026-10-14",
+    "nextReviewAt": "2026-11-14",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "identity": "self-identified",
