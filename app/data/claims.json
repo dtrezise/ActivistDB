@@ -1225,7 +1225,7 @@
     "ideology": "Alleged anti-fascist and pro-LGBTQ grievances; no demonstrated organizational membership",
     "finding": "A judge found probable cause to send all seven counts to trial. Charging evidence and alleged messages support a political motive hostile to Kirk and can reasonably be coded as left-wing if proven.",
     "context": "A probable-cause ruling is not a verdict. Robinson pleaded not guilty, and the available evidence describes an individual defendant, not a cell or transnational network. “Greatest” is opinion, not a factual claim.",
-    "legalStatus": "Bound over for trial on all counts September 1, 2026; pleaded not guilty. The judge ordered trial-preparation estimates by October 21 and intends to address dates at the next hearing. Robinson is presumed innocent.",
+    "legalStatus": "Bound over for trial on all counts September 1, 2026; pleaded not guilty. At the October 23 scheduling hearing, the judge deferred setting a trial date and scheduled a November 9 hearing to rule after considering the parties’ competing timelines. Robinson is presumed innocent.",
     "sources": [
       {
         "label": "AP — Preliminary hearing",
@@ -1255,17 +1255,17 @@
         "accessedAt": "2026-10-07"
       },
       {
-        "label": "KSL — Court requests trial-scheduling estimates",
-        "url": "https://www.ksl.com/article/51632514/judge-in-tyler-robinson-case-wants-attorneys-ready-to-set-trial-dates",
-        "title": "KSL — Court requests trial-scheduling estimates",
-        "publisher": "KSL News",
+        "label": "AP — Trial scheduling deferred",
+        "url": "https://apnews.com/article/00a2bb26b4299a10d0fa5bd88da09072",
+        "title": "AP — Trial scheduling deferred",
+        "publisher": "Associated Press",
         "sourceType": "news",
         "evidenceRole": "current scheduling status",
-        "accessedAt": "2026-10-07"
+        "accessedAt": "2026-10-24"
       }
     ],
-    "reviewedAt": "2026-10-07",
-    "nextReviewAt": "2026-10-22",
+    "reviewedAt": "2026-10-24",
+    "nextReviewAt": "2026-11-10",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "event": "confirmed",

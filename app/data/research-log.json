@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-24",
+    "version": "2.0.3",
+    "type": "case-status-update",
+    "summary": "Updated the Charlie Kirk case after the October 23 scheduling hearing ended without a trial date and the court set a November 9 hearing to rule on the competing proposed timelines; the assessment and dimensional findings remain unchanged.",
+    "recordsChanged": ["charlie-kirk"]
+  },
+  {
     "date": "2026-10-14",
     "version": "2.0.2",
     "type": "case-status-update",

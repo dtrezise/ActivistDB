@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-24",
+    "recordId": "charlie-kirk",
+    "type": "case-status-update",
+    "summary": "Recorded that the October 23 scheduling hearing ended without a trial date and that the judge scheduled a November 9 hearing to rule after considering the parties’ competing timelines.",
+    "changesAssessment": false
+  },
+  {
     "date": "2026-10-14",
     "recordId": "wagner-threats-2026",
     "type": "case-status-update",
