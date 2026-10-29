@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-29",
+    "version": "2.0.4",
+    "type": "case-status-update",
+    "summary": "Updated the Quentin Deranque record after anti-terrorism police questioned Jeune Garde cofounder and LFI lawmaker Raphaël Arnault in a voluntary interview, while making explicit that reporting did not identify him as charged and that questioning does not establish command or culpability.",
+    "recordsChanged": ["lyon-deranque"]
+  },
+  {
     "date": "2026-10-24",
     "version": "2.0.3",
     "type": "case-status-update",

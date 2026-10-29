@@ -5,7 +5,7 @@ July 16, 2026 speech on the “resurgence of political terrorism.” The site te
 30 discrete speech claims, documents 13 deliberately selected ANTIFA
 attribution cases, and tracks the administration’s related policy campaign.
 
-**Evidence current through October 24, 2026.** The October review was assisted
+**Evidence current through October 29, 2026.** The October review was assisted
 by OpenAI Codex. No independent human fact-check has yet been completed; that
 limitation is disclosed on the site and in the machine-readable metadata.
 

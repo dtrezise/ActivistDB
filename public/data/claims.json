@@ -321,8 +321,8 @@
     "actors": "Far-left and far-right participants in a street confrontation; fourteen people have been placed under formal investigation",
     "ideology": "Several suspects were linked to radical antifascism or the dissolved Jeune Garde; Deranque was a nationalist / far-right activist",
     "finding": "The core attribution is supported by the investigation. Deranque died from brain injuries after violence involving ultra-left participants; by September 24, fourteen people had been placed under formal investigation, including five newly charged suspects.",
-    "context": "The speech omits that the victim was an active far-right militant and that the death followed a clash between rival political groups near an event. Those facts do not excuse the killing, but they matter to classifying the event.",
-    "legalStatus": "Fourteen people under formal investigation; three of five defendants charged in September were detained pretrial. All remain presumed innocent.",
+    "context": "The speech omits that the victim was an active far-right militant and that the death followed a clash between rival political groups near an event. Those facts do not excuse the killing, but they matter to classifying the event. On October 28, anti-terrorism police questioned Jeune Garde cofounder and LFI lawmaker Raphaël Arnault in a voluntary interview; reporting did not say he was charged, and the interview does not establish command or culpability.",
+    "legalStatus": "Fourteen people under formal investigation; three of five defendants charged in September were detained pretrial. Raphaël Arnault was questioned voluntarily on October 28, but reporting did not identify him as charged. All defendants remain presumed innocent.",
     "sources": [
       {
         "label": "AP — Eleven arrested",
@@ -350,9 +350,18 @@
         "sourceType": "news",
         "evidenceRole": "current case status",
         "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Le Progrès / AFP — Arnault questioned voluntarily",
+        "url": "https://www.leprogres.fr/faits-divers-justice/2026/10/29/mort-de-quentin-deranque-a-lyon-le-depute-lfi-raphael-arnault-entendu-par-la-sous-direction-antiterroriste",
+        "title": "Le Progrès / AFP — Arnault questioned voluntarily",
+        "publisher": "Le Progrès / Agence France-Presse",
+        "sourceType": "news",
+        "evidenceRole": "current investigative status",
+        "accessedAt": "2026-10-29"
       }
     ],
-    "reviewedAt": "2026-10-07",
+    "reviewedAt": "2026-10-29",
     "nextReviewAt": "2026-11-07",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
