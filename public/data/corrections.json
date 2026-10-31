@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-31",
+    "recordId": "mangione",
+    "type": "case-status-update",
+    "summary": "Recorded the defense’s October 30 double-jeopardy reply, its request to dismiss the remaining New York murder and weapons charges, and the fact that the motion remains undecided before the December 10 hearing.",
+    "changesAssessment": false
+  },
+  {
     "date": "2026-10-29",
     "recordId": "lyon-deranque",
     "type": "case-status-update",

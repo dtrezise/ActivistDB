@@ -1,8 +1,8 @@
 {
   "project": "Claim / Cause",
-  "version": "2.0.4",
-  "publishedAt": "2026-10-29",
-  "evidenceThrough": "2026-10-29",
+  "version": "2.0.5",
+  "publishedAt": "2026-10-31",
+  "evidenceThrough": "2026-10-31",
   "maintainer": "dtrezise",
   "repository": "https://github.com/dtrezise/ActivistDB",
   "canonicalUrl": "https://dtrezise.github.io/ActivistDB/",
@@ -16,7 +16,7 @@
     "transcriptSha256": "309b1df60e70f6a43febd0e4e11d168428daa67a413955c721252a2b286a29f1"
   },
   "review": {
-    "lastEditorialReview": "2026-10-29",
+    "lastEditorialReview": "2026-10-31",
     "reviewMethod": "OpenAI Codex-assisted source review and structured-data audit",
     "independentHumanReview": false,
     "disclosure": "No independent human fact-check has yet been completed. Government releases are treated as evidence of official action or allegation, not automatic proof of the underlying claim."

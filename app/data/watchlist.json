@@ -21,7 +21,7 @@
   {
     "id": "mangione",
     "priority": "high",
-    "nextReviewAt": "2026-10-31",
+    "nextReviewAt": "2026-12-10",
     "query": "\"Luigi Mangione\"",
     "signals": ["sentencing", "state trial", "appeal", "terrorism count", "double jeopardy ruling"],
     "urls": [

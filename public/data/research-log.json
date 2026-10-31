@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-31",
+    "version": "2.0.5",
+    "type": "case-status-update",
+    "summary": "Updated the Mangione record after the defense filed its October 30 reply seeking dismissal of the remaining New York murder and weapons charges under state double-jeopardy law; the motion remains undecided and the assessment is unchanged.",
+    "recordsChanged": ["mangione"]
+  },
+  {
     "date": "2026-10-29",
     "version": "2.0.4",
     "type": "case-status-update",
