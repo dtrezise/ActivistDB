@@ -32,10 +32,10 @@
   {
     "id": "charlie-kirk",
     "priority": "high",
-    "nextReviewAt": "2026-11-10",
+    "nextReviewAt": "2026-12-10",
     "query": "\"Tyler Robinson\" AND \"Charlie Kirk\"",
     "signals": ["trial date", "motion", "verdict", "motive", "organizational link"],
-    "urls": ["https://apnews.com/article/00a2bb26b4299a10d0fa5bd88da09072"]
+    "urls": ["https://apnews.com/article/1ca0cee0ac75f872037752c2f601b54b"]
   },
   {
     "id": "direct-action-minnesota-2026",

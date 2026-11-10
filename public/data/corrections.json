@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-10",
+    "recordId": "charlie-kirk",
+    "type": "case-status-update",
+    "summary": "Recorded the November 9 scheduling order setting jury selection for June 21, 2028, and reserving 105 court days for trial, while preserving the not-guilty plea and presumption of innocence.",
+    "changesAssessment": false
+  },
+  {
     "date": "2026-10-31",
     "recordId": "mangione",
     "type": "case-status-update",

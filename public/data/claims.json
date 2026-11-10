@@ -1244,7 +1244,7 @@
     "ideology": "Alleged anti-fascist and pro-LGBTQ grievances; no demonstrated organizational membership",
     "finding": "A judge found probable cause to send all seven counts to trial. Charging evidence and alleged messages support a political motive hostile to Kirk and can reasonably be coded as left-wing if proven.",
     "context": "A probable-cause ruling is not a verdict. Robinson pleaded not guilty, and the available evidence describes an individual defendant, not a cell or transnational network. “Greatest” is opinion, not a factual claim.",
-    "legalStatus": "Bound over for trial on all counts September 1, 2026; pleaded not guilty. At the October 23 scheduling hearing, the judge deferred setting a trial date and scheduled a November 9 hearing to rule after considering the parties’ competing timelines. Robinson is presumed innocent.",
+    "legalStatus": "Bound over for trial on all counts September 1, 2026; pleaded not guilty. On November 9, the court scheduled jury selection for June 21, 2028, and reserved 105 court days for the trial. Robinson is presumed innocent.",
     "sources": [
       {
         "label": "AP — Preliminary hearing",
@@ -1281,10 +1281,20 @@
         "sourceType": "news",
         "evidenceRole": "current scheduling status",
         "accessedAt": "2026-10-24"
+      },
+      {
+        "label": "AP — Trial scheduled for June 2028",
+        "url": "https://apnews.com/article/1ca0cee0ac75f872037752c2f601b54b",
+        "title": "Judge sets summer 2028 trial for the man accused of killing Charlie Kirk",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "current scheduling status",
+        "publishedAt": "2026-11-09",
+        "accessedAt": "2026-11-10"
       }
     ],
-    "reviewedAt": "2026-10-24",
-    "nextReviewAt": "2026-11-10",
+    "reviewedAt": "2026-11-10",
+    "nextReviewAt": "2026-12-10",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "event": "confirmed",

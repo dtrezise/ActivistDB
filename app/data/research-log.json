@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-10",
+    "version": "2.0.6",
+    "type": "case-status-update",
+    "summary": "Updated the Charlie Kirk case after the court scheduled jury selection for June 21, 2028, and reserved 105 court days for trial; the procedural update does not change the assessment or the presumption of innocence.",
+    "recordsChanged": [
+      "charlie-kirk"
+    ]
+  },
+  {
     "date": "2026-10-31",
     "version": "2.0.5",
     "type": "case-status-update",
