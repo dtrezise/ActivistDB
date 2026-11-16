@@ -1486,8 +1486,8 @@
     "confidence": "High",
     "actors": "White House, State Department, Treasury, DOJ, FBI, and foreign partners",
     "ideology": "Policy targets “Antifa” and broadly described anti-capitalist, anti-Christian, migration, race, and gender extremism",
-    "finding": "The listed executive actions, designations, reward offer, workshops, July 2026 visa-restriction policy, and August 2026 Treasury sanctions occurred.",
-    "context": "U.S. law has no general domestic-terrorist-organization designation regime. Labeling domestic “Antifa” does not create one, and civil-liberties experts warn NSPM-7’s ideology-based language can sweep in protected speech and association. The visa policy reaches support, incitement, logistics, financing, and broadly described economic sabotage. Government designation or sanction proves a policy choice and legal consequence, not every underlying network claim.",
+    "finding": "The listed executive actions, designations, reward offer, workshops, July 2026 visa-restriction policy, and August 2026 Treasury sanctions occurred. The May 2026 U.S. Counterterrorism Strategy also formally lists violent left-wing extremists, including anarchists and anti-fascists, among three major terror-group categories and makes them a national counterterrorism priority.",
+    "context": "U.S. law has no general domestic-terrorist-organization designation regime. Labeling domestic “Antifa” does not create one, and civil-liberties experts warn NSPM-7’s ideology-based language can sweep in protected speech and association. The visa policy reaches support, incitement, logistics, financing, and broadly described economic sabotage. The counterterrorism strategy says the government will map domestic groups and their alleged ties to international organizations “like Antifa”; that is an official policy and threat assessment, not proof of any particular membership, tie, or crime. Government designation or sanction proves a policy choice and legal consequence, not every underlying network claim.",
     "legalStatus": "Active executive policy; scope and implementation subject to constitutional and statutory limits.",
     "sources": [
       {
@@ -1543,10 +1543,19 @@
         "sourceType": "government",
         "evidenceRole": "official sanctions action and allegations",
         "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "White House — 2026 U.S. Counterterrorism Strategy",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/05/2026-USCT-Strategy-1.pdf",
+        "title": "Our Counterterrorism Strategy",
+        "publisher": "The White House",
+        "sourceType": "government-report",
+        "evidenceRole": "official strategy and threat framing",
+        "accessedAt": "2026-11-16"
       }
     ],
-    "reviewedAt": "2026-10-07",
-    "nextReviewAt": "2026-11-07",
+    "reviewedAt": "2026-11-16",
+    "nextReviewAt": "2026-12-16",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "event": "confirmed",

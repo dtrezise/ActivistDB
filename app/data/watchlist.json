@@ -62,12 +62,13 @@
   {
     "id": "administration-policy",
     "priority": "high",
-    "nextReviewAt": "2026-11-07",
+    "nextReviewAt": "2026-12-16",
     "query": "(Antifa OR \"far-left terrorism\") AND (sanction OR designation OR injunction)",
-    "signals": ["designation", "sanction", "visa restriction", "injunction", "constitutional challenge"],
+    "signals": ["designation", "sanction", "visa restriction", "strategy", "injunction", "constitutional challenge"],
     "urls": [
       "https://home.treasury.gov/news/press-releases/sb0616/",
-      "https://www.whitehouse.gov/presidential-actions/"
+      "https://www.whitehouse.gov/presidential-actions/",
+      "https://www.whitehouse.gov/wp-content/uploads/2026/05/2026-USCT-Strategy-1.pdf"
     ]
   }
 ]

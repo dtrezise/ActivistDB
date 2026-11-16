@@ -1,6 +1,13 @@
 [
   {
     "date": "2026-11-16",
+    "recordId": "administration-policy",
+    "type": "policy-status-update",
+    "summary": "Added the May 2026 U.S. Counterterrorism Strategy and clarified that its classification of violent left-wing extremists and claimed network ties is official policy framing rather than adjudicated proof.",
+    "changesAssessment": false
+  },
+  {
+    "date": "2026-11-16",
     "recordId": "lyon-deranque",
     "type": "case-status-update",
     "summary": "Recorded the November 12 release under judicial supervision of one defendant charged with murder and the Lyon prosecutor’s request for immediate review, while preserving the pending charge and presumption of innocence.",

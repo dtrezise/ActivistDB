@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "version": "2.0.8",
+    "type": "policy-status-update",
+    "summary": "Added the May 2026 U.S. Counterterrorism Strategy to the administration-policy record because it formally makes violent left-wing extremists, including anarchists and anti-fascists, a national counterterrorism priority. The record treats the strategy as official policy and threat framing, not proof of particular organizational ties or crimes.",
+    "recordsChanged": [
+      "administration-policy"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "version": "2.0.7",
     "type": "case-status-update",
     "summary": "Updated the Quentin Deranque record after one murder defendant was released under judicial supervision and the prosecutor sought immediate review, and updated the Kyle Wagner record after the Supreme Court denied certiorari in his pretrial-detention appeal. Neither development decides guilt or changes the assessments.",
