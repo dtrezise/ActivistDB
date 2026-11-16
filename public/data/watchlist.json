@@ -13,7 +13,7 @@
   {
     "id": "lyon-deranque",
     "priority": "high",
-    "nextReviewAt": "2026-11-07",
+    "nextReviewAt": "2026-12-16",
     "query": "\"Quentin Deranque\"",
     "signals": ["mise en examen", "trial", "judgment", "Jeune Garde", "ultragauche"],
     "urls": ["https://www.tf1info.fr/justice-faits-divers/"]
@@ -50,12 +50,13 @@
   {
     "id": "wagner-threats-2026",
     "priority": "high",
-    "nextReviewAt": "2026-11-14",
+    "nextReviewAt": "2026-12-16",
     "query": "\"Kyle Wagner\" AND (Antifa OR ICE)",
     "signals": ["trial", "plea", "dismissal", "verdict", "Supreme Court"],
     "urls": [
       "https://law.justia.com/cases/federal/appellate-courts/ca6/26-1294/26-1294-2026-08-12.html",
-      "https://www.supremecourt.gov/docket/docketfiles/html/public/26a446.html"
+      "https://www.supremecourt.gov/docket/docketfiles/html/public/26a446.html",
+      "https://www.supremecourt.gov/orders/courtorders/110926zor_ap6c.pdf"
     ]
   },
   {

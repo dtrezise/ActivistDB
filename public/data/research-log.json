@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-11-16",
+    "version": "2.0.7",
+    "type": "case-status-update",
+    "summary": "Updated the Quentin Deranque record after one murder defendant was released under judicial supervision and the prosecutor sought immediate review, and updated the Kyle Wagner record after the Supreme Court denied certiorari in his pretrial-detention appeal. Neither development decides guilt or changes the assessments.",
+    "recordsChanged": [
+      "lyon-deranque",
+      "wagner-threats-2026"
+    ]
+  },
+  {
     "date": "2026-11-10",
     "version": "2.0.6",
     "type": "case-status-update",

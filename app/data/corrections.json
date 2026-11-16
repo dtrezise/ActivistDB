@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-16",
+    "recordId": "lyon-deranque",
+    "type": "case-status-update",
+    "summary": "Recorded the November 12 release under judicial supervision of one defendant charged with murder and the Lyon prosecutor’s request for immediate review, while preserving the pending charge and presumption of innocence.",
+    "changesAssessment": false
+  },
+  {
+    "date": "2026-11-16",
+    "recordId": "wagner-threats-2026",
+    "type": "case-status-update",
+    "summary": "Recorded the Supreme Court’s November 9 denial of certiorari in Wagner’s pretrial-detention appeal and clarified that the denial leaves the detention ruling in place without deciding guilt or the legal question presented.",
+    "changesAssessment": false
+  },
+  {
     "date": "2026-11-10",
     "recordId": "charlie-kirk",
     "type": "case-status-update",

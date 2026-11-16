@@ -321,8 +321,8 @@
     "actors": "Far-left and far-right participants in a street confrontation; fourteen people have been placed under formal investigation",
     "ideology": "Several suspects were linked to radical antifascism or the dissolved Jeune Garde; Deranque was a nationalist / far-right activist",
     "finding": "The core attribution is supported by the investigation. Deranque died from brain injuries after violence involving ultra-left participants; by September 24, fourteen people had been placed under formal investigation, including five newly charged suspects.",
-    "context": "The speech omits that the victim was an active far-right militant and that the death followed a clash between rival political groups near an event. Those facts do not excuse the killing, but they matter to classifying the event. On October 28, anti-terrorism police questioned Jeune Garde cofounder and LFI lawmaker Raphaël Arnault in a voluntary interview; reporting did not say he was charged, and the interview does not establish command or culpability.",
-    "legalStatus": "Fourteen people under formal investigation; three of five defendants charged in September were detained pretrial. Raphaël Arnault was questioned voluntarily on October 28, but reporting did not identify him as charged. All defendants remain presumed innocent.",
+    "context": "The speech omits that the victim was an active far-right militant and that the death followed a clash between rival political groups near an event. Those facts do not excuse the killing, but they matter to classifying the event. On October 28, anti-terrorism police questioned Jeune Garde cofounder and LFI lawmaker Raphaël Arnault in a voluntary interview; reporting did not say he was charged, and the interview does not establish command or culpability. On November 12, a judge released one defendant charged with murder under judicial supervision; the prosecutor sought immediate review to return him to pretrial detention. That custody dispute does not resolve the charge.",
+    "legalStatus": "Fourteen people remain under formal investigation. On November 12, one defendant charged with murder was released under judicial supervision, and the Lyon prosecutor sought immediate review to restore pretrial detention. Raphaël Arnault was questioned voluntarily on October 28, but reporting did not identify him as charged. All defendants remain presumed innocent.",
     "sources": [
       {
         "label": "AP — Eleven arrested",
@@ -359,10 +359,20 @@
         "sourceType": "news",
         "evidenceRole": "current investigative status",
         "accessedAt": "2026-10-29"
+      },
+      {
+        "label": "Le Parisien — Defendant released under judicial supervision",
+        "url": "https://www.leparisien.fr/faits-divers/mort-de-quentin-deranque-un-des-suspects-remis-en-liberte-12-11-2026-43WUNHMTUVC5TA25KKP3NTBBWQ.php",
+        "title": "Mort de Quentin Deranque : un des suspects remis en liberté, le parquet fait appel",
+        "publisher": "Le Parisien",
+        "sourceType": "news",
+        "evidenceRole": "current custody and appeal status",
+        "publishedAt": "2026-11-12",
+        "accessedAt": "2026-11-16"
       }
     ],
-    "reviewedAt": "2026-10-29",
-    "nextReviewAt": "2026-11-07",
+    "reviewedAt": "2026-11-16",
+    "nextReviewAt": "2026-12-16",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "event": "confirmed",
