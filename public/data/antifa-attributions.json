@@ -203,12 +203,12 @@
   {
     "id": "direct-action-minnesota-2026",
     "date": "2026-06-16",
-    "title": "Direct Action Minnesota indictment",
+    "title": "Direct Action Minnesota federal prosecution",
     "status": "pending",
     "claim": "A Minneapolis direct-action group with Antifa ties ran a coordinated harassment and violence campaign against law enforcement.",
-    "evidence": "A federal indictment charges 15 people with conspiracy, threats, stalking, assault, and property destruction. Fourteen defendants pleaded not guilty on July 1; Kyle Wagner separately pleaded not guilty after his transfer. DOJ alleges that the defendants included members of Antifa groups.",
-    "attribution": "The indictment is meaningful evidence of alleged local organization, but the pleas preserve every contested element for trial. The precise nature of the claimed Antifa ties must be tested against the evidence rather than inferred from protest participation.",
-    "scope": "Named local group; indictment pending; not-guilty pleas entered",
+    "evidence": "An October 22 superseding indictment keeps 15 defendants and eight counts. All 15 are charged with conspiracy to impede or injure federal officers; separate counts against particular defendants allege solicitation and threats, stalking, assault, and property destruction. Fourteen defendants previously pleaded not guilty on July 1; Kyle Wagner separately pleaded not guilty after his transfer. The superseding indictment continues to allege that Direct Action Minnesota included members of local Antifa groups.",
+    "attribution": "The superseding indictment is meaningful evidence of an alleged local organization, but it is a charging instrument rather than proof. On October 7, the district court vacated no-contact restrictions for ten defendants, finding that the government had not justified that pretrial condition; the order did not adjudicate the charges. The precise nature of the claimed Antifa ties must be tested against evidence rather than inferred from protest participation.",
+    "scope": "Named local group; superseding indictment pending; prior not-guilty pleas; no adjudication",
     "sources": [
       {
         "label": "DOJ — Direct Action Minnesota indictment",
@@ -227,10 +227,28 @@
         "sourceType": "news",
         "evidenceRole": "current plea status",
         "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "U.S. District Court — superseding indictment",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.308.0.pdf",
+        "title": "United States v. Sant et al., Superseding Indictment, ECF No. 308",
+        "publisher": "U.S. District Court for the District of Minnesota",
+        "sourceType": "court-record",
+        "evidenceRole": "current charging instrument",
+        "accessedAt": "2026-11-17"
+      },
+      {
+        "label": "U.S. District Court — release-conditions order",
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_26-cr-00115/pdf/USCOURTS-mnd-0_26-cr-00115-0.pdf",
+        "title": "United States v. Sant et al., Amended Order on Conditions of Release, ECF No. 290",
+        "publisher": "U.S. District Court for the District of Minnesota",
+        "sourceType": "court-record",
+        "evidenceRole": "judicial procedural ruling",
+        "accessedAt": "2026-11-17"
       }
     ],
-    "reviewedAt": "2026-10-07",
-    "nextReviewAt": "2026-11-07",
+    "reviewedAt": "2026-11-17",
+    "nextReviewAt": "2026-12-17",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "identity": "alleged",

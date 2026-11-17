@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-17",
+    "recordId": "direct-action-minnesota-2026",
+    "type": "case-status-update",
+    "summary": "Recorded the October 22 superseding indictment, separated the conspiracy count against all defendants from defendant-specific counts, and added the October 7 order relaxing release restrictions for ten defendants while preserving the presumption of innocence.",
+    "changesAssessment": false
+  },
+  {
     "date": "2026-11-16",
     "recordId": "administration-policy",
     "type": "policy-status-update",

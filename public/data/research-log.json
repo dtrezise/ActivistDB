@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-17",
+    "version": "2.0.9",
+    "type": "case-status-update",
+    "summary": "Updated the Direct Action Minnesota record with the October 22 superseding indictment and the October 7 release-conditions order. The current charging instrument retains 15 defendants and eight counts while distinguishing the group-wide conspiracy allegation from defendant-specific counts; the judicial order relaxed restrictions for ten defendants without deciding guilt. The assessment remains unchanged and all charges remain unadjudicated.",
+    "recordsChanged": [
+      "direct-action-minnesota-2026"
+    ]
+  },
+  {
     "date": "2026-11-16",
     "version": "2.0.8",
     "type": "policy-status-update",

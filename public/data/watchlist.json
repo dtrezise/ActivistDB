@@ -40,11 +40,13 @@
   {
     "id": "direct-action-minnesota-2026",
     "priority": "high",
-    "nextReviewAt": "2026-11-07",
+    "nextReviewAt": "2026-12-17",
     "query": "\"Direct Action Minnesota\" OR \"United States v. Sant\"",
-    "signals": ["trial", "plea", "dismissal", "verdict", "Antifa ties"],
+    "signals": ["superseding indictment", "trial", "plea", "dismissal", "verdict", "Antifa ties"],
     "urls": [
-      "https://www.justice.gov/usao-mn/pr/15-members-direct-action-minnesota-minneapolis-based-direct-action-group-antifa-ties"
+      "https://www.justice.gov/usao-mn/pr/15-members-direct-action-minnesota-minneapolis-based-direct-action-group-antifa-ties",
+      "https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.308.0.pdf",
+      "https://www.govinfo.gov/content/pkg/USCOURTS-mnd-0_26-cr-00115/pdf/USCOURTS-mnd-0_26-cr-00115-0.pdf"
     ]
   },
   {
