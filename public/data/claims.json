@@ -1196,9 +1196,9 @@
     "confidence": "High",
     "actors": "Thomas Matthew Crooks; Ryan Routh; Cole Tomas Allen, according to separate cases",
     "ideology": "Crooks’ motive unknown; Routh’s politics were inconsistent; Allen expressed anti-Trump and other political grievances",
-    "finding": "Multiple attempts or alleged attempts against Trump occurred. The 2026 Allen case concerns Trump as sitting president and includes evidence of anti-Trump intent.",
-    "context": "The two 2024 incidents occurred while Trump was a former president and candidate. Investigators found no settled ideology for Crooks, and Routh’s record crossed party lines. The plural events cannot all be reliably classified as far-left.",
-    "legalStatus": "Crooks was killed; Routh was convicted; Allen is charged and presumed innocent.",
+    "finding": "Multiple attempts or alleged attempts against Trump occurred. The 2026 Allen case concerns Trump as sitting president and includes evidence of anti-Trump intent. A November 12 superseding indictment added a D.C. count of committing an act of terrorism while armed, alleging that Allen attempted to kill Trump to influence government policy and intimidate the public.",
+    "context": "The two 2024 incidents occurred while Trump was a former president and candidate. Investigators found no settled ideology for Crooks, and Routh’s record crossed party lines. The new terrorism count materially changes the statutory framing of Allen’s case, but it remains an allegation and does not establish guilt, an organizational link, or a uniform far-left classification across the three events.",
+    "legalStatus": "Crooks was killed; Routh was convicted. Allen pleaded not guilty to the original four counts and is presumed innocent. The November 12 superseding indictment adds a fifth count under the D.C. terrorism statute; as of November 13, he had not entered a plea to that new count. Jury selection is scheduled for September 7, 2027.",
     "sources": [
       {
         "label": "DOJ — Cole Allen assassination charge",
@@ -1226,10 +1226,46 @@
         "sourceType": "reference",
         "evidenceRole": "additional context",
         "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "U.S. District Court — Allen superseding indictment",
+        "url": "https://www.justice.gov/usao-dc/media/1472036/dl?inline=",
+        "title": "United States v. Allen, Superseding Indictment, ECF No. 46",
+        "publisher": "U.S. District Court for the District of Columbia",
+        "sourceType": "court-record",
+        "evidenceRole": "current charging instrument",
+        "accessedAt": "2026-11-18"
+      },
+      {
+        "label": "DOJ — terrorism count added in Allen case",
+        "url": "https://www.justice.gov/usao-dc/pr/new-terrorism-charge-filed-against-alleged-shooter-white-house-correspondents",
+        "title": "New Terrorism Charge Filed Against Alleged Shooter at the White House Correspondents’ Association Dinner",
+        "publisher": "U.S. Attorney’s Office for the District of Columbia",
+        "sourceType": "government",
+        "evidenceRole": "official action or allegation",
+        "accessedAt": "2026-11-18"
+      },
+      {
+        "label": "ABC News — Allen terrorism charge and plea status",
+        "url": "https://abcnews.com/amp/Politics/man-accused-white-house-correspondents-association-dinner-shooting/story?id=138118021",
+        "title": "Man accused in White House correspondents' dinner shooting charged with terrorism",
+        "publisher": "ABC News",
+        "sourceType": "news",
+        "evidenceRole": "independent corroboration and current plea status",
+        "accessedAt": "2026-11-18"
+      },
+      {
+        "label": "AP — Allen trial scheduled for September 2027",
+        "url": "https://apnews.com/article/fd0a1d93136b13892e187385403e57f8",
+        "title": "September 2027 trial date set for man charged with attacking White House correspondents’ dinner",
+        "publisher": "Associated Press",
+        "sourceType": "news",
+        "evidenceRole": "current trial schedule",
+        "accessedAt": "2026-11-18"
       }
     ],
-    "reviewedAt": "2026-10-07",
-    "nextReviewAt": "2027-04-07",
+    "reviewedAt": "2026-11-18",
+    "nextReviewAt": "2026-12-18",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "event": "confirmed",

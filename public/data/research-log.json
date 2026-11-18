@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-18",
+    "version": "2.0.10",
+    "type": "case-status-update",
+    "summary": "Updated the Trump-attempts record after a November 12 superseding indictment added a D.C. act-of-terrorism-while-armed count against Cole Tomas Allen. The update records the new statutory allegation, his existing not-guilty pleas, the absence of a plea to the new count as of November 13, and the September 2027 trial schedule. It preserves the presumption of innocence and does not extend the charge into proof of a common far-left ideology or organization across the three incidents.",
+    "recordsChanged": [
+      "trump-attempts"
+    ]
+  },
+  {
     "date": "2026-11-17",
     "version": "2.0.9",
     "type": "case-status-update",

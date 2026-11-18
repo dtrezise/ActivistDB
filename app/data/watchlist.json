@@ -38,6 +38,17 @@
     "urls": ["https://apnews.com/article/1ca0cee0ac75f872037752c2f601b54b"]
   },
   {
+    "id": "trump-attempts",
+    "priority": "high",
+    "nextReviewAt": "2026-12-18",
+    "query": "\"Cole Tomas Allen\"",
+    "signals": ["arraignment", "plea", "motion", "trial", "verdict", "terrorism count"],
+    "urls": [
+      "https://www.justice.gov/usao-dc/pr/new-terrorism-charge-filed-against-alleged-shooter-white-house-correspondents",
+      "https://www.justice.gov/usao-dc/media/1472036/dl?inline="
+    ]
+  },
+  {
     "id": "direct-action-minnesota-2026",
     "priority": "high",
     "nextReviewAt": "2026-12-17",
