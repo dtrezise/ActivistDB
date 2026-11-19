@@ -5,9 +5,9 @@
     "title": "Prairieland ICE detention-center attack",
     "status": "confirmed",
     "claim": "An organized Antifa cell used firearms, explosives, and coordinated tactics against an ICE facility and responding police.",
-    "evidence": "A federal jury convicted nine defendants in March 2026. Prosecutors introduced encrypted planning messages, ideological materials, weapons, fireworks, and evidence that an officer was shot in an ambush.",
-    "attribution": "This is the strongest recent U.S. evidence for a self-consciously Antifa-aligned cell committing organized political violence. The convictions support the cell-level attribution; they do not by themselves prove a national organization.",
-    "scope": "Local cell; criminal conspiracy proven at trial",
+    "evidence": "A federal jury convicted nine defendants in March 2026. Federal judgments imposed prison terms of 30 to 100 years on the nine trial defendants in June and July; seven defendants who pleaded guilty received terms ranging from about 22 months to 15 years. The trial evidence included encrypted planning messages, ideological materials, weapons, fireworks, and evidence that an officer was shot. The nine trial defendants filed notices of appeal.",
+    "attribution": "This is the strongest recent U.S. evidence for a self-consciously Antifa-aligned local cell committing organized political violence. The convictions and judgments establish defendant-specific crimes and support the cell-level attribution. They do not prove that every defendant had the same role, that the executive branch's domestic-terrorist label created the criminal offenses, or that a national Antifa command directed the attack. Defense lawyers disputed the government's broader Antifa characterization and the sentences remain subject to appeal.",
+    "scope": "Local cell; convictions and sentences on appeal",
     "sources": [
       {
         "label": "DOJ — Nine Antifa cell members convicted",
@@ -26,10 +26,60 @@
         "sourceType": "news",
         "evidenceRole": "additional context",
         "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "U.S. District Court — Song judgment",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txnd.410488/gov.uscourts.txnd.410488.587.0.pdf",
+        "title": "United States v. Song, Judgment in a Criminal Case, ECF No. 587",
+        "publisher": "U.S. District Court for the Northern District of Texas",
+        "sourceType": "court-record",
+        "evidenceRole": "adjudicated offenses and 100-year sentence",
+        "publishedAt": "2026-06-23",
+        "accessedAt": "2026-11-19"
+      },
+      {
+        "label": "DOJ — Eight trial defendants sentenced",
+        "url": "https://www.justice.gov/usao-ndtx/pr/leader-antifa-cell-members-north-texas-sentenced-100-years-prison-terrorist-attack-ice",
+        "title": "Leader of Antifa Cell Members in North Texas Sentenced to 100 Years in Prison for Terrorist Attack on ICE Facility",
+        "publisher": "U.S. Attorney's Office for the Northern District of Texas",
+        "sourceType": "government",
+        "evidenceRole": "official sentencing summary and government characterization",
+        "publishedAt": "2026-06-23",
+        "accessedAt": "2026-11-19"
+      },
+      {
+        "label": "KERA — Remaining sentences and appeals",
+        "url": "https://www.keranews.org/criminal-justice/2026-07-01/prairieland-ice-detention-center-shooting-trial-defendant-prison-sentence-guilty-pleas-antifa-texas",
+        "title": "Ninth Prairieland defendant sentenced to 50 years in prison, 6 who pleaded guilty get 2-15 years",
+        "publisher": "KERA News",
+        "sourceType": "news",
+        "evidenceRole": "independent sentencing, defense-position, and appeal context",
+        "publishedAt": "2026-07-01",
+        "accessedAt": "2026-11-19"
+      },
+      {
+        "label": "KERA — Final federal defendant sentenced",
+        "url": "https://www.keranews.org/criminal-justice/2026-07-06/final-prairieland-ice-detention-center-shooting-federal-defendant-sentenced-antifa-texas-terrorism",
+        "title": "Final Prairieland federal defendant sentenced to 6 years in prison",
+        "publisher": "KERA News",
+        "sourceType": "news",
+        "evidenceRole": "completion of federal sentencings",
+        "publishedAt": "2026-07-06",
+        "accessedAt": "2026-11-19"
+      },
+      {
+        "label": "Fifth Circuit — Consolidated appeal docket",
+        "url": "https://dockets.justia.com/docket/circuit-courts/ca5/26-10597",
+        "title": "United States v. Soto, No. 26-10597",
+        "publisher": "U.S. Court of Appeals for the Fifth Circuit (via Justia)",
+        "sourceType": "court-record",
+        "evidenceRole": "pending consolidated appellate proceedings",
+        "publishedAt": "2026-06-29",
+        "accessedAt": "2026-11-19"
       }
     ],
-    "reviewedAt": "2026-10-07",
-    "nextReviewAt": "2027-04-07",
+    "reviewedAt": "2026-11-19",
+    "nextReviewAt": "2027-01-19",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "identity": "established",
@@ -38,7 +88,7 @@
       "coordination": "established",
       "command": "local-only",
       "networkLink": "unproven",
-      "adjudication": "convicted"
+      "adjudication": "convicted-and-sentenced-appeals-pending"
     }
   },
   {

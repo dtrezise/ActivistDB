@@ -1,5 +1,16 @@
 [
   {
+    "id": "prairieland-2025",
+    "priority": "high",
+    "nextReviewAt": "2027-01-19",
+    "query": "Prairieland AND (Song OR Rueda OR Sanchez-Estrada) AND appeal",
+    "signals": ["appeal brief", "oral argument", "opinion", "vacatur", "resentencing", "state trial"],
+    "urls": [
+      "https://dockets.justia.com/docket/circuit-courts/ca5/26-10597",
+      "https://storage.courtlistener.com/recap/gov.uscourts.txnd.410488/gov.uscourts.txnd.410488.587.0.pdf"
+    ]
+  },
+  {
     "id": "greece-nestora",
     "priority": "high",
     "nextReviewAt": "2026-11-07",

@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-19",
+    "version": "2.0.11",
+    "type": "case-status-update",
+    "summary": "Updated the Prairieland record with the June and July federal sentences and the pending Fifth Circuit appeals. The update distinguishes the defendant-specific convictions and sentences from the executive branch's broader Antifa framing, records the defense dispute, and preserves the finding that the case establishes a local cell rather than a national command structure.",
+    "recordsChanged": [
+      "prairieland-2025"
+    ]
+  },
+  {
     "date": "2026-11-18",
     "version": "2.0.10",
     "type": "case-status-update",
