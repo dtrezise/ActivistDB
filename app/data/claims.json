@@ -206,11 +206,11 @@
     "category": "Contemporary Europe",
     "verdict": "pending",
     "confidence": "Medium",
-    "actors": "Four arrested suspects; victim Vagia Nestora; her daughter Afroditi Nestora, a New Democracy official and former candidate",
+    "actors": "Four defendants: two alleged direct participants and two accused of helping provide access to an apartment allegedly used in connection with the attack; victim Vagia Nestora and her daughter Afroditi Nestora, a New Democracy official and former candidate",
     "ideology": "The political targets were associated with Greece’s center-right New Democracy party. Reporting on the defendants’ court appearance places supporters in the anti-authoritarian milieu, but the defendants’ individual motives remain allegations to be tested.",
-    "finding": "The fatal attack and political target are real. Four defendants are in pretrial detention, and prosecutors have charged them with homicide-related offenses, explosives and arson offenses, and participation in a terrorist organization. In October, the investigating magistrate sought supplemental statements as the terrorism-law treatment was strengthened.",
-    "context": "The victim’s age was reported as 72 by AP and 75 in some local coverage. Charges under a terrorism statute and political-target evidence materially strengthen the political-violence attribution; they do not establish guilt, a far-left command structure, or the precise motive before trial.",
-    "legalStatus": "Four defendants detained pretrial; terrorism-law and homicide allegations pending as of October 7, 2026.",
+    "finding": "The fatal attack and political target are documented. The four defendants face homicide-related, explosives and arson charges, as well as allegations of participation in a terrorist organization. All four gave supplemental statements to the investigating magistrate by October 23 after authorities reclassified alleged acts under the terrorism law.",
+    "context": "The victim’s age was reported as 72 by AP and 75 in some local coverage. One defendant accused of helping provide the apartment denied involvement and said he did not know its intended use. The target’s politics are relevant, but the charges and detention decisions do not prove any defendant’s guilt or precise motive, or establish a far-left command structure.",
+    "legalStatus": "Local court reporting said all four remained in pretrial detention after the supplemental hearings concluded on October 23, 2026. No trial referral or adjudication was located in the sources reviewed. All four are presumed innocent.",
     "sources": [
       {
         "label": "AP — Arrests in fatal Greek firebombing",
@@ -236,12 +236,42 @@
         "title": "ERT — Supplemental statements on terrorism-law allegations",
         "publisher": "ERT News",
         "sourceType": "public-broadcaster-news",
-        "evidenceRole": "current case status",
+        "evidenceRole": "initial supplemental-hearing reports",
         "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "SKAI — Supplemental hearing and defendant’s denial",
+        "url": "https://www.skai.gr/news/greece/ypothesi-nestora-sympliromatiki-apologia-edose-o-24xronos-idioktitis-tou-diamerismatos",
+        "title": "Nestora case: Apartment owner gives supplemental statement",
+        "publisher": "SKAI",
+        "sourceType": "news",
+        "evidenceRole": "alleged roles, defense position, and procedural status",
+        "publishedAt": "2026-10-15",
+        "accessedAt": "2026-11-25"
+      },
+      {
+        "label": "Thestival — Supplemental hearings concluded",
+        "url": "https://www.thestival.gr/eidiseis/dikastika/thessaloniki-sti-fylaki-xana-o-25chronos/",
+        "title": "Thessaloniki: Defendant remains in custody in fatal Nestora firebombing case",
+        "publisher": "Thestival",
+        "sourceType": "news",
+        "evidenceRole": "completion of supplemental hearings and custody decision",
+        "publishedAt": "2026-10-23",
+        "accessedAt": "2026-11-25"
+      },
+      {
+        "label": "The Opinion — Continued pretrial detention",
+        "url": "https://www.theopinion.gr/reportaz/tromokratiko-chtypima-stin-oikia-nestora-epestrepse-sti-fylaki-o-25chronos-meta-ti-sympliromatiki-apologia-toy/",
+        "title": "Nestora case: Defendant returned to detention after supplemental statement",
+        "publisher": "The Opinion",
+        "sourceType": "news",
+        "evidenceRole": "independent corroboration of completed hearings and detention of all four defendants",
+        "publishedAt": "2026-10-23",
+        "accessedAt": "2026-11-25"
       }
     ],
-    "reviewedAt": "2026-10-07",
-    "nextReviewAt": "2026-11-07",
+    "reviewedAt": "2026-11-25",
+    "nextReviewAt": "2026-12-25",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "event": "confirmed",

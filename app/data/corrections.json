@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-25",
+    "recordId": "greece-nestora",
+    "type": "case-status-update",
+    "summary": "Replaced the October 7 procedural snapshot with the reported completion of all four supplemental hearings on October 23 and continued pretrial detention. Neither development adjudicates the charges or proves the defendants’ motives.",
+    "changesAssessment": false
+  },
+  {
     "date": "2026-11-19",
     "recordId": "prairieland-2025",
     "type": "case-status-update",

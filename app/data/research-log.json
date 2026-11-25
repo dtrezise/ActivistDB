@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-25",
+    "version": "2.0.12",
+    "type": "case-status-update",
+    "summary": "Updated the Nestora firebombing record after Greek court reporters confirmed that all four defendants gave supplemental statements by October 23 and remained in pretrial detention at that point. The update distinguishes the alleged roles, records one defendant’s denial, and leaves the pending assessment unchanged.",
+    "recordsChanged": [
+      "greece-nestora"
+    ]
+  },
+  {
     "date": "2026-11-19",
     "version": "2.0.11",
     "type": "case-status-update",

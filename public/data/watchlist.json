@@ -13,7 +13,7 @@
   {
     "id": "greece-nestora",
     "priority": "high",
-    "nextReviewAt": "2026-11-07",
+    "nextReviewAt": "2026-12-25",
     "query": "\"Afroditi Nestora\" OR \"Vagia Nestora\"",
     "signals": ["indictment", "trial", "judgment", "terrorism law", "motive", "claim of responsibility"],
     "urls": [
