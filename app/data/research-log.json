@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-11-26",
+    "version": "2.0.13",
+    "type": "case-status-update",
+    "summary": "Updated the Antifa Ost record and related speech claim with defendant-specific German and Hungarian judgments, the German constitutional ruling on a surrender order, the status of the separate Dresden trial, and the Paris court’s November 25 postponement of a surrender decision until January 6. The findings on the named network and the lack of proof of an integrated global command are unchanged.",
+    "recordsChanged": [
+      "antifa-ost",
+      "transnational-antifa-network"
+    ]
+  },
+  {
     "date": "2026-11-25",
     "version": "2.0.12",
     "type": "case-status-update",

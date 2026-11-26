@@ -382,13 +382,13 @@
   },
   {
     "id": "antifa-ost",
-    "date": "2018–present",
-    "title": "Antifa Ost in Germany",
+    "date": "2018 onward · related proceedings continue",
+    "title": "Antifa Ost: Germany and the Budapest cases",
     "status": "confirmed",
     "claim": "A named European Antifa group organized cross-border assaults on perceived far-right targets.",
-    "evidence": "German and Hungarian cases, U.S. intelligence reporting, and prosecutions identify a discrete militant network whose members allegedly planned and carried out coordinated attacks.",
-    "attribution": "Unlike the U.S. umbrella movement, Antifa Ost is a specific named network. Its existence cannot be generalized into proof that every group using “antifa” belongs to one international organization.",
-    "scope": "Specific foreign organization",
+    "evidence": "Lina E.’s 2023 Dresden conviction became final in March 2025. In a separate case, a Munich court sentenced Hanna S. to five years in September 2025 for membership in a criminal association and aggravated assault in two of the 2023 Budapest attacks; the judgment was not final when issued. On September 30, 2026, the Budapest appeals court confirmed convictions in its own proceedings, reducing Maja T.’s sentence from eight to seven years.",
+    "attribution": "These judgments concern specific defendants and attacks. They support attribution to a discrete militant network with cross-border activity, not to a single global Antifa command. Germany’s Federal Constitutional Court separately held that the German order authorizing Maja T.’s surrender to Hungary violated EU fundamental-rights protections; it did not decide criminal guilt. A separate Dresden trial continued against six defendants after one defendant’s case was severed; that defendant died in October without a verdict. On November 25, the Paris Court of Appeal deferred its decision on Hungary’s surrender request for Zaid Altayeb until January 6, 2027, according to AFP reporting. Altayeb denies the allegations and is presumed innocent.",
+    "scope": "Specific cross-border network; defendant-specific judgments and unresolved proceedings",
     "sources": [
       {
         "label": "NCTC — Antifa Ost",
@@ -407,10 +407,69 @@
         "sourceType": "news",
         "evidenceRole": "additional context",
         "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "German Federal Court of Justice — Final Dresden conviction",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Seite=10&Sort=9216&anz=1078&nr=141691&pos=306",
+        "title": "Federal Court of Justice order confirming finality of the Dresden judgment against Lina E.",
+        "publisher": "Federal Court of Justice (Germany)",
+        "sourceType": "court-record",
+        "evidenceRole": "finality of the 2023 conviction after review on March 19, 2025",
+        "accessedAt": "2026-11-26"
+      },
+      {
+        "label": "Munich Higher Regional Court — Budapest assaults judgment",
+        "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/oberlandesgerichte/muenchen/presse/2025/67.php",
+        "title": "Criminal proceedings against Hanna S. — judgment announcement",
+        "publisher": "Munich Higher Regional Court",
+        "sourceType": "government",
+        "evidenceRole": "official account of trial findings, convictions, and sentence; not final when issued",
+        "publishedAt": "2025-09-26",
+        "accessedAt": "2026-11-26"
+      },
+      {
+        "label": "Telex — Budapest appeal judgment",
+        "url": "https://telex.hu/belfold/2026/09/30/antifa-ugy-maja-t-masodfoku-itelet",
+        "title": "Budapest appeals court reduces sentences in the antifascist assault case",
+        "publisher": "Telex",
+        "sourceType": "news",
+        "evidenceRole": "court reporting on final convictions and defendant-specific sentences",
+        "publishedAt": "2026-09-30",
+        "accessedAt": "2026-11-26"
+      },
+      {
+        "label": "German Federal Constitutional Court — Surrender order",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2025/01/rk20250124_2bvr110324en.html",
+        "title": "Order of 24 January 2025, 2 BvR 1103/24",
+        "publisher": "Federal Constitutional Court (Germany)",
+        "sourceType": "court-record",
+        "evidenceRole": "rights ruling on authorization to surrender Maja T.; not a ruling on the assaults",
+        "publishedAt": "2025-01-24",
+        "accessedAt": "2026-11-26"
+      },
+      {
+        "label": "beck-aktuell / dpa — Separate Dresden trial",
+        "url": "https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/olg-dresden-angeklagter-lina-e-antifa-ost-prozess-suizid-2026-10-26",
+        "title": "Death of a defendant whose case had been separated from the Antifa Ost trial",
+        "publisher": "beck-aktuell / dpa",
+        "sourceType": "news",
+        "evidenceRole": "court spokesperson on severance and continuation against six defendants",
+        "publishedAt": "2026-10-26",
+        "accessedAt": "2026-11-26"
+      },
+      {
+        "label": "HVG / AFP — Paris postpones surrender decision",
+        "url": "https://hvg.hu/itthon/20261126_antifaugy-szir-gyanusitott-kiadatas-franciaorszag-birosag-dontes",
+        "title": "Decision on Hungary’s surrender request postponed to January",
+        "publisher": "HVG (reporting from AFP)",
+        "sourceType": "news",
+        "evidenceRole": "surrender hearing status and the accused person’s denial",
+        "publishedAt": "2026-11-26",
+        "accessedAt": "2026-11-26"
       }
     ],
-    "reviewedAt": "2026-10-07",
-    "nextReviewAt": "2027-04-07",
+    "reviewedAt": "2026-11-26",
+    "nextReviewAt": "2027-01-06",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {
       "identity": "established",

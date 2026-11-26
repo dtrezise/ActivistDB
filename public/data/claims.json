@@ -1393,7 +1393,7 @@
     "confidence": "Medium",
     "actors": "Antifa Ost; Informal Anarchist Federation / International Revolutionary Front; Armed Proletarian Justice; Revolutionary Class Self-Defense; diffuse antifascist militants",
     "ideology": "Anarchist, anti-capitalist, and militant antifascist tendencies",
-    "finding": "Some named groups commit real violence, Antifa Ost members allegedly traveled across borders for attacks, and FAI/FRI uses a transnational franchise-like label. In August 2026, Treasury also sanctioned the Italian digital-services collective Autistici/Inventati for alleged material support and sanctioned Palestine Action and Masar Badil under counterterrorism authority.",
+    "finding": "Some named groups commit real violence. German and Hungarian judgments in the Budapest assault cases document cross-border activity by a specific militant network; they do not establish coordination between the groups named here. FAI/FRI uses a transnational franchise-like label. In August 2026, Treasury sanctioned Autistici/Inventati for alleged material support and sanctioned Palestine Action and Masar Badil under counterterrorism authority.",
     "context": "Public evidence still does not establish a single command, shared financial system, training pipeline, or safe-house network joining these groups across Europe and the Americas. The August action demonstrates the administration’s widening use of financial authorities; Treasury’s public notice states its findings but does not disclose underlying evidence sufficient to validate every network inference independently.",
     "legalStatus": "Multiple foreign groups and support entities designated or sanctioned by the U.S.; executive designation is legally consequential but not a criminal conviction or proof of every asserted tie.",
     "sources": [
@@ -1432,9 +1432,29 @@
         "sourceType": "government",
         "evidenceRole": "official sanctions action and allegations",
         "accessedAt": "2026-10-07"
+      },
+      {
+        "label": "Munich Higher Regional Court — Budapest assaults judgment",
+        "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/oberlandesgerichte/muenchen/presse/2025/67.php",
+        "title": "Criminal proceedings against Hanna S. — judgment announcement",
+        "publisher": "Munich Higher Regional Court",
+        "sourceType": "government",
+        "evidenceRole": "official account of trial findings, convictions, and sentence; not final when issued",
+        "publishedAt": "2025-09-26",
+        "accessedAt": "2026-11-26"
+      },
+      {
+        "label": "Telex — Budapest appeal judgment",
+        "url": "https://telex.hu/belfold/2026/09/30/antifa-ugy-maja-t-masodfoku-itelet",
+        "title": "Budapest appeals court reduces sentences in the antifascist assault case",
+        "publisher": "Telex",
+        "sourceType": "news",
+        "evidenceRole": "court reporting on final convictions and defendant-specific sentences",
+        "publishedAt": "2026-09-30",
+        "accessedAt": "2026-11-26"
       }
     ],
-    "reviewedAt": "2026-10-07",
+    "reviewedAt": "2026-11-26",
     "nextReviewAt": "2027-04-07",
     "reviewer": "OpenAI Codex-assisted editorial review; independent human review pending",
     "dimensions": {

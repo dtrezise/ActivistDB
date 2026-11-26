@@ -1,5 +1,16 @@
 [
   {
+    "id": "antifa-ost",
+    "priority": "high",
+    "nextReviewAt": "2027-01-06",
+    "query": "\"Antifa Ost\" OR \"Budapest-Komplex\" OR \"Zaid Altayeb\"",
+    "signals": ["judgment", "appeal", "surrender decision", "Urteil", "Revision", "kiadatás"],
+    "urls": [
+      "https://www.justiz.bayern.de/gerichte-und-behoerden/oberlandesgerichte/muenchen/presse/2025/67.php",
+      "https://hvg.hu/itthon/20261126_antifaugy-szir-gyanusitott-kiadatas-franciaorszag-birosag-dontes"
+    ]
+  },
+  {
     "id": "prairieland-2025",
     "priority": "high",
     "nextReviewAt": "2027-01-19",
